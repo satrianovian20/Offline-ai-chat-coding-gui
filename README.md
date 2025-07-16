@@ -60,6 +60,15 @@ Install Python 3.10 dari https://www.python.org/downloads/release/python-3100/
 
 ---
 
+### 💖 Dukung Proyek Ini
+
+Jika kamu merasa proyek ini bermanfaat dan ingin mendukung pengembangannya, kamu bisa berdonasi melalui:
+
+- 💸 [Saweria](https://saweria.co/satrianovian20)
+- ☕ [PayPal](https://www.paypal.com/paypalme/satrianovian)
+
+Terima kasih banyak atas dukungannya! 🙏
+
 ### 2. Clone atau Download Proyek Ini
 
 ```bash
