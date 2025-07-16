@@ -56,3 +56,15 @@ Install Python 3.10 dari https://www.python.org/downloads/release/python-3100/
 ```bash
 git clone https://github.com/satrianovian20/offline-ai-chat-coding-gui.git
 cd offline-ai-chat-coding-gui
+
+☕ Penutup
+Proyek ini dibuat karena keterbatasan memunculkan inovasi. Saya juga pernah pusing karena WebUI dari GitHub gagal jalan, sampai akhirnya saya:
+
+Buat GUI sendiri
+
+Cuma pakai 1 file Python untuk AI Chat & Coding
+
+Bisa sambil nonton YouTube 😄
+
+💬 Kalau kamu juga merasakan manfaatnya, bantu bintang repo ini!
+Supaya tidak ada lagi yang pusing karena “AI-nya gak bisa jalan...” 😅
