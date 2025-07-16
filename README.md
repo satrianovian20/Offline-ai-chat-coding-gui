@@ -54,5 +54,5 @@ Install Python 3.10 dari https://www.python.org/downloads/release/python-3100/
 ### 2. Clone atau Download Proyek Ini
 
 ```bash
-git clone https://github.com/NamaKamu/offline-ai-gui.git
-cd offline-ai-gui
+git clone https://github.com/satrianovian20/offline-ai-chat-coding-gui.git
+cd offline-ai-chat-coding-gui
