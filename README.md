@@ -35,7 +35,7 @@ Proyek ini adalah GUI Python ringan (Tkinter) untuk menjalankan model AI lokal (
 | Komponen         | Minimum                    |
 |------------------|-----------------------------|
 | Prosesor         | i3/i5 Gen 8+ (atau Ryzen 3+) |
-| RAM              | 8 GB (direkomendasikan 16 GB)|
+| RAM              | 16 GB (direkomendasikan 32 GB)|
 | GPU              | GTX 1650 / setara (VRAM 4GB) |
 | OS               | Windows 10/11 64-bit        |
 | Python           | 3.10+                       |
