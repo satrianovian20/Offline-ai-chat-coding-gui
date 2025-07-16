@@ -5,6 +5,14 @@ GUI Python ringan (Tkinter) untuk menjalankan AI chat &amp; coding dengan model 
 Proyek ini adalah GUI Python ringan (Tkinter) untuk menjalankan model AI lokal (format `.gguf` seperti LLaMA 7B atau WizardLM 13B) di PC Windows biasa dengan GPU seperti **GTX 1650 Super**. Tanpa Flask. Tanpa Gradio. Tanpa ribet. Hanya Python satu file + model!
 
 ---
+🤝 Kontribusi & Kredit
+👨‍💻 Creator: [satrianovian20] – Modifikasi GUI offline dengan Tkinter
+
+✍️ Kontributor AI Script & Fixer Error: ChatGPT
+
+🔁 Model by Meta (LLaMA), WizardLM, dan komunitas open-source
+
+💡 Terinspirasi oleh kesulitan real pengguna dengan PC low-end
 
 ## 🔥 Fitur Unggulan
 
