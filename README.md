@@ -79,6 +79,16 @@ GUI Python ini berhasil menjalankan model besar seperti `llama-2-13b-chat.Q4_K_M
 
 📸 Bukti: Sudah dilampirkan screenshot dan log lengkap di repo
 
+🧠 Uji Stabilitas Memori – Model 13B (Q4_K_M)
+Diuji menggunakan model llama-2-13b-chat.Q4_K_M.gguf dengan backend llama.cpp versi b5899.
+
+Kondisi Penggunaan	Penggunaan RAM
+Saat Aktif Digunakan	~15.5–16.0 GB
+Saat Idle (Tidak Dipakai)	~12.3–12.4 GB
+
+✅ Stabil dan efisien bahkan untuk model 13B pada PC dengan RAM 16GB.
+⚠️ Tanpa GPU, dijalankan sepenuhnya di CPU via llama-server.exe.
+
 💡 Kesimpulan Buat Pengguna GUI:
 Kalau user punya RAM:
 
@@ -169,6 +179,16 @@ Model: 13B GGUF (Q4_K_M)
 GUI: Custom-built Python script (only 10KB)
 
 📸 Proof: Full logs and screenshots are already included in the repository.
+
+🧠 Memory Stability Test – 13B Model (Q4_K_M)
+Tested with llama-2-13b-chat.Q4_K_M.gguf using llama.cpp b5899 backend.
+
+State	RAM Usage
+Active Use	~15.5–16.0 GB
+Idle (not used)	~12.3–12.4 GB
+
+✅ Stable and efficient even with 13B models on 16GB RAM setup.
+⚠️ No GPU required. CPU-only run using llama-server.exe.
 
 💡 Summary for GUI Users:
 
