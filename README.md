@@ -34,6 +34,13 @@ Proyek ini adalah GUI Python ringan (Tkinter) untuk menjalankan model AI lokal (
 | 💬 Chat & Coding Mode           | ✅ Sangat cocok                  | ✅ Cocok, tapi lebih berat            |
 | 🤯 Respons Not Responding?     | Hanya saat proses berat          | Sering delay jika RAM kritis         |
 
+### 📊 Dokumentasi Perbandingan RAM Saat Idle
+
+| **File GUI Python**          | **RAM Saat Model Aktif** | **RAM Saat Idle** | **Efisiensi Idle**     |
+|-----------------------------|---------------------------|-------------------|-------------------------|
+| `llamacpp_gui_mode.py`      | 15.5 GB                   | 15.5 GB           | ❌ Tetap tinggi         |
+| `llamacpp_gui_combinedv8.py`| 15.5 GB                   | 12.5 GB           | ✅ Turun normal         |
+
 ---
 
 ## 🇮🇩 Bahasa Indonesia
