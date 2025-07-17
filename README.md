@@ -28,6 +28,16 @@ GUI lokal untuk LLaMA.cpp:
 Versi di atas adalah satu-satunya yang telah diuji berhasil memuat model lewat GUI ini.
 Versi di atas b900 tidak kompatibel dan menyebabkan gagal muat model (blank, stuck, atau crash).
 
+✅ GUI AI Lokal ini telah diuji:
+📌 Model: Mistral-7B-Instruct-v0.3 (q4_k_m.gguf)
+🧠 Tanpa GPU, hanya CPU (llama.cpp b5899)
+💻 RAM 16GB — Penggunaan hanya 12.1GB
+🎵 Multitasking lancar: ChatGPT + YouTube + GitHub + Musik
+
+🚀 Efisien, ringan, dan cocok untuk PC rumahan.
+📁 Unduh llama.cpp versi b5899 (wajib):
+https://github.com/ggml-org/llama.cpp/releases/download/b5899/llama-b5899-bin-win-cpu-x64.zip
+
 ---
 
 ## 🌐 English (International)
@@ -62,6 +72,16 @@ OS	Windows 10/11 64-bit
 
 ⚠️ You can run 7B model on 8GB RAM, but expect very slow performance.
 Best experience starts at 16GB RAM or more.
+
+✅ This Local AI Chat & Coding GUI has been tested:
+📌 Model: Mistral-7B-Instruct-v0.3 (q4_k_m.gguf)
+🧠 CPU-only (no GPU) using llama.cpp b5899
+💻 16GB RAM system — Only 12.1GB usage
+🎵 Smooth multitasking: ChatGPT + YouTube + GitHub + Music
+
+🚀 Efficient, lightweight, and perfect for personal PCs.
+📁 Must use llama.cpp build b5899:
+https://github.com/ggml-org/llama.cpp/releases/download/b5899/llama-b5899-bin-win-cpu-x64.zip
 
 ---
 🤝 Kontribusi & Kredit
