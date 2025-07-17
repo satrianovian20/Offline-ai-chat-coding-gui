@@ -4,6 +4,14 @@ GUI Python ringan (Tkinter) untuk menjalankan AI chat &amp; coding dengan model 
 
 Proyek ini adalah GUI Python ringan (Tkinter) untuk menjalankan model AI lokal (format `.gguf` seperti LLaMA 7B atau WizardLM 13B) di PC Windows biasa dengan GPU seperti **GTX 1650 Super**. Tanpa Flask. Tanpa Gradio. Tanpa ribet. Hanya Python satu file + model!
 
+🇮🇩 Bahasa Indonesia:
+
+🎉 Pertama kalinya dalam sejarah: Model AI 13B (Q4_K_M) berhasil dijalankan hanya dengan RAM 16GB — tanpa GPU, tanpa web server, cukup dengan GUI Python ukuran 10KB! Bukti nyata efisiensi maksimal 💪
+
+🇬🇧 English Version:
+
+🎉 First time in history: A 13B (Q4_K_M) AI model runs smoothly with just 16GB RAM — no GPU, no web server, only a 10KB Python GUI! Proof of ultimate efficiency 💪
+
 > 🇮🇩 This project is primarily documented in Indonesian.
 > 🇬🇧 English overview is provided below.
 
