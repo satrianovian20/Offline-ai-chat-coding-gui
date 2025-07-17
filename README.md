@@ -98,6 +98,31 @@ Kalau user punya RAM:
 
 >16GB: Bisa gas model 13B seperti Yi-13B, OpenHermes 13B, dll.
 
+📌 Bonus Penjelasan Visual (Flowchart Saran)
+
+csharp
+Copy
+Edit
+[Mulai GUI]
+   ↓
+[Load Model]
+   → RAM = 15.5GB
+   → CPU 60%
+   ↓
+[Model Idle]
+   → RAM = 12.3GB
+   → CPU 5%
+   ↓
+[Prompt Masuk]
+   → CPU 100%
+   ↓
+[Generate Response]
+   → Output OK
+   ↓
+[Idle Lagi]
+   → RAM tetap
+   → CPU turun
+
 ---
 
 ## 🌐 English (International)
@@ -213,6 +238,31 @@ Model idle	~14.7 GB
 After inactivity	~12.3 GB
 
 ✅ Memory automatically freed when model is not actively used.
+
+📌 Bonus Visual Explanation (Suggested Flowchart)
+
+csharp
+Copy
+Edit
+[Start GUI]
+   ↓
+[Load Model]
+   → RAM = 15.5GB
+   → CPU 60%
+   ↓
+[Model Idle]
+   → RAM = 12.3GB
+   → CPU 5%
+   ↓
+[Prompt Received]
+   → CPU 100%
+   ↓
+[Generate Response]
+   → Output OK
+   ↓
+[Back to Idle]
+   → RAM stable
+   → CPU drops
 
 ---
 🤝 Kontribusi & Kredit
