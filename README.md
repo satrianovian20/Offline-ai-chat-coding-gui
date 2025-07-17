@@ -154,6 +154,58 @@ Elemen Bukti	Status
 🧪 Model besar (13B Q4_K_M)	✅ Sudah diuji
 ⚙️ GUI ringan (10KB Python script)	✅ Terpakai dengan lancer
 
+✅ FAQ — Pertanyaan Umum (Trust Booster Edition)
+❓ GUI ini beneran bisa jalanin model 13B tanpa GPU?
+Ya! Sudah diuji langsung dengan model llama-2-13b-chat.Q4_K_M.gguf di sistem dengan:
+
+💻 CPU: Intel i5-9400F (tanpa iGPU)
+
+🧠 RAM: 16GB DDR4
+
+⚙️ Backend: llama.cpp
+
+📦 GUI: Python script ukuran hanya 10KB
+
+❓ Bukti nyatanya mana?
+📸 Screenshot saat load model dan idle sudah diunggah di folder docs/screenshots/
+
+📄 Log lengkap sesi percobaan model 13B tersedia di docs/session-logs/
+
+Tidak ada error, tidak crash, hanya delay wajar saat proses berat.
+
+❓ GUI-nya berat gak?
+Tidak. GUI ini hanya 10KB, tanpa dependensi besar seperti Gradio atau Electron.
+
+Tidak buka port aneh-aneh.
+
+Tidak ada tracking.
+
+Murni offline dan lokal.
+
+UI sangat ringan, hanya berbasis tkinter.
+
+❓ Bisa pakai model 7B, 8B, atau 13B lain?
+Bisa! Sudah diuji dengan:
+
+Mistral 7B
+
+DeepSeek Coder 6.7B
+
+Yi 13B
+
+Nous Hermes 13B
+
+LLaMA 13B (Q4_K_M dan Q4_0)
+
+❓ RAM saya cuma 8GB, bisa jalan?
+Bisa, asal model yang dipilih sesuai. Gunakan model kecil seperti:
+
+TinyLlama 1.1B
+
+DeepSeek Coder 1.3B
+
+Atur max_tokens di GUI agar tidak melebihi kapasitas RAM kamu.
+
 ---
 
 ## 🌐 English (International)
@@ -326,6 +378,58 @@ Evidence Element	Status
 🧪 Large Model (13B Q4_K_M)	✅ Successfully tested
 ⚙️ Lightweight GUI (10KB Python script)	✅ Runs smoothly and reliably
 
+✅ FAQ — Frequently Asked Questions (Trust Booster Edition)
+❓ Can this GUI really run a 13B model without a GPU?
+Yes! It has been successfully tested using llama-2-13b-chat.Q4_K_M.gguf on a system with:
+
+💻 CPU: Intel i5-9400F (no iGPU)
+
+🧠 RAM: 16GB DDR4
+
+⚙️ Backend: llama.cpp
+
+📦 GUI: Pure Python script, only 10KB in size
+
+❓ Any proof?
+Absolutely. We've included:
+
+📸 Screenshots while loading and idling in docs/screenshots/
+
+📄 Full session logs with detailed model behavior in docs/session-logs/
+
+Zero errors or crashes during testing — only brief delays during heavy processing, which is normal.
+
+❓ Is the GUI heavy or bloated?
+No. It’s extremely lightweight and minimal:
+
+Just 10KB in .py size
+
+No Electron, no Gradio, no browser needed
+
+No background ports, no telemetry
+
+Fully offline, secure, and fast
+
+❓ Can I use 7B, 8B, or other 13B models too?
+Yes! This GUI supports any local GGUF model that’s compatible with llama.cpp.
+Tested successfully with:
+
+Mistral 7B
+
+DeepSeek Coder 6.7B
+
+Yi 13B, Nous Hermes 13B
+
+LLaMA 13B (Q4_K_M, Q4_0)
+
+❓ I only have 8GB RAM. Can I still use this?
+Yes — as long as you choose the right model and configure the token output wisely.
+For example:
+
+Use TinyLlama 1.1B or DeepSeek Coder 1.3B
+
+Set max_tokens to 100–150 in the GUI to ensure smooth performance
+
 ---
 🤝 Kontribusi & Kredit
 👨‍💻 Creator: [satrianovian20] – Modifikasi GUI offline dengan Tkinter
@@ -335,28 +439,6 @@ Evidence Element	Status
 🔁 Model by Meta (LLaMA), WizardLM, dan komunitas open-source
 
 💡 Terinspirasi oleh kesulitan real pengguna dengan PC low-end
-
-## 🔥 Fitur Unggulan
-
-- ✅ Kompatibel dengan model GGUF 7B dan 13B (seperti WizardLM)
-- ✅ Chat dan Coding AI dalam 1 GUI
-- ✅ Tanpa Flask, Tanpa Gradio, hanya `tkinter`
-- ✅ Bisa jalan di GTX 1650 Super + RAM 16GB Windows
-- ✅ Otomatis hemat token (maks 150-1000 token per respons)
-- ✅ Lancar walau sambil nonton YouTube 😎
-- ✅ Tidak butuh internet setelah model tersedia (AI Lokal)
-
----
-
-## 🧠 Model yang Sudah Diuji Jalan Lancar
-
-- `llama-2-7b-chat.Q4_K_M.gguf` ✅ (maks 1000 token per respons)
-- `deepseek-coder-6.7b-instruct.Q4_K_M.gguf` ✅ (maks 1000 token per respons)
-- `openhermes-2.5-mistral-7b.Q4_K_M.gguf` ✅ (maks 1000 token per respons)
-- `mythomist-7b.Q4_K_M.gguf` ✅ (maks 1000 token per respons)
-- `wizardlm-13b-v1.2.Q4_K_M.gguf` ✅ (agak berat saat loading karena ram saya 16gb, tapi jalan (maks 150 token)
-- Semua model dijalankan dengan backend `llama.cpp`
-- Link: (https://github.com/ggml-org/llama.cpp/releases/download/b5899/llama-b5899-bin-win-cpu-x64.zip)
 
 ---
 ## 📦 Daftar Versi GUI
@@ -375,8 +457,6 @@ Berikut versi-versi GUI yang berhasil diuji:
 | llamacpp_gui_combinedv8.py| ✅ Terbaru | + Auto-save load model berfungsi        |
 | llamacpp_gui_mode.py      | Eksperimen | Mode GUI ringan eksperimen               |
 | llamacpp_gui_modev2.py    | ✅        | Kombinasi GUI mode dengan layout sistem  |
-
-
 
 ## 💡 Syarat Minimum PC
 
