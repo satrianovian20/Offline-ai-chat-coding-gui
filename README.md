@@ -41,21 +41,23 @@ Proyek ini adalah GUI Python ringan (Tkinter) untuk menjalankan model AI lokal (
 | `llamacpp_gui_mode.py`      | 15.5 GB                   | 15.5 GB           | ❌ Tetap tinggi         |
 | `llamacpp_gui_combinedv8.py`| 15.5 GB                   | 12.5 GB           | ✅ Turun normal         |
 
-### ✅ Uji Coba Nyata di Laptop Low-End (Tanpa GPU)
+## ✅ Uji Coba Nyata di Laptop Low-End (Tanpa GPU)
 
-| Spesifikasi                   | Detail                                                |
-|------------------------------|--------------------------------------------------------|
-| **CPU**                      | AMD A9-9420 Radeon R5                                  |
-| **GPU**                      | ❌ Tidak ada GPU (CPU-only)                            |
-| **RAM Terpasang**            | 16 GB DDR4                                             |
-| **Penyimpanan**              | HDD (Hard Disk Drive), *bukan SSD*                     |
-| **Sistem Tambahan**          | Microsoft Office 2024 aktif (menggunakan ±4 GB RAM)    |
-| **Model AI yang Diuji**      | `llama-2-7b-chat.Q4_K_M.gguf`                          |
-| **GUI Python yang Digunakan**| `llamacpp_gui_combinedv8.py` (ukuran file 10KB)        |
-| **Total RAM Digunakan**      | ±11 GB                                                 |
-| **RAM Tanpa Office**         | Diperkirakan hanya ±7 GB                               |
-| **Status Eksekusi**          | ✅ *Berhasil dijalankan* (not responding sebentar saja)|
-| **Stabilitas GUI**           | Tidak crash, tidak error, tetap responsif setelah idle |
+| Spesifikasi Laptop             | Detail                                                  |
+|-------------------------------|----------------------------------------------------------|
+| **Model Laptop**              | Lenovo Ideapad (AMD A9-9420 Radeon R5)                   |
+| **Penyimpanan**               | HDD (bukan SSD)                                          |
+| **RAM Terpasang**            | 16 GB DDR4                                               |
+| **Sistem Tambahan Aktif**     | Microsoft Office 2024 (±4 GB RAM)                        |
+| **CPU Threads**               | 2 Threads (tanpa GPU)                                    |
+| **Model AI yang Diuji**       | `llama-2-7b-chat.Q4_K_M.gguf`                            |
+| **Ukuran Model (GGUF)**       | ±3.8 GB (Q4_K_M, Medium Quantization)                    |
+| **GUI Python**                | `llamacpp_gui_combinedv8.py` (ukuran hanya 10KB)         |
+| **RAM Digunakan Saat Aktif**  | ±11 GB total (dengan Microsoft Office aktif)             |
+| **RAM Saat Idle**             | ±9.4 GB total (RAM efektif model + GUI: ±5.4 GB)         |
+| **Stabilitas GUI**            | ✅ *Berhasil dijalankan*, tidak crash, hanya sempat `Not Responding` sebentar |
+| **Log Bukti**                 | [`last_session.txt`](docs/session-logs) |
+| **Respons AI**                | ✅ *Berhasil menjawab prompt sederhana dengan lancar*     |
 
 ---
 
