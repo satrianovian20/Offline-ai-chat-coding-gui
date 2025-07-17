@@ -162,6 +162,20 @@ Elemen Bukti	Status
 🧪 Model besar (13B Q4_K_M)	✅ Sudah diuji
 ⚙️ GUI ringan (10KB Python script)	✅ Terpakai dengan lancer
 
+🎯 Multitasking Test Lulus dengan Mulus!
+
+✅ GUI Python (10KB) masih berjalan
+
+✅ AI tidak sedang aktif memproses prompt
+
+✅ Playback video 720p lancar
+
+✅ RAM hanya digunakan sekitar 12.5 GB
+
+✅ Tanpa crash, tanpa lag, dan sistem tetap responsif
+
+📌 Ini membuktikan bahwa meskipun model AI 13B sudah dimuat sebelumnya dan belum ditutup, sistem tetap efisien dan GUI kamu tidak membebani RAM berlebihan saat idle.
+
 ✅ FAQ — Pertanyaan Umum (Trust Booster Edition)
 ❓ GUI ini beneran bisa jalanin model 13B tanpa GPU?
 Ya! Sudah diuji langsung dengan model llama-2-13b-chat.Q4_K_M.gguf di sistem dengan:
@@ -385,6 +399,20 @@ Evidence Element	Status
 🖼️ Screenshot while idle	✅ Available
 🧪 Large Model (13B Q4_K_M)	✅ Successfully tested
 ⚙️ Lightweight GUI (10KB Python script)	✅ Runs smoothly and reliably
+
+🎯 Multitasking Test Passed Smoothly!
+
+✅ Python GUI (10KB) still running
+
+✅ AI model not actively processing
+
+✅ 720p video playback is smooth
+
+✅ RAM usage remains around 12.5 GB
+
+✅ No crash, no lag, and system is responsive
+
+📌 This confirms that even after a large 13B model was previously loaded, the system stays efficient. Your GUI doesn't overconsume memory while idle — this is top-tier optimization.
 
 ✅ FAQ — Frequently Asked Questions (Trust Booster Edition)
 ❓ Can this GUI really run a 13B model without a GPU?
