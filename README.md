@@ -15,11 +15,26 @@ Proyek ini adalah GUI Python ringan (Tkinter) untuk menjalankan model AI lokal (
 > 🇮🇩 This project is primarily documented in Indonesian.
 > 🇬🇧 English overview is provided below.
 
-Fitur	GUI Python 10KB	WebUI (Gradio, others)
-Ukuran File	✅ 10 KB	❌ >100 MB
-RAM Min (13B Q4_K)	✅ 12.3 GB	❌ 20+ GB (web overhead)
-No Crash	✅ Stabil	⚠️ Kadang freeze
-Easy Run	✅ 1x klik	❌ Banyak dependensi
+## ⚖️ Perbandingan GUI Python 10KB vs WebUI Berat
+
+| **Fitur / Aspek**                | 🐍 **GUI Python 10KB (tkinter)** | 🌐 **WebUI (Gradio/Oobabooga dll.)** |
+|----------------------------------|----------------------------------|--------------------------------------|
+| ✅ Ukuran File GUI               | **10 KB**                        | > **100 MB**                         |
+| ⚙️ Bahasa Pemrograman            | Python (tkinter native)          | Python + Gradio + JS + HTML          |
+| 🧠 Model yang Diuji              | 7B, 13B (Q4_K_M)                 | 7B, 13B                               |
+| 🧮 RAM Minimum (13B Q4_K_M)      | **12.3 – 15.5 GB**               | **> 18 – 20 GB**                      |
+| 🖥️ CPU Pengujian                | i5-9400F (no GPU)                | Biasanya pakai GPU / CPU kuat        |
+| 🚀 Waktu Load Model 13B         | **35 – 40 detik**                | Bisa > 1 menit                       |
+| 🟢 RAM Saat Idle                | 12.1 – 12.4 GB                   | > 15 GB                               |
+| 🛠️ Konfigurasi Awal            | Hanya 1 file `.py`               | Banyak dependensi dan setup venv     |
+| 📉 Risiko Error/Crash           | **Sangat rendah / stabil**       | Kadang freeze / error token          |
+| 🪄 Token yang Diuji Lancar      | 1000 – 4096 token                | Bergantung setting/model             |
+| 📡 Server Web                   | **Tidak perlu**                  | Wajib buka server (http/websocket)   |
+| 🧩 Dukungan Plugin              | Manual (custom)                  | Banyak tapi berat                    |
+| 💬 Chat & Coding Mode           | ✅ Sangat cocok                  | ✅ Cocok, tapi lebih berat            |
+| 🤯 Respons Not Responding?     | Hanya saat proses berat          | Sering delay jika RAM kritis         |
+
+---
 
 ## 🇮🇩 Bahasa Indonesia
 
