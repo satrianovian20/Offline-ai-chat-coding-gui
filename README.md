@@ -4,6 +4,31 @@ GUI Python ringan (Tkinter) untuk menjalankan AI chat &amp; coding dengan model 
 
 Proyek ini adalah GUI Python ringan (Tkinter) untuk menjalankan model AI lokal (format `.gguf` seperti LLaMA 7B atau WizardLM 13B) di PC Windows biasa dengan GPU seperti **GTX 1650 Super**. Tanpa Flask. Tanpa Gradio. Tanpa ribet. Hanya Python satu file + model!
 
+## 🇮🇩 Bahasa Indonesia
+
+GUI lokal untuk LLaMA.cpp:
+- Auto-load model GGUF
+- Auto-save/load sesi
+- Tema gelap & terang
+- Ganti model tanpa restart
+- Ringan, cocok untuk RAM 8-16 GB
+- Tidak pakai Gradio atau WebUI
+
+📁 Cocok untuk chat dan coding!
+
+---
+
+## 🌐 English (International)
+
+Local GUI for LLaMA.cpp:
+- Auto-load GGUF model on launch
+- Session save/load
+- Dark/light mode
+- Hot-swap model without GUI restart
+- Lightweight, works on 8-16 GB RAM
+- No Gradio or WebUI required
+
+📁 Designed for chat and code!
 ---
 🤝 Kontribusi & Kredit
 👨‍💻 Creator: [satrianovian20] – Modifikasi GUI offline dengan Tkinter
