@@ -38,6 +38,10 @@ Versi di atas b900 tidak kompatibel dan menyebabkan gagal muat model (blank, stu
 📁 Unduh llama.cpp versi b5899 (wajib):
 https://github.com/ggml-org/llama.cpp/releases/download/b5899/llama-b5899-bin-win-cpu-x64.zip
 
+## 📸 Screenshot (Model berhasil dimuat di RAM 16GB)
+
+![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-17%20114247.png)
+
 ---
 
 ## 🌐 English (International)
@@ -82,6 +86,10 @@ Best experience starts at 16GB RAM or more.
 🚀 Efficient, lightweight, and perfect for personal PCs.
 📁 Must use llama.cpp build b5899:
 https://github.com/ggml-org/llama.cpp/releases/download/b5899/llama-b5899-bin-win-cpu-x64.zip
+
+## 📸 Screenshot (Model successfully loaded on 16GB RAM)
+
+![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-17%20114247.png)
 
 ---
 🤝 Kontribusi & Kredit
