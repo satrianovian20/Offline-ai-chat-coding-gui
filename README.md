@@ -188,6 +188,16 @@ Ya! Sudah diuji langsung dengan model llama-2-13b-chat.Q4_K_M.gguf di sistem den
 
 📦 GUI: Python script ukuran hanya 10KB
 
+## 🧪 Keberhasilan Legendaris: wizardlm-13b-v1.2.Q4_K_M.gguf di llamacpp_gui_mode.py
+
+Bahkan file GUI eksperimental awal (`llamacpp_gui_mode.py`) berhasil menjalankan model besar `wizardlm-13b-v1.2.Q4_K_M.gguf` di sistem dengan RAM 16GB — tanpa GPU, tanpa crash.
+
+✅ Model berhasil diload  
+✅ RAM mencapai ~15.5GB  
+✅ Jawaban berhasil dihasilkan  
+✅ GUI tetap stabil dan responsif
+
+FAQ
 ❓ Bukti nyatanya mana?
 📸 Screenshot saat load model dan idle sudah diunggah di folder docs/screenshots/
 
@@ -441,6 +451,16 @@ Yes! It has been successfully tested using llama-2-13b-chat.Q4_K_M.gguf on a sys
 
 📦 GUI: Pure Python script, only 10KB in size
 
+## 🧪 Legacy Success: wizardlm-13b-v1.2.Q4_K_M.gguf on llamacpp_gui_mode.py
+
+Even our **experimental GUI file (`llamacpp_gui_mode.py`)** successfully handled the powerful `wizardlm-13b-v1.2.Q4_K_M.gguf` model on a 16GB RAM system — no GPU needed, no crash experienced.
+
+✅ Fully loaded  
+✅ RAM capped at ~15.5GB  
+✅ Response successfully generated  
+✅ GUI remained functional after inference  
+
+FAQ
 ❓ Any proof?
 Absolutely. We've included:
 
