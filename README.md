@@ -58,6 +58,17 @@ https://github.com/ggml-org/llama.cpp/releases/download/b5899/llama-b5899-bin-wi
 
 ![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-17%20125025.png)
 
+✅ Sukses Menjalankan LLaMA-2 13B Q4_K_M
+GUI Python ini berhasil menjalankan model besar seperti `llama-2-13b-chat.Q4_K_M.gguf` dengan RAM 16GB (tanpa GPU).
+
+🖥️ Spesifikasi:
+- RAM: 16GB DDR4
+- Backend: llama.cpp b5899
+- Model: 13B GGUF (Q4_K_M)
+- GUI: Python (.py) 10KB buatan sendiri
+
+📸 Bukti: Sudah dilampirkan screenshot dan log lengkap di repo
+
 💡 Kesimpulan Buat Pengguna GUI:
 Kalau user punya RAM:
 
@@ -133,6 +144,21 @@ https://github.com/ggml-org/llama.cpp/releases/download/b5899/llama-b5899-bin-wi
 ## 📸 Screenshot (Model successfully loaded on 16GB RAM)
 
 ![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-17%20125025.png)
+
+✅ Successfully Running LLaMA-2 13B Q4_K_M
+This Python GUI successfully runs a large model like llama-2-13b-chat.Q4_K_M.gguf using only 16GB RAM (no GPU required).
+
+🖥️ Specifications:
+
+RAM: 16GB DDR4
+
+Backend: llama.cpp b5899
+
+Model: 13B GGUF (Q4_K_M)
+
+GUI: Custom-built Python script (only 10KB)
+
+📸 Proof: Full logs and screenshots are already included in the repository.
 
 💡 Summary for GUI Users:
 
