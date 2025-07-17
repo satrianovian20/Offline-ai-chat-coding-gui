@@ -228,6 +228,21 @@ DeepSeek Coder 1.3B
 
 Atur max_tokens di GUI agar tidak melebihi kapasitas RAM kamu.
 
+❓“Saya masih nggak percaya GUI ini bisa jalanin model 13B cuma dengan RAM 16GB. Beneran bisa?”
+💬 “Coba sendiri aja bro, repo udah public kok 😎”
+
+❓“Emang GUI-nya ringan banget ya?”
+✅ Iya. Ukuran file .py cuma 10KB. Gak ada embel-embel web server, backend rumit, atau library berat.
+
+❓“Bisa crash gak pas load model besar?”
+🚫 Selama sistem kamu stabil dan swap file aktif, hampir nggak pernah crash. Bahkan log menunjukkan performa tetap normal walau RAM di atas 15GB pas awal load.
+
+❓“Ada buktinya?”
+📸 Sudah ada screenshot dan log di folder docs/session-logs/ dan docs/screenshots/.
+
+❓“Kalau saya nggak percaya tetap?”
+😎 Silakan buktikan sendiri. Semuanya open source. Mau test sendiri? Silakan kloning repo-nya sekarang.
+
 ---
 
 ## 🌐 English (International)
@@ -465,6 +480,21 @@ For example:
 Use TinyLlama 1.1B or DeepSeek Coder 1.3B
 
 Set max_tokens to 100–150 in the GUI to ensure smooth performance
+
+❓“I still don’t believe this 10KB GUI can run a 13B model with only 16GB of RAM. Really?”
+💬 “Try it yourself, bro — the repo is public 😎”
+
+❓“Is the GUI truly lightweight?”
+✅ Yes. The .py file is just 10KB — no heavy dependencies, no web server, no overengineering.
+
+❓“Will it crash when loading a large model?”
+🚫 As long as your system is stable and has swap enabled, it won’t. Log results show smooth performance, even with 15GB+ RAM usage during model load.
+
+❓“Is there any proof?”
+📸 Yes. All screenshots and logs are available in docs/session-logs/ and docs/screenshots/.
+
+❓“What if I still don’t believe it?”
+😎 Just try it yourself. It’s fully open source — clone the repo and see the magic happen.
 
 ---
 🤝 Kontribusi & Kredit
