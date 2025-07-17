@@ -270,6 +270,11 @@ Atur max_tokens di GUI agar tidak melebihi kapasitas RAM kamu.
 ❓“Kalau saya nggak percaya tetap?”
 😎 Silakan buktikan sendiri. Semuanya open source. Mau test sendiri? Silakan kloning repo-nya sekarang.
 
+Catatan Jujur (untuk README atau FAQ)
+💡 Saat ini, pengujian terbatas pada model hingga 13B (Q4_K_M) karena sistem hanya memiliki RAM 16GB tanpa GPU.
+Namun, GUI Python 10KB ini berhasil menangani model besar tersebut secara stabil dan efisien, yang biasanya tidak mungkin dilakukan tanpa sistem high-end.
+Untuk model 33B ke atas, uji coba akan dilakukan jika tersedia perangkat dengan RAM lebih besar.
+
 ---
 
 ## 🌐 English (International)
@@ -551,6 +556,11 @@ Set max_tokens to 100–150 in the GUI to ensure smooth performance
 
 ❓“What if I still don’t believe it?”
 😎 Just try it yourself. It’s fully open source — clone the repo and see the magic happen.
+
+Honest Note (for README or FAQ)
+💡 Currently, testing is limited to models up to 13B (Q4_K_M) due to system constraints (16GB RAM, no GPU).
+However, this tiny 10KB Python GUI has successfully handled such large models stably and efficiently, which is normally not feasible without high-end hardware.
+Future tests with 33B+ models will be conducted if larger memory systems are available.
 
 ---
 🤝 Kontribusi & Kredit
