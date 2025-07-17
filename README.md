@@ -176,6 +176,33 @@ Elemen Bukti	Status
 
 📌 Ini membuktikan bahwa meskipun model AI 13B sudah dimuat sebelumnya dan belum ditutup, sistem tetap efisien dan GUI kamu tidak membebani RAM berlebihan saat idle.
 
+## 🧪 Keberhasilan Legendaris: wizardlm-13b-v1.2.Q4_K_M.gguf di llamacpp_gui_mode.py
+
+Bahkan file GUI eksperimental awal (`llamacpp_gui_mode.py`) berhasil menjalankan model besar `wizardlm-13b-v1.2.Q4_K_M.gguf` di sistem dengan RAM 16GB — tanpa GPU, tanpa crash.
+
+## 🧪 Keberhasilan GUI Eksperimental: llamacpp_gui_mode.py
+
+Meskipun hanya 1 file Python eksperimen (ukuran 10KB), `llamacpp_gui_mode.py` sukses menjalankan `wizardlm-13b-v1.2.Q4_K_M.gguf` secara penuh di sistem dengan:
+
+- 🧠 **RAM 16GB**
+- 💻 **CPU i5 (tanpa GPU)**
+- 🔧 **llama.cpp backend b5899**
+- ✅ **Model: 13.02B parameter (GGUF V2, Q4_K_M)**
+
+📌 **Log menunjukkan:**
+- Model sukses diload dan diinisialisasi
+- GUI tetap berjalan lancar
+- Permintaan `/completion` berhasil
+- Tidak terjadi crash
+
+🗣️ **Respons AI juga masuk akal & relevan:**
+> _"I want to give my employees new year holiday on January 2. How should I do it?"_
+
+✅ Model berhasil diload  
+✅ RAM mencapai ~15.5GB  
+✅ Jawaban berhasil dihasilkan  
+✅ GUI tetap stabil dan responsif
+
 ✅ FAQ — Pertanyaan Umum (Trust Booster Edition)
 ❓ GUI ini beneran bisa jalanin model 13B tanpa GPU?
 Ya! Sudah diuji langsung dengan model llama-2-13b-chat.Q4_K_M.gguf di sistem dengan:
@@ -188,16 +215,6 @@ Ya! Sudah diuji langsung dengan model llama-2-13b-chat.Q4_K_M.gguf di sistem den
 
 📦 GUI: Python script ukuran hanya 10KB
 
-## 🧪 Keberhasilan Legendaris: wizardlm-13b-v1.2.Q4_K_M.gguf di llamacpp_gui_mode.py
-
-Bahkan file GUI eksperimental awal (`llamacpp_gui_mode.py`) berhasil menjalankan model besar `wizardlm-13b-v1.2.Q4_K_M.gguf` di sistem dengan RAM 16GB — tanpa GPU, tanpa crash.
-
-✅ Model berhasil diload  
-✅ RAM mencapai ~15.5GB  
-✅ Jawaban berhasil dihasilkan  
-✅ GUI tetap stabil dan responsif
-
-FAQ
 ❓ Bukti nyatanya mana?
 📸 Screenshot saat load model dan idle sudah diunggah di folder docs/screenshots/
 
@@ -454,6 +471,25 @@ Yes! It has been successfully tested using llama-2-13b-chat.Q4_K_M.gguf on a sys
 ## 🧪 Legacy Success: wizardlm-13b-v1.2.Q4_K_M.gguf on llamacpp_gui_mode.py
 
 Even our **experimental GUI file (`llamacpp_gui_mode.py`)** successfully handled the powerful `wizardlm-13b-v1.2.Q4_K_M.gguf` model on a 16GB RAM system — no GPU needed, no crash experienced.
+
+## 🧪 Experimental GUI Success: llamacpp_gui_mode.py
+
+Even as an early experimental script (10KB), `llamacpp_gui_mode.py` **successfully loaded and ran** the `wizardlm-13b-v1.2.Q4_K_M.gguf` model on a system with:
+
+- 🧠 **16GB RAM**
+- 💻 **i5 CPU (no GPU)**
+- 🔧 **llama.cpp backend b5899**
+- ✅ **Model: 13.02B parameters (GGUF V2, Q4_K_M)**
+
+📌 **Log shows:**
+- Model loaded with full tensor info
+- Initialization completed in ~35s
+- GUI remained stable
+- Prompt processed successfully
+- No crash, no instability
+
+🗣️ **AI replied fluently:**
+> _"I want to give my employees new year holiday on January 2..."_
 
 ✅ Fully loaded  
 ✅ RAM capped at ~15.5GB  
