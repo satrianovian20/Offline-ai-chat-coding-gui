@@ -45,6 +45,19 @@ https://github.com/ggml-org/llama.cpp/releases/download/b5899/llama-b5899-bin-wi
 
 ![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-17%20114247.png)
 
+🧠 Model 13B di PC RAM 16GB – Bukti Nyata!
+💡 Berdasarkan log di bawah ini, wizardlm-13b-v1.2.Q4_K_M.gguf berhasil dimuat dan digunakan di sistem dengan RAM 16GB, hanya memakai CPU (llama.cpp b5899) — tanpa error, dengan pemakaian RAM sekitar 13–14GB.
+
+📌 Kesimpulan:
+✅ Model 13B bisa dijalankan di sistem 16GB RAM dengan quant Q4_K_M
+✅ Tidak perlu GPU (CPU only)
+✅ GUI ringan seperti buatan Anda tetap responsif
+✅ Ideal untuk user lokal yang ingin performa tinggi dengan hardware minimal
+
+## 📸 Screenshot (Model berhasil dimuat di RAM 16GB)
+
+![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-17%20125025.png)
+
 💡 Kesimpulan Buat Pengguna GUI:
 Kalau user punya RAM:
 
@@ -106,6 +119,20 @@ https://github.com/ggml-org/llama.cpp/releases/download/b5899/llama-b5899-bin-wi
 ## 📸 Screenshot (Model successfully loaded on 16GB RAM)
 
 ![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-17%20114247.png)
+
+🇬🇧 English Version:
+🧠 13B Model on 16GB RAM PC – Real Proof!
+💡 According to the log below, wizardlm-13b-v1.2.Q4_K_M.gguf successfully loaded and ran on a 16GB RAM system, using CPU only (llama.cpp b5899) — no errors, RAM usage around 13–14GB.
+
+📌 Conclusion:
+✅ 13B models are usable on 16GB RAM systems with Q4_K_M quant
+✅ No GPU required (CPU only)
+✅ Lightweight GUIs like yours remain responsive
+✅ Perfect for local users who want high performance on minimal hardware
+
+## 📸 Screenshot (Model successfully loaded on 16GB RAM)
+
+![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-17%20125025.png)
 
 💡 Summary for GUI Users:
 
