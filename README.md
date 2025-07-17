@@ -34,7 +34,7 @@ Proyek ini adalah GUI Python ringan (Tkinter) untuk menjalankan model AI lokal (
 - `mythomist-7b.Q4_K_M.gguf` ✅ (maks 1000 token per respons)
 - `wizardlm-13b-v1.2.Q4_K_M.gguf` ✅ (agak berat saat loading, tapi jalan (maks 150 token)
 - Semua model dijalankan dengan backend `llama.cpp`
-- Link: https://github.com/ggml-org/llama.cpp/releases/download/b5904/llama-b5904-bin-win-cpu-x64.zip
+- Link: (https://github.com/ggml-org/llama.cpp/releases/download/b5899/llama-b5899-bin-win-cpu-x64.zip)
 
 ---
 
