@@ -146,6 +146,14 @@ Edit
    → RAM tetap
    → CPU turun
 
+✅ Recap Status Dokumentasi (versi Indonesia):
+Elemen Bukti	Status
+📜 Log sesi (session-logs)	✅ Sudah ada
+🖼️ Screenshot saat load model	✅ Sudah ada
+🖼️ Screenshot saat idle	✅ Sudah ada
+🧪 Model besar (13B Q4_K_M)	✅ Sudah diuji
+⚙️ GUI ringan (10KB Python script)	✅ Terpakai dengan lancer
+
 ---
 
 ## 🌐 English (International)
@@ -309,6 +317,14 @@ Edit
 [Back to Idle]
    → RAM stable
    → CPU drops
+
+✅ Documentation Recap (English Version):
+Evidence Element	Status
+📜 Session Logs (session-logs/)	✅ Available
+🖼️ Screenshot while loading model	✅ Available
+🖼️ Screenshot while idle	✅ Available
+🧪 Large Model (13B Q4_K_M)	✅ Successfully tested
+⚙️ Lightweight GUI (10KB Python script)	✅ Runs smoothly and reliably
 
 ---
 🤝 Kontribusi & Kredit
