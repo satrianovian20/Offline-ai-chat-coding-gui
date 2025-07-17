@@ -19,9 +19,21 @@ GUI lokal untuk LLaMA.cpp:
 
 📁 Cocok untuk chat dan coding!
 
+⚠️ Versi LLaMA.cpp yang WAJIB Digunakan
+🛑 Hanya versi b5899 yang stabil dan telah diuji.
+🔗 Unduh dari link berikut:
+
+✅ llama-b5899-bin-win-cpu-x64.zip (Rekomendasi)
+
+Versi di atas adalah satu-satunya yang telah diuji berhasil memuat model lewat GUI ini.
+Versi di atas b900 tidak kompatibel dan menyebabkan gagal muat model (blank, stuck, atau crash).
+
 ---
 
 ## 🌐 English (International)
+
+🧠 About This Project
+This Python GUI lets you run GGUF models locally (like LLaMA 7B, 13B, etc.) using llama-server.exe and chat just like ChatGPT — fully offline.
 
 Local GUI for LLaMA.cpp:
 - Auto-load GGUF model on launch
@@ -32,6 +44,24 @@ Local GUI for LLaMA.cpp:
 - No Gradio or WebUI required
 
 📁 Designed for chat and code!
+
+⚠️ Required LLaMA.cpp Version
+🛑 Only version b5899 is tested and supported.
+🔗 Download here:
+
+✅ llama-b5899-bin-win-cpu-x64.zip (Recommended)
+
+Other versions, especially b900+, are not compatible and may cause model loading failure.
+
+💻 Minimum Requirements
+Component	Minimum
+RAM	16 GB (recommended)
+CPU	Intel/AMD 64-bit
+GPU	Optional (CPU only OK)
+OS	Windows 10/11 64-bit
+
+⚠️ You can run 7B model on 8GB RAM, but expect very slow performance.
+Best experience starts at 16GB RAM or more.
 
 ---
 🤝 Kontribusi & Kredit
