@@ -37,6 +37,23 @@ Proyek ini adalah GUI Python ringan (Tkinter) untuk menjalankan model AI lokal (
 - Link: (https://github.com/ggml-org/llama.cpp/releases/download/b5899/llama-b5899-bin-win-cpu-x64.zip)
 
 ---
+## 📦 Daftar Versi GUI
+
+Berikut versi-versi GUI yang berhasil diuji:
+
+| Versi File                 | Status  | Fitur Utama                             |
+|---------------------------|---------|------------------------------------------|
+| llamacpp_gui_combined.py  | ✅ Stabil | Versi awal gabungan GUI chat + sistem    |
+| llamacpp_gui_combinedv2.py| ✅        | Tambahan pengaturan model & prompt       |
+| llamacpp_gui_combinedv3.py| ✅        | Fix error kecil, UI lebih bersih         |
+| llamacpp_gui_combinedv4.py| ✅        | + Logging dan auto-load model            |
+| llamacpp_gui_combinedv5.py| ✅        | + Riwayat chat dan sistem prompt         |
+| llamacpp_gui_combinedv6.py| ✅        | + Theme mode dan pengaturan lanjutan     |
+| llamacpp_gui_combinedv7.py| ✅ Terbaru | + Auto-save session dan repeat_penalty   |
+| llamacpp_gui_mode.py      | Eksperimen | Mode GUI ringan eksperimen               |
+| llamacpp_gui_modev2.py    | ✅        | Kombinasi GUI mode dengan layout sistem  |
+
+
 
 ## 💡 Syarat Minimum PC
 
