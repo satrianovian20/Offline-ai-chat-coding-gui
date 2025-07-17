@@ -45,6 +45,15 @@ https://github.com/ggml-org/llama.cpp/releases/download/b5899/llama-b5899-bin-wi
 
 ![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-17%20114247.png)
 
+💡 Kesimpulan Buat Pengguna GUI:
+Kalau user punya RAM:
+
+8GB: Deepseek 1.3B atau TinyLlama cukup, tapi jangan berharap jawaban super.
+
+12GB–16GB: Langsung lompat ke Mistral 7B atau DeepSeek-Coder 6.7B.
+
+>16GB: Bisa gas model 13B seperti Yi-13B, OpenHermes 13B, dll.
+
 ---
 
 ## 🌐 English (International)
@@ -97,6 +106,16 @@ https://github.com/ggml-org/llama.cpp/releases/download/b5899/llama-b5899-bin-wi
 ## 📸 Screenshot (Model successfully loaded on 16GB RAM)
 
 ![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-17%20114247.png)
+
+💡 Summary for GUI Users:
+
+If the user has:
+
+8GB RAM: Deepseek 1.3B or TinyLlama is enough, but don’t expect super smart answers.
+
+12GB–16GB RAM: Go straight to Mistral 7B or DeepSeek-Coder 6.7B.
+
+More than 16GB RAM: You can run 13B models like Yi-13B, OpenHermes 13B, etc.
 
 ---
 🤝 Kontribusi & Kredit
