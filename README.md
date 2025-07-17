@@ -15,6 +15,12 @@ Proyek ini adalah GUI Python ringan (Tkinter) untuk menjalankan model AI lokal (
 > 🇮🇩 This project is primarily documented in Indonesian.
 > 🇬🇧 English overview is provided below.
 
+Fitur	GUI Python 10KB	WebUI (Gradio, others)
+Ukuran File	✅ 10 KB	❌ >100 MB
+RAM Min (13B Q4_K)	✅ 12.3 GB	❌ 20+ GB (web overhead)
+No Crash	✅ Stabil	⚠️ Kadang freeze
+Easy Run	✅ 1x klik	❌ Banyak dependensi
+
 ## 🇮🇩 Bahasa Indonesia
 
 GUI lokal untuk LLaMA.cpp:
