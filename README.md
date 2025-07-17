@@ -633,7 +633,7 @@ Berikut versi-versi GUI yang berhasil diuji:
 | llamacpp_gui_combinedv6.py| ✅        | + Theme mode dan pengaturan lanjutan     |
 | llamacpp_gui_combinedv7.py| ✅        | + Auto-save session dan repeat_penalty   |
 | llamacpp_gui_combinedv8.py| ✅        | + Auto-save load model berfungsi        |
-| llamacpp_gui_combinedv9.py| ✅ Terbaru | + rakyat mode di mmenu chat + --ctx-size default ke 1024 + Lowram       |
+| llamacpp_gui_combinedv9.py| ✅ Terbaru | + rakyat mode di menu chat + --ctx-size default ke 1024 + Lowram       |
 | llamacpp_rakyatmode.py| ✅ Terbaru | + --ctx-size default ke 1024 + Lowram        |
 | llamacpp_gui_mode.py      | ✅ Eksperimen | Mode GUI ringan eksperimen               |
 | llamacpp_gui_modev2.py    | ✅        | Kombinasi GUI mode dengan layout sistem  |
