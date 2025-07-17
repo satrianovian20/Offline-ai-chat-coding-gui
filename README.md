@@ -29,6 +29,10 @@ Local GUI for LLaMA.cpp:
 - No Gradio or WebUI required
 
 📁 Designed for chat and code!
+
+> 🇮🇩 This project is primarily documented in Indonesian.
+> 🇬🇧 English overview is provided below.
+
 ---
 🤝 Kontribusi & Kredit
 👨‍💻 Creator: [satrianovian20] – Modifikasi GUI offline dengan Tkinter
