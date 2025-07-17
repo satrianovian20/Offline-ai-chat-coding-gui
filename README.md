@@ -34,6 +34,9 @@ Versi di atas b900 tidak kompatibel dan menyebabkan gagal muat model (blank, stu
 💻 RAM 16GB — Penggunaan hanya 12.1GB
 🎵 Multitasking lancar: ChatGPT + YouTube + GitHub + Musik
 
+💬 Contoh jawaban untuk user awam:
+“GUI ini nggak ngebatesin kemampuan AI-nya. Kamu bisa atur output token sesuai kemampuan RAM PC kamu. Misal RAM kamu cuma 8GB, kamu bisa atur max token ke 150 biar tetap lancar. Kalau RAM kamu 16GB, bisa gaspol sampai 400 token. Jadi fleksibel, ringan, dan tetap powerful!”
+
 🚀 Efisien, ringan, dan cocok untuk PC rumahan.
 📁 Unduh llama.cpp versi b5899 (wajib):
 https://github.com/ggml-org/llama.cpp/releases/download/b5899/llama-b5899-bin-win-cpu-x64.zip
@@ -82,6 +85,10 @@ Best experience starts at 16GB RAM or more.
 🧠 CPU-only (no GPU) using llama.cpp b5899
 💻 16GB RAM system — Only 12.1GB usage
 🎵 Smooth multitasking: ChatGPT + YouTube + GitHub + Music
+
+💬 Example answer for beginner users:
+
+“This GUI doesn’t limit the AI’s capabilities. You can adjust the output tokens based on your PC’s RAM. For example, if you only have 8GB of RAM, you can set the max tokens to 150 so it runs smoothly. If you have 16GB of RAM, you can go all the way up to 400 tokens. So it’s flexible, lightweight, and still powerful!”
 
 🚀 Efficient, lightweight, and perfect for personal PCs.
 📁 Must use llama.cpp build b5899:
