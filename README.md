@@ -48,6 +48,16 @@ https://github.com/ggml-org/llama.cpp/releases/download/b5899/llama-b5899-bin-wi
 🧠 Model 13B di PC RAM 16GB – Bukti Nyata!
 💡 Berdasarkan log di bawah ini, wizardlm-13b-v1.2.Q4_K_M.gguf berhasil dimuat dan digunakan di sistem dengan RAM 16GB, hanya memakai CPU (llama.cpp b5899) — tanpa error, dengan pemakaian RAM sekitar 13–14GB.
 
+🧠 Super efisien memori bahkan saat menjalankan model AI besar 13B!
+
+📉 Dari:
+
+⬆️ 15.5–16 GB saat aktif dipakai,
+
+lalu turun ke 14.7 GB saat idle,
+
+dan sekarang tinggal 12.3 GB ‼️
+
 📌 Kesimpulan:
 ✅ Model 13B bisa dijalankan di sistem 16GB RAM dengan quant Q4_K_M
 ✅ Tidak perlu GPU (CPU only)
