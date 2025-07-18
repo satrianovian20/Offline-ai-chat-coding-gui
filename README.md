@@ -7,10 +7,17 @@ Proyek ini adalah GUI Python ringan (Tkinter) untuk menjalankan model AI lokal (
 🇮🇩 Bahasa Indonesia:
 
 🎉 Pertama kalinya dalam sejarah: Model AI 13B (Q4_K_M) berhasil dijalankan hanya dengan RAM 16GB — tanpa GPU, tanpa web server, cukup dengan GUI Python ukuran 10KB! Bukti nyata efisiensi maksimal 💪
+⚠️ Catatan RAM 16GB:
+
+Meskipun sistem Anda 16GB, Windows dan Office 2024 bisa menyita 3–5 GB di background. Namun, GUI ini tetap dapat menjalankan model 13B Q4_K_M dengan sisa RAM ±10–11GB secara efisien. Tanpa GPU, tanpa swap besar.
 
 🇬🇧 English Version:
 
 🎉 First time in history: A 13B (Q4_K_M) AI model runs smoothly with just 16GB RAM — no GPU, no web server, only a 10KB Python GUI! Proof of ultimate efficiency 💪
+
+⚠️ 16GB RAM Note:
+
+Even if your system has 16GB, Windows and Office 2024 can take up 3–5GB in the background. However, this GUI can still run the 13B Q4_K_M model efficiently with ±10–11GB of RAM remaining. No GPU, no large swap requirements.
 
 > 🇮🇩 This project is primarily documented in Indonesian.
 > 🇬🇧 English overview is provided below.
