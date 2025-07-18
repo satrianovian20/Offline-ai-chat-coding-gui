@@ -24,7 +24,7 @@ Even if your system has 16GB, Windows and Office 2024 can take up 3–5GB in the
 
 ## 📸 Screenshot GUI
 
-![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-18%20072341.png)
+![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-18%20160408.png)
 
 ## ⚖️ Perbandingan GUI Python 10KB vs WebUI Berat
 
