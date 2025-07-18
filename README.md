@@ -15,6 +15,10 @@ Proyek ini adalah GUI Python ringan (Tkinter) untuk menjalankan model AI lokal (
 > 🇮🇩 This project is primarily documented in Indonesian.
 > 🇬🇧 English overview is provided below.
 
+## 📸 Screenshot GUI
+
+![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-18%20072341.png)
+
 ## ⚖️ Perbandingan GUI Python 10KB vs WebUI Berat
 
 | **Fitur / Aspek**                | 🐍 **GUI Python 10KB (tkinter)** | 🌐 **WebUI (Gradio/Oobabooga dll.)** |
