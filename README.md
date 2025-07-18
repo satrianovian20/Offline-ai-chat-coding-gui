@@ -85,17 +85,17 @@ GUI lokal untuk LLaMA.cpp:
 📁 Cocok untuk chat dan coding!
 
 ⚠️ Versi LLaMA.cpp yang WAJIB Digunakan
-🛑 Hanya versi b5899 yang stabil dan telah diuji.
+🛑 Hanya versi b5930 yang stabil dan telah diuji.
 🔗 Unduh dari link berikut:
 
-✅ llama-b5899-bin-win-cpu-x64.zip (Rekomendasi)
+✅ llama-b5930-bin-win-cpu-x64.zip (Rekomendasi)
 
 Versi di atas adalah satu-satunya yang telah diuji berhasil memuat model lewat GUI ini.
 Versi di atas b900 tidak kompatibel dan menyebabkan gagal muat model (blank, stuck, atau crash).
 
 ✅ GUI AI Lokal ini telah diuji:
 📌 Model: Mistral-7B-Instruct-v0.3 (q4_k_m.gguf)
-🧠 Tanpa GPU, hanya CPU (llama.cpp b5899)
+🧠 Tanpa GPU, hanya CPU (llama.cpp b5930)
 💻 RAM 16GB — Penggunaan hanya 12.1GB
 🎵 Multitasking lancar: ChatGPT + YouTube + GitHub + Musik
 
@@ -103,9 +103,8 @@ Versi di atas b900 tidak kompatibel dan menyebabkan gagal muat model (blank, stu
 “GUI ini nggak ngebatesin kemampuan AI-nya. Kamu bisa atur output token sesuai kemampuan RAM PC kamu. Misal RAM kamu cuma 8GB, kamu bisa atur max token ke 150 biar tetap lancar. Kalau RAM kamu 16GB, bisa gaspol sampai 400 token. Jadi fleksibel, ringan, dan tetap powerful!”
 
 🚀 Efisien, ringan, dan cocok untuk PC rumahan.
-📁 Unduh llama.cpp versi b5899 (wajib):
-https://github.com/ggml-org/llama.cpp/releases/download/b5899/llama-b5899-bin-win-cpu-x64.zip
-
+📁 Unduh llama.cpp versi b5930 (wajib):
+https://github.com/ggml-org/llama.cpp/releases/download/b5930/llama-b5930-bin-win-cpu-x64.zip
 ## 📸 Screenshot (Model berhasil dimuat di RAM 16GB)
 
 ![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-17%20114247.png)
@@ -350,12 +349,12 @@ Local GUI for LLaMA.cpp:
 📁 Designed for chat and code!
 
 ⚠️ Required LLaMA.cpp Version
-🛑 Only version b5899 is tested and supported.
+🛑 Only version b5930 is tested and supported.
 🔗 Download here:
 
-✅ llama-b5899-bin-win-cpu-x64.zip (Recommended)
+✅ llama-b5930-bin-win-cpu-x64.zip (Recommended)
 
-Other versions, especially b900+, are not compatible and may cause model loading failure.
+Other versions, especially b5899, are not compatible and may cause model loading failure.
 
 💻 Minimum Requirements
 Component	Minimum
@@ -378,8 +377,8 @@ Best experience starts at 16GB RAM or more.
 “This GUI doesn’t limit the AI’s capabilities. You can adjust the output tokens based on your PC’s RAM. For example, if you only have 8GB of RAM, you can set the max tokens to 150 so it runs smoothly. If you have 16GB of RAM, you can go all the way up to 400 tokens. So it’s flexible, lightweight, and still powerful!”
 
 🚀 Efficient, lightweight, and perfect for personal PCs.
-📁 Must use llama.cpp build b5899:
-https://github.com/ggml-org/llama.cpp/releases/download/b5899/llama-b5899-bin-win-cpu-x64.zip
+📁 Must use llama.cpp build b5930:
+https://github.com/ggml-org/llama.cpp/releases/download/b5930/llama-b5930-bin-win-cpu-x64.zip
 
 ## 📸 Screenshot (Model successfully loaded on 16GB RAM)
 
