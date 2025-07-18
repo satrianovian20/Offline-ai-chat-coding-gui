@@ -91,7 +91,7 @@ GUI lokal untuk LLaMA.cpp:
 ✅ llama-b5930-bin-win-cpu-x64.zip (Rekomendasi)
 
 Versi di atas adalah satu-satunya yang telah diuji berhasil memuat model lewat GUI ini.
-Versi di atas b900 tidak kompatibel dan menyebabkan gagal muat model (blank, stuck, atau crash).
+Versi di atas b5899 tidak kompatibel dan menyebabkan gagal muat model (blank, stuck, atau crash).
 
 ✅ GUI AI Lokal ini telah diuji:
 📌 Model: Mistral-7B-Instruct-v0.3 (q4_k_m.gguf)
