@@ -1,0 +1,1182 @@
+💬 Selamat datang!
+💬 Selamat datang!
+[⏳] Memulai server dengan model:
+D:/Program Files/AI-Tools/Models/deepseek-coder-7b-instruct-v1.5-q4_k_m.gguf
+[LOG] load_backend: loaded RPC backend from C:\Users\Reza Pahlevi\Downloads\AI-Tools\GUI\textgen gui\llama-b5930-bin-win-cpu-x64\ggml-rpc.dll
+
+[LOG] load_backend: loaded CPU backend from C:\Users\Reza Pahlevi\Downloads\AI-Tools\GUI\textgen gui\llama-b5930-bin-win-cpu-x64\ggml-cpu-haswell.dll
+
+[LOG] build: 5930 (f9a31eea) with clang version 19.1.5 for x86_64-pc-windows-msvc
+
+[LOG] system info: n_threads = 6, n_threads_batch = 6, total_threads = 6
+
+[LOG] 
+
+[LOG] system_info: n_threads = 6 (n_threads_batch = 6) / 6 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | LLAMAFILE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+[LOG] 
+
+[LOG] main: binding port with default address family
+
+[LOG] main: HTTP server is listening, hostname: 127.0.0.1, port: 5001, http threads: 5
+
+[LOG] main: loading model
+
+[LOG] srv    load_model: loading model 'D:/Program Files/AI-Tools/Models/deepseek-coder-7b-instruct-v1.5-q4_k_m.gguf'
+
+[LOG] llama_model_loader: loaded meta data with 33 key-value pairs and 273 tensors from D:/Program Files/AI-Tools/Models/deepseek-coder-7b-instruct-v1.5-q4_k_m.gguf (version GGUF V3 (latest))
+
+[LOG] llama_model_loader: Dumping metadata keys/values. Note: KV overrides do not apply in this output.
+
+[LOG] llama_model_loader: - kv   0:                       general.architecture str              = llama
+
+[LOG] llama_model_loader: - kv   1:                               general.type str              = model
+
+[LOG] llama_model_loader: - kv   2:                               general.name str              = Deepseek Coder 7b Instruct v1.5
+
+[LOG] llama_model_loader: - kv   3:                            general.version str              = v1.5
+
+[LOG] llama_model_loader: - kv   4:                           general.finetune str              = instruct
+
+[LOG] llama_model_loader: - kv   5:                           general.basename str              = deepseek-coder
+
+[LOG] llama_model_loader: - kv   6:                         general.size_label str              = 7B
+
+[LOG] llama_model_loader: - kv   7:                            general.license str              = other
+
+[LOG] llama_model_loader: - kv   8:                       general.license.name str              = deepseek
+
+[LOG] llama_model_loader: - kv   9:                       general.license.link str              = LICENSE
+
+[LOG] llama_model_loader: - kv  10:                          llama.block_count u32              = 30
+
+[LOG] llama_model_loader: - kv  11:                       llama.context_length u32              = 4096
+
+[LOG] llama_model_loader: - kv  12:                     llama.embedding_length u32              = 4096
+
+[LOG] llama_model_loader: - kv  13:                  llama.feed_forward_length u32              = 11008
+
+[LOG] llama_model_loader: - kv  14:                 llama.attention.head_count u32              = 32
+
+[LOG] llama_model_loader: - kv  15:              llama.attention.head_count_kv u32              = 32
+
+[LOG] llama_model_loader: - kv  16:                       llama.rope.freq_base f32              = 10000.000000
+
+[LOG] llama_model_loader: - kv  17:     llama.attention.layer_norm_rms_epsilon f32              = 0.000001
+
+[LOG] llama_model_loader: - kv  18:                          general.file_type u32              = 15
+
+[LOG] llama_model_loader: - kv  19:                           llama.vocab_size u32              = 102400
+
+[LOG] llama_model_loader: - kv  20:                 llama.rope.dimension_count u32              = 128
+
+[LOG] llama_model_loader: - kv  21:                       tokenizer.ggml.model str              = gpt2
+
+[LOG] llama_model_loader: - kv  22:                         tokenizer.ggml.pre str              = deepseek-llm
+
+[LOG] llama_model_loader: - kv  23:                      tokenizer.ggml.tokens arr[str,102400]  = ["!", "\"", "#", "$", "%", "&", "'", ...
+
+[LOG] llama_model_loader: - kv  24:                  tokenizer.ggml.token_type arr[i32,102400]  = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, ...
+
+[LOG] llama_model_loader: - kv  25:                      tokenizer.ggml.merges arr[str,99757]   = ["Ġ Ġ", "Ġ t", "Ġ a", "i n", "h e...
+
+[LOG] llama_model_loader: - kv  26:                tokenizer.ggml.bos_token_id u32              = 100000
+
+[LOG] llama_model_loader: - kv  27:                tokenizer.ggml.eos_token_id u32              = 100015
+
+[LOG] llama_model_loader: - kv  28:            tokenizer.ggml.padding_token_id u32              = 100001
+
+[LOG] llama_model_loader: - kv  29:               tokenizer.ggml.add_bos_token bool             = true
+
+[LOG] llama_model_loader: - kv  30:               tokenizer.ggml.add_eos_token bool             = false
+
+[LOG] llama_model_loader: - kv  31:                    tokenizer.chat_template str              = {% if not add_generation_prompt is de...
+
+[LOG] llama_model_loader: - kv  32:               general.quantization_version u32              = 2
+
+[LOG] llama_model_loader: - type  f32:   61 tensors
+
+[LOG] llama_model_loader: - type q4_K:  183 tensors
+
+[LOG] llama_model_loader: - type q6_K:   29 tensors
+
+[LOG] print_info: file format = GGUF V3 (latest)
+
+[LOG] print_info: file type   = Q4_K - Medium
+
+[LOG] print_info: file size   = 3.93 GiB (4.88 BPW) 
+
+[LOG] load: special_eos_id is not in special_eog_ids - the tokenizer config may be incorrect
+
+[LOG] load: special_eot_id is not in special_eog_ids - the tokenizer config may be incorrect
+
+[LOG] load: special tokens cache size = 16
+
+[LOG] load: token to piece cache size = 0.6408 MB
+
+[LOG] print_info: arch             = llama
+
+[LOG] print_info: vocab_only       = 0
+
+[LOG] print_info: n_ctx_train      = 4096
+
+[LOG] print_info: n_embd           = 4096
+
+[LOG] print_info: n_layer          = 30
+
+[LOG] print_info: n_head           = 32
+
+[LOG] print_info: n_head_kv        = 32
+
+[LOG] print_info: n_rot            = 128
+
+[LOG] print_info: n_swa            = 0
+
+[LOG] print_info: is_swa_any       = 0
+
+[LOG] print_info: n_embd_head_k    = 128
+
+[LOG] print_info: n_embd_head_v    = 128
+
+[LOG] print_info: n_gqa            = 1
+
+[LOG] print_info: n_embd_k_gqa     = 4096
+
+[LOG] print_info: n_embd_v_gqa     = 4096
+
+[LOG] print_info: f_norm_eps       = 0.0e+00
+
+[LOG] print_info: f_norm_rms_eps   = 1.0e-06
+
+[LOG] print_info: f_clamp_kqv      = 0.0e+00
+
+[LOG] print_info: f_max_alibi_bias = 0.0e+00
+
+[LOG] print_info: f_logit_scale    = 0.0e+00
+
+[LOG] print_info: f_attn_scale     = 0.0e+00
+
+[LOG] print_info: n_ff             = 11008
+
+[LOG] print_info: n_expert         = 0
+
+[LOG] print_info: n_expert_used    = 0
+
+[LOG] print_info: causal attn      = 1
+
+[LOG] print_info: pooling type     = 0
+
+[LOG] print_info: rope type        = 0
+
+[LOG] print_info: rope scaling     = linear
+
+[LOG] print_info: freq_base_train  = 10000.0
+
+[LOG] print_info: freq_scale_train = 1
+
+[LOG] print_info: n_ctx_orig_yarn  = 4096
+
+[LOG] print_info: rope_finetuned   = unknown
+
+[LOG] print_info: model type       = 256M
+
+[LOG] print_info: model params     = 6.91 B
+
+[LOG] print_info: general.name     = Deepseek Coder 7b Instruct v1.5
+
+[LOG] print_info: vocab type       = BPE
+
+[LOG] print_info: n_vocab          = 102400
+
+[LOG] print_info: n_merges         = 99757
+
+[LOG] print_info: BOS token        = 100000 '<｜begin▁of▁sentence｜>'
+
+[LOG] print_info: EOS token        = 100015 '<|EOT|>'
+
+[LOG] print_info: EOT token        = 100001 '<｜end▁of▁sentence｜>'
+
+[LOG] print_info: PAD token        = 100001 '<｜end▁of▁sentence｜>'
+
+[LOG] print_info: LF token         = 185 'Ċ'
+
+[LOG] print_info: EOG token        = 100001 '<｜end▁of▁sentence｜>'
+
+[LOG] print_info: EOG token        = 100015 '<|EOT|>'
+
+[LOG] print_info: max token length = 256
+
+[LOG] load_tensors: loading model tensors, this can take a while... (mmap = true)
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] load_tensors: offloading 0 repeating layers to GPU
+
+[LOG] load_tensors: offloaded 0/31 layers to GPU
+
+[LOG] load_tensors:   CPU_Mapped model buffer size =  4023.91 MiB
+
+[LOG] load_tensors:   CPU_REPACK model buffer size =  2792.25 MiB
+
+[LOG] ............................................................srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] .............................
+
+[LOG] llama_context: constructing llama_context
+
+[LOG] llama_context: non-unified KV cache requires ggml_set_rows() - forcing unified KV cache
+
+[LOG] llama_context: n_seq_max     = 1
+
+[LOG] llama_context: n_ctx         = 4096
+
+[LOG] llama_context: n_ctx_per_seq = 4096
+
+[LOG] llama_context: n_batch       = 2048
+
+[LOG] llama_context: n_ubatch      = 512
+
+[LOG] llama_context: causal_attn   = 1
+
+[LOG] llama_context: flash_attn    = 0
+
+[LOG] llama_context: kv_unified    = true
+
+[LOG] llama_context: freq_base     = 10000.0
+
+[LOG] llama_context: freq_scale    = 1
+
+[LOG] llama_context:        CPU  output buffer size =     0.39 MiB
+
+[LOG] llama_kv_cache_unified:        CPU KV buffer size =  1920.00 MiB
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] llama_kv_cache_unified: size = 1920.00 MiB (  4096 cells,  30 layers,  1/ 1 seqs), K (f16):  960.00 MiB, V (f16):  960.00 MiB
+
+[LOG] llama_kv_cache_unified: LLAMA_SET_ROWS=0, using old ggml_cpy() method for backwards compatibility
+
+[LOG] llama_context:        CPU compute buffer size =   296.01 MiB
+
+[LOG] llama_context: graph nodes  = 1116
+
+[LOG] llama_context: graph splits = 1
+
+[LOG] common_init_from_params: added <｜end▁of▁sentence｜> logit bias = -inf
+
+[LOG] common_init_from_params: added <|EOT|> logit bias = -inf
+
+[LOG] common_init_from_params: setting dry_penalty_last_n to ctx_size = 4096
+
+[LOG] common_init_from_params: warming up the model with an empty run - please wait ... (--no-warmup to disable)
+
+[LOG] srv          init: initializing slots, n_slots = 1
+
+[LOG] slot         init: id  0 | task -1 | new slot n_ctx_slot = 4096
+
+[LOG] main: model loaded
+
+[LOG] main: chat template, chat_template: {% if not add_generation_prompt is defined %}
+
+[LOG] {% set add_generation_prompt = false %}
+
+[LOG] {% endif %}
+
+[LOG] {%- set ns = namespace(found=false) -%}
+
+[LOG] {%- for message in messages -%}
+
+[LOG]     {%- if message['role'] == 'system' -%}
+
+[LOG]         {%- set ns.found = true -%}
+
+[LOG]     {%- endif -%}
+
+[LOG] {%- endfor -%}
+
+[LOG] {{bos_token}}{%- if not ns.found -%}
+
+[LOG] {{'You are an AI programming assistant, utilizing the Deepseek Coder model, developed by Deepseek Company, and you only answer questions related to computer science. For politically sensitive questions, security and privacy issues, and other non-computer science questions, you will refuse to answer\n'}}
+
+[LOG] {%- endif %}
+
+[LOG] {%- for message in messages %}
+
+[LOG]     {%- if message['role'] == 'system' %}
+
+[LOG] {{ message['content'] }}
+
+[LOG]     {%- else %}
+
+[LOG]         {%- if message['role'] == 'user' %}
+
+[LOG] {{'### Instruction:\n' + message['content'] + '\n'}}
+
+[LOG]         {%- else %}
+
+[LOG] {{'### Response:\n' + message['content'] + '\n<|EOT|>\n'}}
+
+[LOG]         {%- endif %}
+
+[LOG]     {%- endif %}
+
+[LOG] {%- endfor %}
+
+[LOG] {% if add_generation_prompt %}
+
+[LOG] {{'### Response:'}}
+
+[LOG] {% endif %}, example_format: 'You are a helpful assistant### Instruction:
+
+[LOG] Hello
+
+[LOG] ### Response:
+
+[LOG] Hi there
+
+[LOG] <|EOT|>
+
+[LOG] ### Instruction:
+
+[LOG] How are you?
+
+[LOG] ### Response:
+
+[LOG] '
+
+[LOG] main: server is listening on http://127.0.0.1:5001 - starting the main loop
+
+[LOG] srv  update_slots: all slots are idle
+
+[LOG] slot launch_slot_: id  0 | task 0 | processing task
+
+[LOG] slot update_slots: id  0 | task 0 | new prompt, n_ctx_slot = 4096, n_keep = 0, n_prompt_tokens = 2
+
+[LOG] slot update_slots: id  0 | task 0 | kv cache rm [0, end)
+
+[LOG] slot update_slots: id  0 | task 0 | prompt processing progress, n_past = 2, n_tokens = 2, progress = 1.000000
+
+[LOG] slot update_slots: id  0 | task 0 | prompt done, n_past = 2, n_tokens = 2
+
+[LOG] slot      release: id  0 | task 0 | stop processing: n_past = 6, truncated = 0
+
+[LOG] slot print_timing: id  0 | task 0 | 
+
+[✅] Model siap! (dalam 4.4 detik)
+[LOG] prompt eval time =     288.85 ms /     2 tokens (  144.43 ms per token,     6.92 tokens per second)
+
+[LOG]        eval time =     552.58 ms /     5 tokens (  110.52 ms per token,     9.05 tokens per second)
+
+[LOG]       total time =     841.43 ms /     7 tokens
+
+[LOG] srv  update_slots: all slots are idle
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+[LOG] srv  log_server_r: request:    400
+
+
+🧑 You: explain css
+🤖 AI: flexbox layout 
+To create responsive design with CSS, you can use the Flexbox Layout module which provides an efficient way to align elements vertically or horizontally. It’s important because it allows for dynamic changes in size of its children without forcing them into being displayed as block-le... (ringkas)
+[LOG] slot launch_slot_: id  0 | task 6 | processing task
+
+[LOG] slot update_slots: id  0 | task 6 | new prompt, n_ctx_slot = 4096, n_keep = 0, n_prompt_tokens = 14
+
+[LOG] slot update_slots: id  0 | task 6 | kv cache rm [1, end)
+
+[LOG] slot update_slots: id  0 | task 6 | prompt processing progress, n_past = 14, n_tokens = 13, progress = 0.928571
+
+[LOG] slot update_slots: id  0 | task 6 | prompt done, n_past = 14, n_tokens = 13
+
+[LOG] slot      release: id  0 | task 6 | stop processing: n_past = 213, truncated = 0
+
+[LOG] slot print_timing: id  0 | task 6 | 
+
+[LOG] prompt eval time =     515.02 ms /    13 tokens (   39.62 ms per token,    25.24 tokens per second)
+
+[LOG]        eval time =   28472.78 ms /   200 tokens (  142.36 ms per token,     7.02 tokens per second)
+
+[LOG]       total time =   28987.80 ms /   213 tokens
+
+[LOG] srv  update_slots: all slots are idle
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+
+🧑 You: explain html
+🤖 AI: 5 progress tag with example  
+HTML5 introduced the <progress> element to indicate the completion progress of a task, typically displayed as a progress bar. It can be used within forms or anywhere in your HTML document where you want to display progress information. The syntax for using this element ... (ringkas)
+[LOG] slot launch_slot_: id  0 | task 207 | processing task
+
+[LOG] slot update_slots: id  0 | task 207 | new prompt, n_ctx_slot = 4096, n_keep = 0, n_prompt_tokens = 14
+
+[LOG] slot update_slots: id  0 | task 207 | kv cache rm [13, end)
+
+[LOG] slot update_slots: id  0 | task 207 | prompt processing progress, n_past = 14, n_tokens = 1, progress = 0.071429
+
+[LOG] slot update_slots: id  0 | task 207 | prompt done, n_past = 14, n_tokens = 1
+
+[LOG] slot      release: id  0 | task 207 | stop processing: n_past = 213, truncated = 0
+
+[LOG] slot print_timing: id  0 | task 207 | 
+
+[LOG] prompt eval time =     172.99 ms /     1 tokens (  172.99 ms per token,     5.78 tokens per second)
+
+[LOG]        eval time =   28735.16 ms /   200 tokens (  143.68 ms per token,     6.96 tokens per second)
+
+[LOG]       total time =   28908.15 ms /   201 tokens
+
+[LOG] srv  update_slots: all slots are idle
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+[🔁] Model diganti:
+D:/Program Files/AI-Tools/Models/Nous-Hermes-13B.Q4_K_M.gguf
+[🌾] Rakyat Mode Aktif — ctx=1024, RAM Mode=Normal
+[🛑] Proses lama dihentikan.
+[⏳] Memulai server dengan model:
+D:/Program Files/AI-Tools/Models/Nous-Hermes-13B.Q4_K_M.gguf
+[LOG] load_backend: loaded RPC backend from C:\Users\Reza Pahlevi\Downloads\AI-Tools\GUI\textgen gui\llama-b5930-bin-win-cpu-x64\ggml-rpc.dll
+
+[LOG] load_backend: loaded CPU backend from C:\Users\Reza Pahlevi\Downloads\AI-Tools\GUI\textgen gui\llama-b5930-bin-win-cpu-x64\ggml-cpu-haswell.dll
+
+[LOG] build: 5930 (f9a31eea) with clang version 19.1.5 for x86_64-pc-windows-msvc
+
+[LOG] system info: n_threads = 6, n_threads_batch = 6, total_threads = 6
+
+[LOG] 
+
+[LOG] system_info: n_threads = 6 (n_threads_batch = 6) / 6 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | LLAMAFILE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+[LOG] 
+
+[LOG] main: binding port with default address family
+
+[LOG] main: HTTP server is listening, hostname: 127.0.0.1, port: 5001, http threads: 5
+
+[LOG] main: loading model
+
+[LOG] srv    load_model: loading model 'D:/Program Files/AI-Tools/Models/Nous-Hermes-13B.Q4_K_M.gguf'
+
+[LOG] llama_model_loader: loaded meta data with 20 key-value pairs and 363 tensors from D:/Program Files/AI-Tools/Models/Nous-Hermes-13B.Q4_K_M.gguf (version GGUF V2)
+
+[LOG] llama_model_loader: Dumping metadata keys/values. Note: KV overrides do not apply in this output.
+
+[LOG] llama_model_loader: - kv   0:                       general.architecture str              = llama
+
+[LOG] llama_model_loader: - kv   1:                               general.name str              = nousresearch_nous-hermes-13b
+
+[LOG] llama_model_loader: - kv   2:                       llama.context_length u32              = 2048
+
+[LOG] llama_model_loader: - kv   3:                     llama.embedding_length u32              = 5120
+
+[LOG] llama_model_loader: - kv   4:                          llama.block_count u32              = 40
+
+[LOG] llama_model_loader: - kv   5:                  llama.feed_forward_length u32              = 13824
+
+[LOG] llama_model_loader: - kv   6:                 llama.rope.dimension_count u32              = 128
+
+[LOG] llama_model_loader: - kv   7:                 llama.attention.head_count u32              = 40
+
+[LOG] llama_model_loader: - kv   8:              llama.attention.head_count_kv u32              = 40
+
+[LOG] llama_model_loader: - kv   9:     llama.attention.layer_norm_rms_epsilon f32              = 0.000001
+
+[LOG] llama_model_loader: - kv  10:                          general.file_type u32              = 15
+
+[LOG] llama_model_loader: - kv  11:                       tokenizer.ggml.model str              = llama
+
+[LOG] llama_model_loader: - kv  12:                      tokenizer.ggml.tokens arr[str,32001]   = ["<unk>", "<s>", "</s>", "<0x00>", "<...
+
+[LOG] llama_model_loader: - kv  13:                      tokenizer.ggml.scores arr[f32,32001]   = [0.000000, 0.000000, 0.000000, 0.0000...
+
+[LOG] llama_model_loader: - kv  14:                  tokenizer.ggml.token_type arr[i32,32001]   = [2, 3, 3, 6, 6, 6, 6, 6, 6, 6, 6, 6, ...
+
+[LOG] llama_model_loader: - kv  15:                tokenizer.ggml.bos_token_id u32              = 1
+
+[LOG] llama_model_loader: - kv  16:                tokenizer.ggml.eos_token_id u32              = 2
+
+[LOG] llama_model_loader: - kv  17:            tokenizer.ggml.unknown_token_id u32              = 0
+
+[LOG] llama_model_loader: - kv  18:            tokenizer.ggml.padding_token_id u32              = 32000
+
+[LOG] llama_model_loader: - kv  19:               general.quantization_version u32              = 2
+
+[LOG] llama_model_loader: - type  f32:   81 tensors
+
+[LOG] llama_model_loader: - type q4_K:  241 tensors
+
+[LOG] llama_model_loader: - type q6_K:   41 tensors
+
+[LOG] print_info: file format = GGUF V2
+
+[LOG] print_info: file type   = Q4_K - Medium
+
+[LOG] print_info: file size   = 7.33 GiB (4.83 BPW) 
+
+[LOG] load: special_eos_id is not in special_eog_ids - the tokenizer config may be incorrect
+
+[LOG] load: special tokens cache size = 4
+
+[LOG] load: token to piece cache size = 0.1684 MB
+
+[LOG] print_info: arch             = llama
+
+[LOG] print_info: vocab_only       = 0
+
+[LOG] print_info: n_ctx_train      = 2048
+
+[LOG] print_info: n_embd           = 5120
+
+[LOG] print_info: n_layer          = 40
+
+[LOG] print_info: n_head           = 40
+
+[LOG] print_info: n_head_kv        = 40
+
+[LOG] print_info: n_rot            = 128
+
+[LOG] print_info: n_swa            = 0
+
+[LOG] print_info: is_swa_any       = 0
+
+[LOG] print_info: n_embd_head_k    = 128
+
+[LOG] print_info: n_embd_head_v    = 128
+
+[LOG] print_info: n_gqa            = 1
+
+[LOG] print_info: n_embd_k_gqa     = 5120
+
+[LOG] print_info: n_embd_v_gqa     = 5120
+
+[LOG] print_info: f_norm_eps       = 0.0e+00
+
+[LOG] print_info: f_norm_rms_eps   = 1.0e-06
+
+[LOG] print_info: f_clamp_kqv      = 0.0e+00
+
+[LOG] print_info: f_max_alibi_bias = 0.0e+00
+
+[LOG] print_info: f_logit_scale    = 0.0e+00
+
+[LOG] print_info: f_attn_scale     = 0.0e+00
+
+[LOG] print_info: n_ff             = 13824
+
+[LOG] print_info: n_expert         = 0
+
+[LOG] print_info: n_expert_used    = 0
+
+[LOG] print_info: causal attn      = 1
+
+[LOG] print_info: pooling type     = 0
+
+[LOG] print_info: rope type        = 0
+
+[LOG] print_info: rope scaling     = linear
+
+[LOG] print_info: freq_base_train  = 10000.0
+
+[LOG] print_info: freq_scale_train = 1
+
+[LOG] print_info: n_ctx_orig_yarn  = 2048
+
+[LOG] print_info: rope_finetuned   = unknown
+
+[LOG] print_info: model type       = 13B
+
+[LOG] print_info: model params     = 13.02 B
+
+[LOG] print_info: general.name     = nousresearch_nous-hermes-13b
+
+[LOG] print_info: vocab type       = SPM
+
+[LOG] print_info: n_vocab          = 32001
+
+[LOG] print_info: n_merges         = 0
+
+[LOG] print_info: BOS token        = 1 '<s>'
+
+[LOG] print_info: EOS token        = 2 '</s>'
+
+[LOG] print_info: UNK token        = 0 '<unk>'
+
+[LOG] print_info: PAD token        = 32000 '[PAD]'
+
+[LOG] print_info: LF token         = 13 '<0x0A>'
+
+[LOG] print_info: EOG token        = 2 '</s>'
+
+[LOG] print_info: max token length = 48
+
+[LOG] load_tensors: loading model tensors, this can take a while... (mmap = true)
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request:    400
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request:    400
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request:    400
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request:    400
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request:    400
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] load_tensors: offloading 0 repeating layers to GPU
+
+[LOG] load_tensors: offloaded 0/41 layers to GPU
+
+[LOG] load_tensors:   CPU_Mapped model buffer size =  7500.86 MiB
+
+[LOG] load_tensors:   CPU_REPACK model buffer size =  5765.62 MiB
+
+[LOG] ...................................srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] ....................srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] ...................srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] .................srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] .......srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] ..
+
+[LOG] llama_context: constructing llama_context
+
+[LOG] llama_context: non-unified KV cache requires ggml_set_rows() - forcing unified KV cache
+
+[LOG] llama_context: n_seq_max     = 1
+
+[LOG] llama_context: n_ctx         = 1024
+
+[LOG] llama_context: n_ctx_per_seq = 1024
+
+[LOG] llama_context: n_batch       = 1024
+
+[LOG] llama_context: n_ubatch      = 512
+
+[LOG] llama_context: causal_attn   = 1
+
+[LOG] llama_context: flash_attn    = 0
+
+[LOG] llama_context: kv_unified    = true
+
+[LOG] llama_context: freq_base     = 10000.0
+
+[LOG] llama_context: freq_scale    = 1
+
+[LOG] llama_context: n_ctx_per_seq (1024) < n_ctx_train (2048) -- the full capacity of the model will not be utilized
+
+[LOG] llama_context:        CPU  output buffer size =     0.12 MiB
+
+[LOG] llama_kv_cache_unified:        CPU KV buffer size =   800.00 MiB
+
+[LOG] llama_kv_cache_unified: size =  800.00 MiB (  1024 cells,  40 layers,  1/ 1 seqs), K (f16):  400.00 MiB, V (f16):  400.00 MiB
+
+[LOG] llama_kv_cache_unified: LLAMA_SET_ROWS=0, using old ggml_cpy() method for backwards compatibility
+
+[LOG] llama_context:        CPU compute buffer size =   122.01 MiB
+
+[LOG] llama_context: graph nodes  = 1486
+
+[LOG] llama_context: graph splits = 1
+
+[LOG] common_init_from_params: added </s> logit bias = -inf
+
+[LOG] common_init_from_params: setting dry_penalty_last_n to ctx_size = 1024
+
+[LOG] common_init_from_params: warming up the model with an empty run - please wait ... (--no-warmup to disable)
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request:    400
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request:    400
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv  log_server_r: request:    400
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+
+[LOG] srv          init: initializing slots, n_slots = 1
+
+[LOG] slot         init: id  0 | task -1 | new slot n_ctx_slot = 1024
+
+[LOG] main: model loaded
+
+[LOG] main: chat template, chat_template: {%- for message in messages -%}
+
+[LOG]   {{- '<|im_start|>' + message.role + '
+
+[LOG] ' + message.content + '<|im_end|>
+
+[LOG] ' -}}
+
+[LOG] {%- endfor -%}
+
+[LOG] {%- if add_generation_prompt -%}
+
+[LOG]   {{- '<|im_start|>assistant
+
+[LOG] ' -}}
+
+[LOG] {%- endif -%}, example_format: '<|im_start|>system
+
+[LOG] You are a helpful assistant<|im_end|>
+
+[LOG] <|im_start|>user
+
+[LOG] Hello<|im_end|>
+
+[LOG] <|im_start|>assistant
+
+[LOG] Hi there<|im_end|>
+
+[LOG] <|im_start|>user
+
+[LOG] How are you?<|im_end|>
+
+[LOG] <|im_start|>assistant
+
+[LOG] '
+
+[LOG] main: server is listening on http://127.0.0.1:5001 - starting the main loop
+
+[LOG] srv  update_slots: all slots are idle
+
+[LOG] slot launch_slot_: id  0 | task 0 | processing task
+
+[LOG] slot update_slots: id  0 | task 0 | new prompt, n_ctx_slot = 1024, n_keep = 0, n_prompt_tokens = 2
+
+[LOG] slot update_slots: id  0 | task 0 | kv cache rm [0, end)
+
+[LOG] slot update_slots: id  0 | task 0 | prompt processing progress, n_past = 2, n_tokens = 2, progress = 1.000000
+
+[LOG] slot update_slots: id  0 | task 0 | prompt done, n_past = 2, n_tokens = 2
+
+[LOG] slot      release: id  0 | task 0 | stop processing: n_past = 6, truncated = 0
+
+[LOG] slot print_timing: id  0 | task 0 | 
+
+[LOG] prompt eval time =     539.30 ms /     2 tokens (  269.65 ms per token,     3.71 tokens per second)
+
+[✅] Model siap! (dalam 29.8 detik)
+[LOG]        eval time =    1115.62 ms /     5 tokens (  223.12 ms per token,     4.48 tokens per second)
+
+[LOG]       total time =    1654.93 ms /     7 tokens
+
+[LOG] srv  update_slots: all slots are idle
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+[LOG] srv  log_server_r: request:    400
+
+
+🧑 You: how are you?
+🤖 AI: how can i assist you today?
+[LOG] slot launch_slot_: id  0 | task 6 | processing task
+
+[LOG] slot update_slots: id  0 | task 6 | new prompt, n_ctx_slot = 1024, n_keep = 0, n_prompt_tokens = 17
+
+[LOG] slot update_slots: id  0 | task 6 | kv cache rm [1, end)
+
+[LOG] slot update_slots: id  0 | task 6 | prompt processing progress, n_past = 17, n_tokens = 16, progress = 0.941176
+
+[LOG] slot update_slots: id  0 | task 6 | prompt done, n_past = 17, n_tokens = 16
+
+[LOG] slot      release: id  0 | task 6 | stop processing: n_past = 24, truncated = 0
+
+[LOG] slot print_timing: id  0 | task 6 | 
+
+[LOG] prompt eval time =     990.53 ms /    16 tokens (   61.91 ms per token,    16.15 tokens per second)
+
+[LOG]        eval time =    1889.37 ms /     8 tokens (  236.17 ms per token,     4.23 tokens per second)
+
+[LOG]       total time =    2879.90 ms /    24 tokens
+
+[LOG] srv  update_slots: all slots are idle
+
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+
+🧑 You: explain milk
+🤖 AI: to someone who has never seen it before.
+Milk is a white, creamy liquid that comes from animals called cows, goats, or sheep. It's full of nutrients like calcium and protein, which are important for strong bones, muscles, and overall health. It can be drank on its own or used in recipes to make things like cheese, yogurt, or ice cream.
+
+[🌾] Auto-muat model dalam RAKYAT MODE...
+[⏳] Memulai server dengan model:
+D:/Program Files/AI-Tools/Models/Nous-Hermes-13B.Q4_K_M.gguf
+[LOG] load_backend: loaded RPC backend from C:\Users\Reza Pahlevi\Downloads\AI-Tools\GUI\textgen gui\llama-b5930-bin-win-cpu-x64\ggml-rpc.dll
+[LOG] load_backend: loaded CPU backend from C:\Users\Reza Pahlevi\Downloads\AI-Tools\GUI\textgen gui\llama-b5930-bin-win-cpu-x64\ggml-cpu-haswell.dll
+[LOG] build: 5930 (f9a31eea) with clang version 19.1.5 for x86_64-pc-windows-msvc
+[LOG] system info: n_threads = 6, n_threads_batch = 6, total_threads = 6
+[LOG] 
+[LOG] system_info: n_threads = 6 (n_threads_batch = 6) / 6 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | LLAMAFILE = 1 | OPENMP = 1 | REPACK = 1 | 
+[LOG] 
+[LOG] main: binding port with default address family
+[LOG] main: HTTP server is listening, hostname: 127.0.0.1, port: 5001, http threads: 5
+[LOG] main: loading model
+[LOG] srv    load_model: loading model 'D:/Program Files/AI-Tools/Models/Nous-Hermes-13B.Q4_K_M.gguf'
+[LOG] llama_model_loader: loaded meta data with 20 key-value pairs and 363 tensors from D:/Program Files/AI-Tools/Models/Nous-Hermes-13B.Q4_K_M.gguf (version GGUF V2)
+[LOG] llama_model_loader: Dumping metadata keys/values. Note: KV overrides do not apply in this output.
+[LOG] llama_model_loader: - kv   0:                       general.architecture str              = llama
+[LOG] llama_model_loader: - kv   1:                               general.name str              = nousresearch_nous-hermes-13b
+[LOG] llama_model_loader: - kv   2:                       llama.context_length u32              = 2048
+[LOG] llama_model_loader: - kv   3:                     llama.embedding_length u32              = 5120
+[LOG] llama_model_loader: - kv   4:                          llama.block_count u32              = 40
+[LOG] llama_model_loader: - kv   5:                  llama.feed_forward_length u32              = 13824
+[LOG] llama_model_loader: - kv   6:                 llama.rope.dimension_count u32              = 128
+[LOG] llama_model_loader: - kv   7:                 llama.attention.head_count u32              = 40
+[LOG] llama_model_loader: - kv   8:              llama.attention.head_count_kv u32              = 40
+[LOG] llama_model_loader: - kv   9:     llama.attention.layer_norm_rms_epsilon f32              = 0.000001
+[LOG] llama_model_loader: - kv  10:                          general.file_type u32              = 15
+[LOG] llama_model_loader: - kv  11:                       tokenizer.ggml.model str              = llama
+[LOG] llama_model_loader: - kv  12:                      tokenizer.ggml.tokens arr[str,32001]   = ["<unk>", "<s>", "</s>", "<0x00>", "<...
+[LOG] llama_model_loader: - kv  13:                      tokenizer.ggml.scores arr[f32,32001]   = [0.000000, 0.000000, 0.000000, 0.0000...
+[LOG] llama_model_loader: - kv  14:                  tokenizer.ggml.token_type arr[i32,32001]   = [2, 3, 3, 6, 6, 6, 6, 6, 6, 6, 6, 6, ...
+[LOG] llama_model_loader: - kv  15:                tokenizer.ggml.bos_token_id u32              = 1
+[LOG] llama_model_loader: - kv  16:                tokenizer.ggml.eos_token_id u32              = 2
+[LOG] llama_model_loader: - kv  17:            tokenizer.ggml.unknown_token_id u32              = 0
+[LOG] llama_model_loader: - kv  18:            tokenizer.ggml.padding_token_id u32              = 32000
+[LOG] llama_model_loader: - kv  19:               general.quantization_version u32              = 2
+[LOG] llama_model_loader: - type  f32:   81 tensors
+[LOG] llama_model_loader: - type q4_K:  241 tensors
+[LOG] llama_model_loader: - type q6_K:   41 tensors
+[LOG] print_info: file format = GGUF V2
+[LOG] print_info: file type   = Q4_K - Medium
+[LOG] print_info: file size   = 7.33 GiB (4.83 BPW) 
+[LOG] load: special_eos_id is not in special_eog_ids - the tokenizer config may be incorrect
+[LOG] load: special tokens cache size = 4
+[LOG] load: token to piece cache size = 0.1684 MB
+[LOG] print_info: arch             = llama
+[LOG] print_info: vocab_only       = 0
+[LOG] print_info: n_ctx_train      = 2048
+[LOG] print_info: n_embd           = 5120
+[LOG] print_info: n_layer          = 40
+[LOG] print_info: n_head           = 40
+[LOG] print_info: n_head_kv        = 40
+[LOG] print_info: n_rot            = 128
+[LOG] print_info: n_swa            = 0
+[LOG] print_info: is_swa_any       = 0
+[LOG] print_info: n_embd_head_k    = 128
+[LOG] print_info: n_embd_head_v    = 128
+[LOG] print_info: n_gqa            = 1
+[LOG] print_info: n_embd_k_gqa     = 5120
+[LOG] print_info: n_embd_v_gqa     = 5120
+[LOG] print_info: f_norm_eps       = 0.0e+00
+[LOG] print_info: f_norm_rms_eps   = 1.0e-06
+[LOG] print_info: f_clamp_kqv      = 0.0e+00
+[LOG] print_info: f_max_alibi_bias = 0.0e+00
+[LOG] print_info: f_logit_scale    = 0.0e+00
+[LOG] print_info: f_attn_scale     = 0.0e+00
+[LOG] print_info: n_ff             = 13824
+[LOG] print_info: n_expert         = 0
+[LOG] print_info: n_expert_used    = 0
+[LOG] print_info: causal attn      = 1
+[LOG] print_info: pooling type     = 0
+[LOG] print_info: rope type        = 0
+[LOG] print_info: rope scaling     = linear
+[LOG] print_info: freq_base_train  = 10000.0
+[LOG] print_info: freq_scale_train = 1
+[LOG] print_info: n_ctx_orig_yarn  = 2048
+[LOG] print_info: rope_finetuned   = unknown
+[LOG] print_info: model type       = 13B
+[LOG] print_info: model params     = 13.02 B
+[LOG] print_info: general.name     = nousresearch_nous-hermes-13b
+[LOG] print_info: vocab type       = SPM
+[LOG] print_info: n_vocab          = 32001
+[LOG] print_info: n_merges         = 0
+[LOG] print_info: BOS token        = 1 '<s>'
+[LOG] print_info: EOS token        = 2 '</s>'
+[LOG] print_info: UNK token        = 0 '<unk>'
+[LOG] print_info: PAD token        = 32000 '[PAD]'
+[LOG] print_info: LF token         = 13 '<0x0A>'
+[LOG] print_info: EOG token        = 2 '</s>'
+[LOG] print_info: max token length = 48
+[LOG] load_tensors: loading model tensors, this can take a while... (mmap = true)
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+[LOG] srv  log_server_r: request:    400
+[LOG] load_tensors: offloading 0 repeating layers to GPU
+[LOG] load_tensors: offloaded 0/41 layers to GPU
+[LOG] load_tensors:   CPU_REPACK model buffer size =  5765.62 MiB
+[LOG] load_tensors:   CPU_Mapped model buffer size =  7500.86 MiB
+[LOG] ................srv  log_server_r: request: POST /completion 127.0.0.1 503
+[LOG] ...................srv  log_server_r: request: POST /completion 127.0.0.1 503
+[LOG] srv  log_server_r: request:    400
+[LOG] ................srv  log_server_r: request: POST /completion 127.0.0.1 503
+[LOG] srv  log_server_r: request:    400
+[LOG] ...............srv  log_server_r: request: POST /completion 127.0.0.1 503
+[LOG] ...srv  log_server_r: request: POST /completion 127.0.0.1 503
+[LOG] srv  log_server_r: request:    400
+[LOG] ..............................
+[LOG] llama_context: constructing llama_context
+[LOG] llama_context: non-unified KV cache requires ggml_set_rows() - forcing unified KV cache
+[LOG] llama_context: n_seq_max     = 1
+[LOG] llama_context: n_ctx         = 1024
+[LOG] llama_context: n_ctx_per_seq = 1024
+[LOG] llama_context: n_batch       = 1024
+[LOG] llama_context: n_ubatch      = 512
+[LOG] llama_context: causal_attn   = 1
+[LOG] llama_context: flash_attn    = 0
+[LOG] llama_context: kv_unified    = true
+[LOG] llama_context: freq_base     = 10000.0
+[LOG] llama_context: freq_scale    = 1
+[LOG] llama_context: n_ctx_per_seq (1024) < n_ctx_train (2048) -- the full capacity of the model will not be utilized
+[LOG] llama_context:        CPU  output buffer size =     0.12 MiB
+[LOG] llama_kv_cache_unified:        CPU KV buffer size =   800.00 MiB
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+[LOG] llama_kv_cache_unified: size =  800.00 MiB (  1024 cells,  40 layers,  1/ 1 seqs), K (f16):  400.00 MiB, V (f16):  400.00 MiB
+[LOG] llama_kv_cache_unified: LLAMA_SET_ROWS=0, using old ggml_cpy() method for backwards compatibility
+[LOG] llama_context:        CPU compute buffer size =   122.01 MiB
+[LOG] llama_context: graph nodes  = 1486
+[LOG] llama_context: graph splits = 1
+[LOG] common_init_from_params: added </s> logit bias = -inf
+[LOG] common_init_from_params: setting dry_penalty_last_n to ctx_size = 1024
+[LOG] common_init_from_params: warming up the model with an empty run - please wait ... (--no-warmup to disable)
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+[LOG] srv  log_server_r: request:    400
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+[LOG] srv  log_server_r: request:    400
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+[LOG] srv  log_server_r: request:    400
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 503
+[LOG] srv  log_server_r: request:    400
+[LOG] srv          init: initializing slots, n_slots = 1
+[LOG] slot         init: id  0 | task -1 | new slot n_ctx_slot = 1024
+[LOG] main: model loaded
+[LOG] main: chat template, chat_template: {%- for message in messages -%}
+[LOG]   {{- '<|im_start|>' + message.role + '
+[LOG] ' + message.content + '<|im_end|>
+[LOG] ' -}}
+[LOG] {%- endfor -%}
+[LOG] {%- if add_generation_prompt -%}
+[LOG]   {{- '<|im_start|>assistant
+[LOG] ' -}}
+[LOG] {%- endif -%}, example_format: '<|im_start|>system
+[LOG] You are a helpful assistant<|im_end|>
+[LOG] <|im_start|>user
+[LOG] Hello<|im_end|>
+[LOG] <|im_start|>assistant
+[LOG] Hi there<|im_end|>
+[LOG] <|im_start|>user
+[LOG] How are you?<|im_end|>
+[LOG] <|im_start|>assistant
+[LOG] '
+[LOG] main: server is listening on http://127.0.0.1:5001 - starting the main loop
+[LOG] srv  update_slots: all slots are idle
+[LOG] slot launch_slot_: id  0 | task 0 | processing task
+[LOG] slot update_slots: id  0 | task 0 | new prompt, n_ctx_slot = 1024, n_keep = 0, n_prompt_tokens = 2
+[LOG] slot update_slots: id  0 | task 0 | kv cache rm [0, end)
+[LOG] slot update_slots: id  0 | task 0 | prompt processing progress, n_past = 2, n_tokens = 2, progress = 1.000000
+[LOG] slot update_slots: id  0 | task 0 | prompt done, n_past = 2, n_tokens = 2
+[LOG] slot      release: id  0 | task 0 | stop processing: n_past = 6, truncated = 0
+[LOG] slot print_timing: id  0 | task 0 | 
+[LOG] prompt eval time =     495.19 ms /     2 tokens (  247.60 ms per token,     4.04 tokens per second)
+[✅] Model siap! (dalam 20.5 detik)
+[LOG]        eval time =    1085.45 ms /     5 tokens (  217.09 ms per token,     4.61 tokens per second)
+[LOG]       total time =    1580.65 ms /     7 tokens
+[LOG] srv  update_slots: all slots are idle
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+🧑 You: explain <p>
+🤖 AI: ...</p> in plain language.
+[LOG] slot launch_slot_: id  0 | task 6 | processing task
+[LOG] slot update_slots: id  0 | task 6 | new prompt, n_ctx_slot = 1024, n_keep = 0, n_prompt_tokens = 18
+[LOG] slot update_slots: id  0 | task 6 | kv cache rm [1, end)
+[LOG] slot update_slots: id  0 | task 6 | prompt processing progress, n_past = 18, n_tokens = 17, progress = 0.944444
+[LOG] slot update_slots: id  0 | task 6 | prompt done, n_past = 18, n_tokens = 17
+[LOG] slot      release: id  0 | task 6 | stop processing: n_past = 26, truncated = 0
+[LOG] slot print_timing: id  0 | task 6 | 
+[LOG] prompt eval time =    1107.33 ms /    17 tokens (   65.14 ms per token,    15.35 tokens per second)
+[LOG]        eval time =    2453.23 ms /     9 tokens (  272.58 ms per token,     3.67 tokens per second)
+[LOG]       total time =    3560.56 ms /    26 tokens
+[LOG] srv  update_slots: all slots are idle
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+🧑 You: explain python
+🤖 AI: 
+[LOG] slot launch_slot_: id  0 | task 16 | processing task
+[LOG] slot update_slots: id  0 | task 16 | new prompt, n_ctx_slot = 1024, n_keep = 0, n_prompt_tokens = 16
+[LOG] slot update_slots: id  0 | task 16 | kv cache rm [15, end)
+[LOG] slot update_slots: id  0 | task 16 | prompt processing progress, n_past = 16, n_tokens = 1, progress = 0.062500
+[LOG] slot update_slots: id  0 | task 16 | prompt done, n_past = 16, n_tokens = 1
+[LOG] slot      release: id  0 | task 16 | stop processing: n_past = 16, truncated = 0
+[LOG] slot print_timing: id  0 | task 16 | 
+[LOG] prompt eval time =     276.31 ms /     1 tokens (  276.31 ms per token,     3.62 tokens per second)
+[LOG]        eval time =       0.01 ms /     1 tokens (    0.01 ms per token, 83333.33 tokens per second)
+[LOG]       total time =     276.32 ms /     2 tokens
+[LOG] srv  update_slots: all slots are idle
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+🧑 You: explain greenhouse
+🤖 AI: effect in simple terms.
+[LOG] slot launch_slot_: id  0 | task 18 | processing task
+[LOG] slot update_slots: id  0 | task 18 | new prompt, n_ctx_slot = 1024, n_keep = 0, n_prompt_tokens = 17
+[LOG] slot update_slots: id  0 | task 18 | kv cache rm [15, end)
+[LOG] slot update_slots: id  0 | task 18 | prompt processing progress, n_past = 17, n_tokens = 2, progress = 0.117647
+[LOG] slot update_slots: id  0 | task 18 | prompt done, n_past = 17, n_tokens = 2
+[LOG] slot      release: id  0 | task 18 | stop processing: n_past = 22, truncated = 0
+[LOG] slot print_timing: id  0 | task 18 | 
+[LOG] prompt eval time =     470.94 ms /     2 tokens (  235.47 ms per token,     4.25 tokens per second)
+[LOG]        eval time =    1370.60 ms /     6 tokens (  228.43 ms per token,     4.38 tokens per second)
+[LOG]       total time =    1841.54 ms /     8 tokens
+[LOG] srv  update_slots: all slots are idle
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+🧑 You: how are you?
+🤖 AI: what would you like me to help with today?
+I’m doing well, thanks for asking! I can assist you in finding information, scheduling appointments or reminding you of important dates.
+[LOG] slot launch_slot_: id  0 | task 25 | processing task
+[LOG] slot update_slots: id  0 | task 25 | new prompt, n_ctx_slot = 1024, n_keep = 0, n_prompt_tokens = 17
+[LOG] slot update_slots: id  0 | task 25 | kv cache rm [13, end)
+[LOG] slot update_slots: id  0 | task 25 | prompt processing progress, n_past = 17, n_tokens = 4, progress = 0.235294
+[LOG] slot update_slots: id  0 | task 25 | prompt done, n_past = 17, n_tokens = 4
+[LOG] slot      release: id  0 | task 25 | stop processing: n_past = 58, truncated = 0
+[LOG] slot print_timing: id  0 | task 25 | 
+[LOG] prompt eval time =     351.20 ms /     4 tokens (   87.80 ms per token,    11.39 tokens per second)
+[LOG]        eval time =   11191.12 ms /    42 tokens (  266.46 ms per token,     3.75 tokens per second)
+[LOG]       total time =   11542.32 ms /    46 tokens
+[LOG] srv  update_slots: all slots are idle
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+🧑 You: give me information about greenhouse
+🤖 AI: gases, please.
+[LOG] slot launch_slot_: id  0 | task 68 | processing task
+[LOG] slot update_slots: id  0 | task 68 | new prompt, n_ctx_slot = 1024, n_keep = 0, n_prompt_tokens = 20
+[LOG] slot update_slots: id  0 | task 68 | kv cache rm [13, end)
+[LOG] slot update_slots: id  0 | task 68 | prompt processing progress, n_past = 20, n_tokens = 7, progress = 0.350000
+[LOG] slot update_slots: id  0 | task 68 | prompt done, n_past = 20, n_tokens = 7
+[LOG] slot      release: id  0 | task 68 | stop processing: n_past = 25, truncated = 0
+[LOG] slot print_timing: id  0 | task 68 | 
+[LOG] prompt eval time =     931.52 ms /     7 tokens (  133.07 ms per token,     7.51 tokens per second)
+[LOG]        eval time =    1371.86 ms /     6 tokens (  228.64 ms per token,     4.37 tokens per second)
+[LOG]       total time =    2303.38 ms /    13 tokens
+[LOG] srv  update_slots: all slots are idle
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+🧑 You: what python is
+🤖 AI: to programming, you are the equivalent for writing.
+[LOG] slot launch_slot_: id  0 | task 75 | processing task
+[LOG] slot update_slots: id  0 | task 75 | new prompt, n_ctx_slot = 1024, n_keep = 0, n_prompt_tokens = 16
+[LOG] slot update_slots: id  0 | task 75 | kv cache rm [13, end)
+[LOG] slot update_slots: id  0 | task 75 | prompt processing progress, n_past = 16, n_tokens = 3, progress = 0.187500
+[LOG] slot update_slots: id  0 | task 75 | prompt done, n_past = 16, n_tokens = 3
+[LOG] slot      release: id  0 | task 75 | stop processing: n_past = 26, truncated = 0
+[LOG] slot print_timing: id  0 | task 75 | 
+[LOG] prompt eval time =     669.26 ms /     3 tokens (  223.09 ms per token,     4.48 tokens per second)
+[LOG]        eval time =    2711.45 ms /    11 tokens (  246.50 ms per token,     4.06 tokens per second)
+[LOG]       total time =    3380.71 ms /    14 tokens
+[LOG] srv  update_slots: all slots are idle
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+🧑 You: explain html tag
+🤖 AI: 
+[LOG] slot launch_slot_: id  0 | task 87 | processing task
+[LOG] slot update_slots: id  0 | task 87 | new prompt, n_ctx_slot = 1024, n_keep = 0, n_prompt_tokens = 17
+[LOG] slot update_slots: id  0 | task 87 | kv cache rm [13, end)
+[LOG] slot update_slots: id  0 | task 87 | prompt processing progress, n_past = 17, n_tokens = 4, progress = 0.235294
+[LOG] slot update_slots: id  0 | task 87 | prompt done, n_past = 17, n_tokens = 4
+[LOG] slot      release: id  0 | task 87 | stop processing: n_past = 17, truncated = 0
+[LOG] slot print_timing: id  0 | task 87 | 
+[LOG] prompt eval time =     351.24 ms /     4 tokens (   87.81 ms per token,    11.39 tokens per second)
+[LOG]        eval time =       0.01 ms /     1 tokens (    0.01 ms per token, 90909.09 tokens per second)
+[LOG]       total time =     351.25 ms /     5 tokens
+[LOG] srv  update_slots: all slots are idle
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+🧑 You: explain css3
+🤖 AI: to me like im five years old
+[LOG] slot launch_slot_: id  0 | task 89 | processing task
+[LOG] slot update_slots: id  0 | task 89 | new prompt, n_ctx_slot = 1024, n_keep = 0, n_prompt_tokens = 17
+[LOG] slot update_slots: id  0 | task 89 | kv cache rm [15, end)
+[LOG] slot update_slots: id  0 | task 89 | prompt processing progress, n_past = 17, n_tokens = 2, progress = 0.117647
+[LOG] slot update_slots: id  0 | task 89 | prompt done, n_past = 17, n_tokens = 2
+[LOG] slot      release: id  0 | task 89 | stop processing: n_past = 24, truncated = 0
+[LOG] slot print_timing: id  0 | task 89 | 
+[LOG] prompt eval time =     472.32 ms /     2 tokens (  236.16 ms per token,     4.23 tokens per second)
+[LOG]        eval time =    1895.90 ms /     8 tokens (  236.99 ms per token,     4.22 tokens per second)
+[LOG]       total time =    2368.22 ms /    10 tokens
+[LOG] srv  update_slots: all slots are idle
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+🧑 You: explain epub
+🤖 AI: The 2000 2005 World out of the water. understand your other and be catalog. CAPTCHAThe work is five resources. What is the largest server in the online page?
+[LOG] slot launch_slot_: id  0 | task 98 | processing task
+[LOG] slot update_slots: id  0 | task 98 | new prompt, n_ctx_slot = 1024, n_keep = 0, n_prompt_tokens = 17
+[LOG] slot update_slots: id  0 | task 98 | kv cache rm [15, end)
+[LOG] slot update_slots: id  0 | task 98 | prompt processing progress, n_past = 17, n_tokens = 2, progress = 0.117647
+[LOG] slot update_slots: id  0 | task 98 | prompt done, n_past = 17, n_tokens = 2
+[LOG] slot      release: id  0 | task 98 | stop processing: n_past = 62, truncated = 0
+[LOG] slot print_timing: id  0 | task 98 | 
+[LOG] prompt eval time =     494.48 ms /     2 tokens (  247.24 ms per token,     4.04 tokens per second)
+[LOG]        eval time =   12717.08 ms /    46 tokens (  276.46 ms per token,     3.62 tokens per second)
+[LOG]       total time =   13211.57 ms /    48 tokens
+[LOG] srv  update_slots: all slots are idle
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+🧑 You: Can you explain what an EPUB file is and how it works?
+🤖 AI: Sure! An EPUB (short for electronic publication) is a digital file format designed specifically for reflowable digital publications, meaning the text can be reformatted to fit the screen of any device being used to read it. The format was created by the International Digital Publishing Forum (IDPF),... (ringkas)
+[LOG] slot launch_slot_: id  0 | task 145 | processing task
+[LOG] slot update_slots: id  0 | task 145 | new prompt, n_ctx_slot = 1024, n_keep = 0, n_prompt_tokens = 28
+[LOG] slot update_slots: id  0 | task 145 | kv cache rm [13, end)
+[LOG] slot update_slots: id  0 | task 145 | prompt processing progress, n_past = 28, n_tokens = 15, progress = 0.535714
+[LOG] slot update_slots: id  0 | task 145 | prompt done, n_past = 28, n_tokens = 15
+[LOG] slot      release: id  0 | task 145 | stop processing: n_past = 219, truncated = 0
+[LOG] slot print_timing: id  0 | task 145 | 
+[LOG] prompt eval time =    1717.24 ms /    15 tokens (  114.48 ms per token,     8.73 tokens per second)
+[LOG]        eval time =   53531.20 ms /   192 tokens (  278.81 ms per token,     3.59 tokens per second)
+[LOG]       total time =   55248.44 ms /   207 tokens
+[LOG] srv  update_slots: all slots are idle
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+🧑 You: How can I make a cup of coffee without a coffee machine?
+🤖 AI: You can make a cup of coffee without a coffee machine using the following simple method: 1. Boil water in a kettle or saucepan. 2. Measure out one tablespoon of coffee grounds for every four ounces of boiling water you plan to use. 3. Place the coffee grounds in a heat-resistant cup or container. 4.... (ringkas)
+
