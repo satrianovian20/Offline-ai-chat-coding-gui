@@ -1,4 +1,4 @@
-# offline-ai-chat-coding-gui
+# offline-ai-chat-coding-gui 🧠 Offline AI Chat & Coding GUI (Rakyat Edition)
 GUI Python ringan (Tkinter) untuk menjalankan AI chat &amp; coding dengan model GGUF lokal (Low GUI PYTHON from Tkinter to run Offline AI Chat and Coding)
 # 💬 Offline AI Chat & Coding GUI (Super Ringan untuk PC Low-End)
 
