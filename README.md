@@ -461,9 +461,9 @@ For 33B+ models, testing will follow when more RAM is available. The GUI already
 
 Below are the GUI versions that have been successfully tested:
 
-+-------------------------------+------------------------+------------------------------------------------------------------------+
+
 | File Version                  | Status                 | Main Features                                                          |
-+-------------------------------+------------------------+------------------------------------------------------------------------+
+|----------------------------------|----------------------------------|--------------------------------------|
 | llamacpp_gui_combined.py      | ✅ Stable              | Initial combined version of chat + system GUI                          |
 | llamacpp_gui_combinedv2.py    | ✅                     | Added model & prompt configuration options                             |
 | llamacpp_gui_combinedv3.py    | ✅                     | Minor bug fixes, cleaner UI                                            |
