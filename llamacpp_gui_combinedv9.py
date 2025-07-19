@@ -157,7 +157,7 @@ def send_message():
             "top_p": float(entry_topp.get()),
             "n_predict": int(entry_max_tokens.get()),
             "repeat_penalty": float(entry_repeat_penalty.get()),
-            "stop": ["<|endoftext|>", "You:"]
+            "stop": []
         }
     except Exception as e:
         messagebox.showerror("Input Error", str(e))
@@ -168,19 +168,14 @@ def send_message():
     tab_input.delete("1.0", tk.END)
 
     try:
-        r = requests.post(LLAMA_API, json=data, timeout=120)
+        r = requests.post(LLAMA_API, json=data, timeout=2400)
         r.raise_for_status()
         content = r.json().get('content', '').strip()
 
-        # Ringkas jika output terlalu panjang
-        if len(content) > 400:
-            summary = content[:300] + "... (ringkas)"
-        else:
-            summary = content
+        # Langsung tampilkan seluruh isi tanpa pemotongan
+        tab_chat.insert(tk.END, f"🤖 AI: {content}\n")
 
-        tab_chat.insert(tk.END, f"🤖 AI: {summary}\n")
-
-        # Simpan riwayat
+        # Simpan riwayat lengkap
         with open(HISTORY_FILE, "a", encoding="utf-8") as f:
             f.write(f"You: {prompt}\nAI: {content}\n\n")
         with open(SESSION_FILE, "w", encoding="utf-8") as f:
