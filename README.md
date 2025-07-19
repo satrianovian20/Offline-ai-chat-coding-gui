@@ -476,7 +476,6 @@ Below are the GUI versions that have been successfully tested:
 | llamacpp_rakyatmode.py        | ✅ Latest              | + --ctx-size defaults to 1024 + optimized for low RAM                  |
 | llamacpp_gui_mode.py          | ✅ Experimental/Stable | Lightweight GUI mode + supports loading 13B Q4_K_M model               |
 | llamacpp_gui_modev2.py        | ✅                     | Combination of GUI mode and system layout                              |
-+-------------------------------+------------------------+------------------------------------------------------------------------+
 
 ---
 
