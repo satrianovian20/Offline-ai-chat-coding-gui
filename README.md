@@ -125,11 +125,10 @@ GUI ini hanya berukuran 10KB namun sudah terbukti mampu menangani model AI lokal
 
 💡 GUI ini bahkan lebih optimal dibanding banyak UI besar di luar sana karena tidak menyia-nyiakan resource, cocok untuk pengguna low-end PC yang tetap ingin merasakan kekuatan model besar lokal.
 
+---
+
 📌 Bonus Penjelasan Visual (Flowchart Saran)
 
-csharp
-Copy
-Edit
 [Mulai GUI]
    ↓
 [Load Model]
@@ -150,6 +149,8 @@ Edit
    → RAM tetap
    → CPU turun
 
+---
+
 ✅ Recap Status Dokumentasi (versi Indonesia):
 Elemen Bukti	Status
 📜 Log sesi (session-logs)	✅ Sudah ada
@@ -157,6 +158,8 @@ Elemen Bukti	Status
 🖼️ Screenshot saat idle	✅ Sudah ada
 🧪 Model besar (13B Q4_K_M)	✅ Sudah diuji
 ⚙️ GUI ringan (6KB-16kb Python script)	✅ Terpakai dengan lancar dan tanpa crash karena adanya fitur otomatis yang melakukan optimaliasi ram dan cpu
+
+---
 
 ✅ FAQ — Pertanyaan Umum (Trust Booster Edition)
 ❓ GUI ini beneran bisa jalanin model 13B tanpa GPU?
