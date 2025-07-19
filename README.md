@@ -8,7 +8,7 @@ GUI Python ringan (Tkinter) untuk menjalankan AI chat &amp; coding dengan model 
 
 Meskipun sistem Anda 16GB, Windows dan Office 2024 bisa menyita 3–5 GB di background. Namun, GUI ini tetap dapat menjalankan model 7B - 13B Q4_K_M. Tanpa GPU, tanpa swap besar.
 
-## ⚖️ Perbandingan GUI Python 6KB-16kb vs WebUI Berat
+## ⚖️ Perbandingan GUI Python kb vs WebUI Berat
 
 | **Fitur / Aspek**                | 🐍 **GUI Python KB (tkinter)** | 🌐 **WebUI (Gradio/Oobabooga dll.)** |
 |----------------------------------|----------------------------------|--------------------------------------|
@@ -38,7 +38,7 @@ Even if your system has 16GB, Windows and Office 2024 can take up 3–5GB in the
 > 🇮🇩 This project is primarily documented in Indonesian.
 > 🇬🇧 English overview is provided below.
 
-## ⚖️ Comparison: Python GUI (6–16KB) vs Heavy WebUIs
+## ⚖️ Comparison: Python GUI (KB) vs Heavy WebUIs
 
 | **Feature / Aspect**             | 🐍 **Python GUI KB (Tkinter)**       | 🌐 **WebUIs (Gradio/Oobabooga, etc.)**     |
 |:----------------------------------|:----------------------------------------|:--------------------------------------------|
