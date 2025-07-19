@@ -250,7 +250,7 @@ Berikut versi-versi GUI yang berhasil diuji:
 | llamacpp_gui_combinedv7.py| ✅        | + Auto-save session dan repeat_penalty   |
 | llamacpp_gui_combinedv8.py| ✅       | + Auto-save load model berfungsi        |
 | llamacpp_gui_combinedv9.py| ✅        | + Fitur Rakyat Mode di menu pengaturan dan prompt hemat ram di samping mulai Llama Server        |
-| llamacpp_gui_combinedv10.py    | ✅ Terbaru              | + Generate Prompt Words per chunk and chunk delay       |
+| llamacpp_gui_combinedv10.py    | ✅ Terbaru              | + Generate Prompt Words per chunk, chunk delay, chat context, save context, dan load save context       |
 | llamacpp_rakyatmode.py| ✅ Terbaru | + --ctx-size default ke 1024 + Lowram        |
 | llamacpp_gui_mode.py      | ✅ Eksperimen + Stabil | Mode GUI ringan eksperimen + load model 13 Q4_K_M               |
 | llamacpp_gui_modev2.py    | ✅        | Kombinasi GUI mode dengan layout sistem  |
@@ -477,7 +477,7 @@ Below are the GUI versions that have been successfully tested:
 | llamacpp_gui_combinedv7.py    | ✅                     | + Auto-save session and repeat_penalty setting                         |
 | llamacpp_gui_combinedv8.py    | ✅                     | + Auto-save model loading now works properly                           |
 | llamacpp_gui_combinedv9.py    | ✅               | + “Rakyat Mode” in settings + RAM-friendly prompt + LLaMA Server       |
-| llamacpp_gui_combinedv10.py    | ✅ Latest              | + Generate Prompt Words per chunk and chunk delay       |
+| llamacpp_gui_combinedv10.py    | ✅ Latest              | + Generate Prompt Words per chunk, chunk delay, chat context, save context, and load save context      |
 | llamacpp_rakyatmode.py        | ✅ Latest              | + --ctx-size defaults to 1024 + optimized for low RAM                  |
 | llamacpp_gui_mode.py          | ✅ Experimental/Stable | Lightweight GUI mode + supports loading 13B Q4_K_M model               |
 | llamacpp_gui_modev2.py        | ✅                     | Combination of GUI mode and system layout                              |
