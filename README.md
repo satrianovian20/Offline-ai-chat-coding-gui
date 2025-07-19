@@ -102,8 +102,8 @@ Kalau user punya RAM:
 
 >16GB: Bisa gas model 13B seperti Yi-13B, OpenHermes 13B, dll.
 
-Optimalitas GUI Python 6KB-10kb:
-✅ GUI Python 10KB Terbukti Optimal dan Stabil
+Optimalitas GUI Python 6KB-16kb:
+✅ GUI Python Terbukti Optimal dan Stabil
 
 GUI ini hanya berukuran 10KB namun sudah terbukti mampu menangani model AI lokal besar seperti 7B dan 13B tanpa eror, crash, atau freeze, bahkan saat dijalankan di PC tanpa GPU.
 
@@ -115,7 +115,7 @@ GUI ini hanya berukuran 10KB namun sudah terbukti mampu menangani model AI lokal
 
 ✔️ Menggunakan llama.cpp sebagai backend (kompatibel GGUF)
 
-✔️ RAM usage stabil di ~12.3GB saat idle
+✔️ RAM usage stabil dan ada optimalisasi
 
 ✔️ Load model 13B sukses tanpa error
 
@@ -232,16 +232,6 @@ Untuk model 33B ke atas, uji coba akan dilakukan jika tersedia perangkat dengan 
 
 ---
 
-🤝 Kontribusi & Kredit
-👨‍💻 Creator: [satrianovian20] – Modifikasi GUI offline dengan Tkinter
-
-✍️ Kontributor AI Script & Fixer Error: ChatGPT
-
-🔁 Model by Meta (LLaMA), WizardLM, dan komunitas open-source
-
-💡 Terinspirasi oleh kesulitan real pengguna dengan PC low-end
-
----
 ## 📦 Daftar Versi GUI
 
 Berikut versi-versi GUI yang berhasil diuji:
@@ -273,6 +263,17 @@ Berikut versi-versi GUI yang berhasil diuji:
 
 ---
 
+🤝 Kontribusi & Kredit
+👨‍💻 Creator: [satrianovian20] – Modifikasi GUI offline dengan Tkinter
+
+✍️ Kontributor AI Script & Fixer Error: ChatGPT
+
+🔁 Model by Meta (LLaMA), WizardLM, dan komunitas open-source
+
+💡 Terinspirasi oleh kesulitan real pengguna dengan PC low-end
+
+---
+
 ## 📦 Cara Install & Jalankan
 
 ### 1. Download Python
@@ -284,7 +285,7 @@ Install Python 3.10 dari https://www.python.org/downloads/release/python-3100/
 
 ---
 
-### 💖 Dukung Proyek Ini
+## 💖 Dukung Proyek Ini
 
 Jika kamu merasa proyek ini bermanfaat dan ingin mendukung pengembangannya, kamu bisa berdonasi melalui:
 
@@ -293,13 +294,12 @@ Jika kamu merasa proyek ini bermanfaat dan ingin mendukung pengembangannya, kamu
 
 Terima kasih banyak atas dukungannya! 🙏
 
-### 2. Clone atau Download Proyek Ini
+## 2. Clone atau Download Proyek Ini
 
-```bash
 git clone https://github.com/satrianovian20/offline-ai-chat-coding-gui.git
 cd offline-ai-chat-coding-gui
 
-☕ Penutup
+## ☕ Penutup
 Proyek ini dibuat karena keterbatasan memunculkan inovasi. Saya juga pernah pusing karena WebUI dari GitHub gagal jalan, sampai akhirnya saya:
 
 Buat GUI sendiri
@@ -308,7 +308,230 @@ Cuma pakai 1 file Python untuk AI Chat & Coding
 
 Bisa sambil nonton YouTube dan nonton video musik 720p 😄
 
-💬 Kalau kamu juga merasakan manfaatnya, bantu bintang repo ini!
+## 💬 Kalau kamu juga merasakan manfaatnya, bantu bintang repo ini!
 Supaya tidak ada lagi yang pusing karena “AI-nya gak bisa jalan...” 😅
 
 ---
+
+## English (International)
+
+⚙️ Local GUI for LLaMA.cpp
+📁 Suitable for Chat and Coding!
+
+---
+
+💬 Example explanation for beginners:
+“This GUI doesn’t limit your AI’s capabilities. You can adjust the output token count based on your PC’s RAM. For example, if you only have 8GB RAM, set the max tokens to 150 for smooth performance. If you have 16GB RAM, you can push it up to 10,000 tokens. It’s flexible, lightweight, and still powerful!”
+
+---
+
+📸 Screenshot (Model loaded successfully on 16GB RAM)
+
+![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-17%20114247.png)
+
+📸 Screenshot (Model loaded successfully on 16GB RAM)
+
+![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-17%20125025.png)
+
+📸 Proof: Full screenshots and logs are available in the repo
+
+✅ Python GUI 6KB–10KB Proven Stable and Optimal
+This Python GUI script weighs just 10KB, yet has proven capable of running large local models like 7B and 13B without errors, crashes, or freezing — even on non-GPU machines.
+
+---
+
+📌 Highlights:
+✔️ Super lightweight (10KB)
+✔️ No complex installation
+✔️ Uses llama.cpp as backend (GGUF compatible)
+✔️ Stable RAM usage and RAM/CPU optimization built-in
+✔️ Successfully loads 13B models
+✔️ GUI remains responsive
+✔️ Output is stable even with large models
+
+💡 This GUI is even more efficient than many bulky WebUIs because it doesn’t waste system resources. Ideal for low-end PC users who want to harness the power of large local models.
+
+---
+
+📌 Visual Explanation (Flowchart Suggestion)
+[Start GUI]
+   ↓
+[Load Model]
+   → RAM = 15.5GB
+   → CPU = 60%
+   ↓
+[Model Idle]
+   → RAM = 12.3GB
+   → CPU = 5%
+   ↓
+[Prompt Received]
+   → CPU = 100%
+   ↓
+[Generate Response]
+   → Output OK
+   ↓
+[Idle Again]
+   → RAM unchanged
+   → CPU drops
+
+---
+
+✅ Documentation Status Recap (Indonesian Version)
+Proof Element	Status
+📜 Session logs	✅ Available
+🖼️ Screenshot (model load)	✅ Available
+🖼️ Screenshot (idle)	✅ Available
+🧪 Large model (13B Q4_K_M)	✅ Tested
+⚙️ Lightweight GUI (6KB–16KB Python)	✅ Works smoothly and safely with RAM/CPU optimization built-in
+
+---
+
+✅ FAQ — Frequently Asked Questions (Trust Booster Edition)
+❓ Can this GUI really run a 13B model without a GPU?
+✅ Yes! Successfully tested with llama-2-13b-chat.Q4_K_M.gguf on:
+
+💻 CPU: Intel i5-9400F (no iGPU)
+
+🧠 RAM: 16GB DDR4
+
+⚙️ Backend: llama.cpp
+
+📦 GUI: Only a 10KB Python script
+
+❓ Where’s the real proof?
+📸 Screenshots during model load and idle are uploaded to docs/screenshots/
+📄 Complete 13B model session logs available in docs/session-logs/
+✅ No errors, no crashes. Just slight delay under heavy processing — perfectly normal.
+
+❓ Is this GUI heavy?
+❌ Not at all. It’s just 10KB. No bloated dependencies like Gradio or Electron.
+✔️ No random ports. No tracking.
+✔️ 100% offline and local.
+✔️ Based purely on Tkinter.
+
+❓ Can I use other 7B, 8B, or 13B models?
+✅ Absolutely! Already tested with:
+
+Mistral 7B
+
+DeepSeek Coder 6.7B
+
+DeepSeek Coder 7B
+
+Nous Hermes 13B (Q4_K_M)
+
+LLaMA 13B (Q4_K_M)
+
+❓ I only have 8GB RAM, will it work?
+✅ Yes, just use smaller models like:
+
+TinyLlama 1.1B
+
+DeepSeek Coder 1.3B
+
+🛠️ Set max_tokens low to match your available RAM in the GUI settings.
+
+❓ “I still don’t believe this GUI can run 13B on just 16GB RAM. Really?”
+💬 “Try it yourself, bro. The repo is public 😎”
+
+❓ “Is the GUI really that lightweight?”
+✅ Yep. File size is only 10KB.
+No web servers, no complex backends, no heavy libraries.
+
+❓ “Will it crash when loading large models?”
+🚫 As long as your system is stable and swap file is active, crashes are extremely rare.
+📊 Even with RAM above 15GB during model load, logs show stable performance.
+
+❓ “Is there actual proof?”
+📸 Yes. Screenshots and logs are available in the docs/session-logs/ and docs/screenshots/ folders.
+
+❓ “What if I still don’t believe?”
+😎 Feel free to test it yourself. Everything is open-source.
+Clone the repo now and experience it.
+
+📜 Honest Note (for README or FAQ)
+💡 So far, this GUI has only been tested with models up to 13B (Q4_K_M) due to 16GB RAM limitations and no GPU.
+But the Python GUI (6KB–16KB) still handled it smoothly and efficiently — something many wouldn’t expect without a high-end setup.
+
+For 33B+ models, testing will follow when more RAM is available. The GUI already supports CPU/RAM optimization.
+
+---
+
+## 📦 GUI Version List
+
+Below are the GUI versions that have been successfully tested:
+
++-------------------------------+------------------------+------------------------------------------------------------------------+
+| File Version                  | Status                 | Main Features                                                          |
++-------------------------------+------------------------+------------------------------------------------------------------------+
+| llamacpp_gui_combined.py      | ✅ Stable              | Initial combined version of chat + system GUI                          |
+| llamacpp_gui_combinedv2.py    | ✅                     | Added model & prompt configuration options                             |
+| llamacpp_gui_combinedv3.py    | ✅                     | Minor bug fixes, cleaner UI                                            |
+| llamacpp_gui_combinedv4.py    | ✅                     | + Logging support and auto-load model feature                          |
+| llamacpp_gui_combinedv5.py    | ✅                     | + Chat history and system prompt support                               |
+| llamacpp_gui_combinedv6.py    | ✅                     | + Theme mode and advanced configuration                                |
+| llamacpp_gui_combinedv7.py    | ✅                     | + Auto-save session and repeat_penalty setting                         |
+| llamacpp_gui_combinedv8.py    | ✅                     | + Auto-save model loading now works properly                           |
+| llamacpp_gui_combinedv9.py    | ✅ Latest              | + “Rakyat Mode” in settings + RAM-friendly prompt + LLaMA Server       |
+| llamacpp_rakyatmode.py        | ✅ Latest              | + --ctx-size defaults to 1024 + optimized for low RAM                  |
+| llamacpp_gui_mode.py          | ✅ Experimental/Stable | Lightweight GUI mode + supports loading 13B Q4_K_M model               |
+| llamacpp_gui_modev2.py        | ✅                     | Combination of GUI mode and system layout                              |
++-------------------------------+------------------------+------------------------------------------------------------------------+
+
+---
+
+💡 Minimum PC Requirements
+
+| Componentn         | Minimum Spec                    |
+|------------------|-----------------------------|
+| Prosesor         | i3/i5 Gen 8+ (or Ryzen 3+) |
+| RAM              | 8-16 GB (32GB–64GB recommended)|
+| GPU              | GTX 1650 / equivalent (VRAM 4GB) |
+| OS               | Windows 10/11 64-bit        |
+| Python           | 3.10+                       |
+
+---
+
+🤝 Contributions & Credits
+👨‍💻 Creator: [satrianovian20] – Modified offline GUI using Tkinter
+✍️ AI Script & Error Fix Contributions: ChatGPT
+🔁 Models by Meta (LLaMA), WizardLM, and the open-source community
+💡 Inspired by real-world issues faced by low-end PC users
+
+---
+
+📦 How to Install & Run
+1. Download Python
+Get Python 3.10 from: https://www.python.org/downloads/release/python-3100/
+
+✅ Don’t forget to check “Add Python to PATH” during installation!
+Install requests: pip install requests
+Double-click the .py file to run the GUI
+
+---
+
+💖 Support This Project
+If this project helped you and you'd like to support its development, you can donate via:
+
+- 💸 [Saweria](https://saweria.co/satrianovian20)
+- ☕ [PayPal](https://www.paypal.com/paypalme/satrianovian)
+
+Thank you so much for your support! 🙏
+
+---
+
+☕ Final Note
+This project was born from limitation and turned into innovation.
+Like you, I struggled with WebUIs from GitHub that just wouldn’t run.
+So I:
+
+Built my own GUI
+
+With just a single .py file
+
+For AI Chat & Coding
+
+While still able to watch YouTube or music videos in 720p 😄
+
+💬 If this helped you, consider starring the repo!
+Let’s make sure no one ever has to say “My AI won’t start...” again 😅
