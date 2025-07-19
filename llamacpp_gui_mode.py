@@ -79,7 +79,7 @@ def send_message():
             "temperature": float(entry_temp.get()),
             "top_p": float(entry_topp.get()),
             "n_predict": int(entry_max_tokens.get()),
-            "stop": ["<|endoftext|>","You:"]
+            "stop": []
         }
     except Exception as e:
         messagebox.showerror("Input Error", str(e)); return
@@ -87,7 +87,7 @@ def send_message():
     tab_chat.insert(tk.END, f"\n🧑 You: {prompt}\n")
     tab_input.delete("1.0", tk.END)
     try:
-        r = requests.post(LLAMA_API, json=data, timeout=120)
+        r = requests.post(LLAMA_API, json=data, timeout=2400)
         r.raise_for_status()
         tab_chat.insert(tk.END, f"🤖 AI: {r.json().get('content','').strip()}\n")
     except Exception as e:
