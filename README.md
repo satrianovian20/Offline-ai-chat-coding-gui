@@ -10,7 +10,7 @@ Meskipun sistem Anda 16GB, Windows dan Office 2024 bisa menyita 3–5 GB di back
 
 ## ⚖️ Perbandingan GUI Python 6KB-16kb vs WebUI Berat
 
-| **Fitur / Aspek**                | 🐍 **GUI Python 6KB-16KB (tkinter)** | 🌐 **WebUI (Gradio/Oobabooga dll.)** |
+| **Fitur / Aspek**                | 🐍 **GUI Python KB (tkinter)** | 🌐 **WebUI (Gradio/Oobabooga dll.)** |
 |----------------------------------|----------------------------------|--------------------------------------|
 | ✅ Ukuran File GUI               | **10 KB**                        | > **100 MB**                         |
 | ⚙️ Bahasa Pemrograman            | Python (tkinter native)          | Python + Gradio + JS + HTML          |
@@ -40,7 +40,7 @@ Even if your system has 16GB, Windows and Office 2024 can take up 3–5GB in the
 
 ## ⚖️ Comparison: Python GUI (6–16KB) vs Heavy WebUIs
 
-| **Feature / Aspect**             | 🐍 **Python GUI 6KB-16KB (Tkinter)**       | 🌐 **WebUIs (Gradio/Oobabooga, etc.)**     |
+| **Feature / Aspect**             | 🐍 **Python GUI KB (Tkinter)**       | 🌐 **WebUIs (Gradio/Oobabooga, etc.)**     |
 |:----------------------------------|:----------------------------------------|:--------------------------------------------|
 | ✅ **GUI File Size**              | **10 KB**                               | > **100 MB**                                 |
 | ⚙️ **Programming Language**       | Native Python (Tkinter)                 | Python + Gradio + JS + HTML                  |
