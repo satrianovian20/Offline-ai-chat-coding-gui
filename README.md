@@ -57,6 +57,9 @@ Even if your system has 16GB, Windows and Office 2024 can take up 3–5GB in the
 | 💬 **Chat & Coding Mode**         | ✅ Highly suitable                      | ✅ Suitable, but heavier                      |
 | 🤯 **"Not Responding" Behavior**  | Only during heavy loads, no crash       | Frequent delays when RAM is low              |
 
+## 📸 Screenshot GUI From llamacpp_gui_combinedv10.py
+
+![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/Screenshot%202025-07-20%20100422.png)
 
 ## 📸 Screenshot GUI From llamacpp_gui_combinedv9.py
 
