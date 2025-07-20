@@ -234,7 +234,7 @@ Atur max_tokens di GUI agar tidak melebihi kapasitas RAM kamu.
 Catatan Jujur (untuk README atau FAQ)
 💡 Saat ini, pengujian terbatas pada model hingga 13B (Q4_K_M) karena sistem hanya memiliki RAM 16GB tanpa GPU.
 Namun, GUI Python 6KB-16KB ini berhasil menangani model besar tersebut secara stabil dan efisien, yang biasanya tidak mungkin dilakukan tanpa sistem high-end.
-Untuk model 33B ke atas, uji coba akan dilakukan jika tersedia perangkat dengan RAM lebih besar. Ditambah bisa melakukan optimaliasi ram dan cpu.
+Untuk model 33B ke atas, uji coba akan dilakukan jika tersedia perangkat dengan RAM lebih besar. Ditambah bisa melakukan optimalisasi ram dan cpu.
 
 ---
 
