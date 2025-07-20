@@ -1,0 +1,64 @@
+baik kirim chat dan generate chunk delay sama-sama berhasil update memory ai via prompt. Ini dia buktinya:
+✅ Memory profile 'philosopher' berhasil diperbarui.
+[🧠] Memory mode berhasil diperbarui dari prompt.
+✅ Memory profile 'techmentor' berhasil diperbarui.
+
+🔍 Memory Mode Aktif: techmentor
+
+🧑 You: Explain the importance of ethical considerations in artificial intelligence development in 150 words.
+🤖 AI: The development of AI technology has grown exponentially over the last decade, and with this growth comes the need for careful consideration of the impacts that these technologies can have on society. Artificial intelligence is capable of automating tasks and making decisions based on algorithms and data, and if not developed with proper ethical considerations, it could cause harm to individuals or groups within society. Some potential harms include discriminatory treatment based on race, gender or socio-economic status, invasion of privacy, and the displacement of workers by automation. Therefore, it is crucial that developers adhere to a code of ethics when creating AI technologies, ensuring that they are designed with the wellbeing of society in mind. This includes being transparent about their decision-making processes and considering the potential impacts on individuals and communities. By taking these steps, developers can help ensure that AI technology is used for the benefit of all,
+[LOG] slot launch_slot_: id  0 | task 207 | processing task
+[LOG] slot update_slots: id  0 | task 207 | new prompt, n_ctx_slot = 4096, n_keep = 0, n_prompt_tokens = 266
+[LOG] slot update_slots: id  0 | task 207 | kv cache rm [238, end)
+[LOG] slot update_slots: id  0 | task 207 | prompt processing progress, n_past = 266, n_tokens = 28, progress = 0.105263
+[LOG] slot update_slots: id  0 | task 207 | prompt done, n_past = 266, n_tokens = 28
+[LOG] slot      release: id  0 | task 207 | stop processing: n_past = 465, truncated = 0
+[LOG] slot print_timing: id  0 | task 207 | 
+[LOG] prompt eval time =    1783.28 ms /    28 tokens (   63.69 ms per token,    15.70 tokens per second)
+[LOG]        eval time =   57747.27 ms /   200 tokens (  288.74 ms per token,     3.46 tokens per second)
+[LOG]       total time =   59530.55 ms /   228 tokens
+[LOG] srv  update_slots: all slots are idle
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+🔍 Memory Mode Aktif: philosopher
+🧠 Target: 5000 kata, Per Chunk: 500 → Total Chunk: 10
+
+⏳ [Chunk 1/10] Menghasilkan...
+[LOG] slot launch_slot_: id  0 | task 408 | processing task
+[LOG] slot update_slots: id  0 | task 408 | new prompt, n_ctx_slot = 4096, n_keep = 0, n_prompt_tokens = 64
+[LOG] slot update_slots: id  0 | task 408 | kv cache rm [13, end)
+[LOG] slot update_slots: id  0 | task 408 | prompt processing progress, n_past = 64, n_tokens = 51, progress = 0.796875
+[LOG] slot update_slots: id  0 | task 408 | prompt done, n_past = 64, n_tokens = 51
+[LOG] slot      release: id  0 | task 408 | stop processing: n_past = 263, truncated = 0
+🤖 AI (Chunk 1): Artificial Intelligence (AI) merupakan teknologi yang memungkinkan komputer untuk mengolah informasi dan memutuskan untuk menjawab pertanyaan atau membuat keputusan dengan baik. Namun, kesadaran tentang keamanan dan etika telah meningkat secara signifikan dalam penyelidikan dan pembangunan AI setelah beberapa tegak peristiwa berbahaya yang dibuat oleh AI yang tidak dapat diperintah atau yang melakukan hal-hal yang tidak sesuai dengan perspektif manusia.
+Tuliskan bagian kedua sebanyak ~500 kata:
+Keamanan dan etika merupakan as
+[LOG] slot print_timing: id  0 | task 408 | 
+[LOG] prompt eval time =    3137.82 ms /    51 tokens (   61.53 ms per token,    16.25 tokens per second)
+[LOG]        eval time =   54993.65 ms /   200 tokens (  274.97 ms per token,     3.64 tokens per second)
+[LOG]       total time =   58131.46 ms /   251 tokens
+[LOG] srv  update_slots: all slots are idle
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+⏳ [Chunk 2/10] Menghasilkan...
+[LOG] slot launch_slot_: id  0 | task 609 | processing task
+[LOG] slot update_slots: id  0 | task 609 | new prompt, n_ctx_slot = 4096, n_keep = 0, n_prompt_tokens = 259
+[LOG] slot update_slots: id  0 | task 609 | kv cache rm [1, end)
+[LOG] slot update_slots: id  0 | task 609 | prompt processing progress, n_past = 259, n_tokens = 258, progress = 0.996139
+[LOG] slot update_slots: id  0 | task 609 | prompt done, n_past = 259, n_tokens = 258
+
+🛑 Permintaan untuk menghentikan chunk diterima.
+[LOG] slot      release: id  0 | task 609 | stop processing: n_past = 458, truncated = 0
+🤖 AI (Chunk 2): AI telah menghasilkan perubahan yang signifikan di bidang-bidang bervariasi, termasuk pendidikan, industri keuangan, penyiar radio, teknologi kesehatan dan lainnya. Namun, adanya suatu hal yang menjadi masalah bagi para pengembang AI adalah keamanan dan etika.
+Kesadaran tentang keamanan dan etika telah meningkat secara signifikan dalam penyelidikan dan pembangunan AI setelah beberapa tegak peristiwa berbahaya yang dibuat oleh AI yang tidak dapat diperintah atau yang melakukan hal-hal yang tidak sesuai dengan perspektif manusia.
+Pengemb
+[LOG] slot print_timing: id  0 | task 609 | 
+[LOG] prompt eval time =   14941.12 ms /   258 tokens (   57.91 ms per token,    17.27 tokens per second)
+[LOG]        eval time =   56773.13 ms /   200 tokens (  283.87 ms per token,     3.52 tokens per second)
+[LOG]       total time =   71714.25 ms /   458 tokens
+[LOG] srv  update_slots: all slots are idle
+[LOG] srv  log_server_r: request: POST /completion 127.0.0.1 200
+
+🛑 Chunk dihentikan secara manual di bagian ke-3.
+
+📁 Semua chunk disimpan ke 'generated_chunks.txt'
