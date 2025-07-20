@@ -220,6 +220,8 @@ TinyLlama 1.1B
 
 DeepSeek Coder 1.3B
 
+Qwen 4B
+
 Atur max_tokens di GUI agar tidak melebihi kapasitas RAM kamu.
 
 ❓“Saya masih nggak percaya GUI ini bisa jalanin model 13B cuma dengan RAM 16GB. Beneran bisa?”
