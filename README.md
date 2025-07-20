@@ -105,9 +105,9 @@ GUI lokal untuk LLaMA.cpp:
 💡 Kesimpulan Buat Pengguna GUI:
 Kalau user punya RAM:
 
-8GB: Deepseek 1.3B atau TinyLlama cukup, tapi jangan berharap jawaban super.
+8GB: Deepseek 1.3B atau TinyLlama cukup, serta Qwen 4B, tapi jangan berharap jawaban super.
 
-12GB–16GB: Langsung lompat ke Mistral 7B atau DeepSeek-Coder 6.7B.
+12GB–16GB: Langsung lompat ke Mistral 7B atau DeepSeek-Coder 6.7B dan model 13B Q4_K_M.
 
 >16GB: Bisa gas model 13B seperti Yi-13B, OpenHermes 13B, dll.
 
@@ -355,6 +355,18 @@ This Python GUI script weighs just 10KB, yet has proven capable of running large
 
 ---
 
+💡 Conclusion for GUI Users:
+
+If you have RAM:
+
+8GB: Deepseek 1.3B or TinyLlama are sufficient, and Qwen 4B, but don't expect super responsiveness.
+
+12GB–16GB: Jump straight to Mistral 7B or DeepSeek-Coder 6.7B and the 13B Q4_K_M models.
+
+>16GB: You can go all-in on 13B models like Yi-13B, OpenHermes 13B, etc.
+
+---
+
 📌 Highlights:
 ✔️ Super lightweight (10KB)
 ✔️ No complex installation
@@ -443,6 +455,8 @@ LLaMA 13B (Q4_K_M)
 TinyLlama 1.1B
 
 DeepSeek Coder 1.3B
+
+Qwen 4B
 
 🛠️ Set max_tokens low to match your available RAM in the GUI settings.
 
