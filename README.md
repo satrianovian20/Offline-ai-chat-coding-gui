@@ -160,7 +160,7 @@ Elemen Bukti	Status
 🖼️ Screenshot saat load model	✅ Sudah ada
 🖼️ Screenshot saat idle	✅ Sudah ada
 🧪 Model besar (13B Q4_K_M)	✅ Sudah diuji
-⚙️ GUI ringan (6KB-16kb Python script)	✅ Terpakai dengan lancar dan tanpa crash karena adanya fitur otomatis yang melakukan optimaliasi ram dan cpu
+⚙️ GUI ringan (6KB-16kb Python script)	✅ Terpakai dengan lancar dan tanpa crash karena adanya fitur otomatis yang melakukan optimalisasi ram dan cpu
 
 ---
 
