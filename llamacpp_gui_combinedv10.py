@@ -24,6 +24,7 @@ LOG_FILE = "llama_log.txt"
 ERR_FILE = "llama_error.txt"
 HISTORY_FILE = "chat_history.txt"
 SESSION_FILE = "last_session.txt"
+chat_context = ""  # 🧠 Menyimpan riwayat percakapan
 
 model_loaded = False
 llama_process = None
@@ -143,6 +144,8 @@ def aktifkan_swap_rakyat_mode():
         print("[PERINGATAN] OS tidak dikenali, tidak bisa mengaktifkan swap.")
 
 def send_message():
+    global chat_context
+
     if not model_loaded:
         messagebox.showwarning("Tunggu", "Model belum siap.")
         return
@@ -150,22 +153,38 @@ def send_message():
     prompt = tab_input.get("1.0", tk.END).strip()
     if not prompt:
         return
+    
+    # ✅ Keyword pemicu manual auto chunk resume
+    if prompt.lower() in ["run auto chunk resume", "lanjutkan chunking", "resume chunk sekarang"]:
+        tab_chat.insert(tk.END, "[🧠] Memulai Auto Chunk Resume berdasarkan perintah prompt...\n")
+        tab_input.delete("1.0", tk.END)
+        generate_chunks_with_delay(force_resume=True)
+        return
 
     system_prompt_text = system_prompt.get("1.0", tk.END).strip()
+
     try:
+        # Gabungkan konteks percakapan sebelumnya
+        combined_prompt = (
+            f"{system_prompt_text}\n"
+            f"{chat_context.strip()}\n"
+            f"User: {prompt}\n"
+            f"AI:"
+        )
+
         data = {
-            "prompt": system_prompt_text + "\n" + prompt,
+            "prompt": system_prompt_text + "\n" + chat_context + f"\nUser: {prompt}\nAI:",
             "temperature": float(entry_temp.get()),
             "top_p": float(entry_topp.get()),
             "n_predict": int(entry_max_tokens.get()),
             "repeat_penalty": float(entry_repeat_penalty.get()),
             "stop": []
-        }
+}
+
     except Exception as e:
         messagebox.showerror("Input Error", str(e))
         return
 
-    # Tampilkan input pengguna di chat
     tab_chat.insert(tk.END, f"\n🧑 You: {prompt}\n")
     tab_input.delete("1.0", tk.END)
 
@@ -174,19 +193,55 @@ def send_message():
         r.raise_for_status()
         content = r.json().get('content', '').strip()
 
-        # Langsung tampilkan seluruh isi tanpa pemotongan
         tab_chat.insert(tk.END, f"🤖 AI: {content}\n")
 
-        # Simpan riwayat lengkap
+        # Simpan ke file log
         with open(HISTORY_FILE, "a", encoding="utf-8") as f:
             f.write(f"You: {prompt}\nAI: {content}\n\n")
         with open(SESSION_FILE, "w", encoding="utf-8") as f:
             f.write(tab_chat.get("1.0", tk.END))
 
+        # ✅ Tambahkan ke konteks percakapan
+        chat_context += f"\nUser: {prompt}\nAI: {content}\n"
+
+        save_chat_context()
+
+        # ✅ Batasi panjang konteks sesuai ctx-size
+        max_ctx_tokens = rakyat_ctx_size.get()
+        words = chat_context.split()
+        if len(words) > max_ctx_tokens:
+            chat_context = " ".join(words[-max_ctx_tokens:])
+
     except Exception as e:
         tab_chat.insert(tk.END, f"[ERROR] {e}\n")
         with open(ERR_FILE, "a") as f:
             f.write(f"[SEND ERROR] {e}\n")
+
+CONTEXT_FILE = "chat_context.json"
+
+def save_chat_context():
+    try:
+        with open(CONTEXT_FILE, "w", encoding="utf-8") as f:
+            json.dump({"chat_context": chat_context}, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        print(f"[❌ Gagal menyimpan chat context]: {e}")
+
+def load_chat_context():
+    global chat_context
+    if os.path.exists(CONTEXT_FILE):
+        try:
+            with open(CONTEXT_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                chat_context = data.get("chat_context", "")
+                if chat_context.strip():
+                    tab_chat.insert(tk.END, "\n🧠 Chat context dari sesi sebelumnya dimuat.\n")
+        except Exception as e:
+            print(f"[❌ Gagal memuat chat context]: {e}")
+
+def reset_context():
+    global chat_context
+    chat_context = ""
+    tab_chat.insert(tk.END, "\n🧹 Konteks percakapan direset.\n")
 
 def handle_send():
     if generate_with_delay.get():
@@ -203,20 +258,42 @@ top_p = 0.95
 max_tokens = 512
 repeat_penalty = 1.1
 delay_per_chunk = 10
+stop_chunk_generation = False  # Untuk menghentikan chunk secara manual
 
-def generate_chunks_with_delay():
+def generate_chunks_with_delay(force_resume=False):
     global total_chunks, words_per_chunk, full_prompt, temp, top_p, max_tokens, repeat_penalty, delay_per_chunk
+
     if not model_loaded:
         messagebox.showwarning("Tunggu", "Model belum siap.")
         return
 
     prompt = tab_input.get("1.0", tk.END).strip()
-    if not prompt:
+    if not prompt and not force_resume:
         messagebox.showwarning("Input Kosong", "Masukkan prompt terlebih dahulu.")
         return
 
     system_prompt_text = system_prompt.get("1.0", tk.END).strip()
     full_prompt = system_prompt_text + "\n" + prompt
+    
+    resume_path = "chunk_resume.json"
+    if enable_chunk_resume.get() and os.path.exists(resume_path):
+        try:
+            with open(resume_path, "r", encoding="utf-8") as f:
+                resume_data = json.load(f)
+                last_completed = resume_data.get("last_completed_chunk", 0)
+
+            if last_completed > 0 and enable_chunk_resume.get():
+                full_prompt = resume_data["full_prompt"]
+                total_chunks = resume_data["total_chunks"]
+                words_per_chunk = resume_data["words_per_chunk"]
+                context_memory = resume_data.get("context_memory", "")
+                all_chunks_output = resume_data.get("all_chunks_output", "")
+
+                threading.Thread(target=run_chunks_resume, args=(resume_data, last_completed), daemon=True).start()
+                return
+        except Exception as e:
+           messagebox.showwarning("Resume Gagal", f"Data resume rusak: {e}")
+
 
     # 🧠 DETEKSI OTOMATIS dari PROMPT
     match_total = re.search(r"(\d{4,6})\s*(kata|words)", prompt.lower())
@@ -243,7 +320,10 @@ def generate_chunks_with_delay():
         words_per_chunk = max(300, min(800, max_words_per_chunk))
 
     total_chunks = math.ceil(total_words_target / words_per_chunk)
-    delay_per_chunk = 10
+    try:
+        delay_per_chunk = int(chunk_delay_var.get())
+    except:
+        delay_per_chunk = 10  # fallback default
 
     try:
         temp = float(entry_temp.get())
@@ -252,7 +332,6 @@ def generate_chunks_with_delay():
         max_tokens = int(entry_max_tokens.get())  # idealnya 512
     except Exception as e:
         messagebox.showerror("Parameter Error", str(e))
-        return
 
     tab_chat.insert(tk.END, f"🧠 Target: {total_words_target} kata, Per Chunk: {words_per_chunk} → Total Chunk: {total_chunks}\n")
 
@@ -260,11 +339,17 @@ def generate_chunks_with_delay():
     threading.Thread(target=run_chunks, daemon=True).start()
 
 def run_chunks():
+    global stop_chunk_generation
+    global chat_context
+
     context_memory = ""
     all_chunks_output = ""  # ✅ simpan semua hasil chunk di sini
 
     for i in range(total_chunks):
         try:
+            if stop_chunk_generation:
+                tab_chat.insert(tk.END, f"\n🛑 Chunk dihentikan secara manual di bagian ke-{i+1}.\n")
+                break
             if i == 0:
                 combined_prompt = full_prompt + f"\n\nTuliskan bagian pertama sebanyak ~{words_per_chunk} kata:\n"
             else:
@@ -305,7 +390,20 @@ def run_chunks():
             ctx_user = rakyat_ctx_size.get()
             if len(context_tokens) > ctx_user:
                 context_memory = " ".join(context_tokens[-ctx_user:])
-
+                
+            # ✅ Simpan state jika auto resume aktif
+            if enable_chunk_resume.get():
+                status_resume = {
+                    "total_chunks": total_chunks,
+                    "words_per_chunk": words_per_chunk,
+                    "last_completed_chunk": i + 1,
+                    "full_prompt": full_prompt,
+                    "context_memory": context_memory,
+                    "all_chunks_output": all_chunks_output
+                }
+                with open("chunk_resume.json", "w", encoding="utf-8") as f:
+                    json.dump(status_resume, f, ensure_ascii=False, indent=2)
+            
             time.sleep(delay_per_chunk)
         except Exception as e:
             tab_chat.insert(tk.END, f"[❌ Error Chunk {i+1}]: {e}\n")
@@ -319,8 +417,98 @@ def run_chunks():
     except Exception as e:
         tab_chat.insert(tk.END, f"\n[❌ Gagal menyimpan file]: {e}\n")
 
+    # ✅ RESET FLAG setelah selesai
+    stop_chunk_generation = False
+    chat_context += context_memory
+    save_chat_context()
+    generate_with_delay.set(False)  # Auto-uncheck setelah selesai generate chunk
+    
+def run_chunks_resume(resume_data, start_from_chunk):
+    global stop_chunk_generation, chat_context
 
-    threading.Thread(target=run_chunks, daemon=True).start()
+    total = resume_data["total_chunks"]
+    context_memory = resume_data.get("context_memory", "")
+    all_chunks_output = resume_data.get("all_chunks_output", "")
+
+    for i in range(start_from_chunk, total):
+        try:
+            if stop_chunk_generation:
+                tab_chat.insert(tk.END, f"\n🧼 Chunk dihentikan secara manual di chunk ke-{i+1}.\n")
+                break
+
+            if i == 0:
+                combined_prompt = resume_data["full_prompt"] + f"\n\nTuliskan bagian pertama sebanyak ~{words_per_chunk} kata:\n"
+            else:
+                combined_prompt = (
+                    "Berikut adalah lanjutan dari teks sebelumnya:\n"
+                    + context_memory.strip()
+                    + f"\n\nTuliskan bagian ke-{i+1} sebanyak ~{words_per_chunk} kata secara koheren dan melanjutkan dengan baik:\n"
+                )
+
+            max_prompt_tokens = rakyat_ctx_size.get() - max_tokens
+            tokens = combined_prompt.split()
+            if len(tokens) > max_prompt_tokens:
+                combined_prompt = " ".join(tokens[-max_prompt_tokens:])
+
+            data = {
+                "prompt": combined_prompt,
+                "temperature": temp,
+                "top_p": top_p,
+                "n_predict": max_tokens,
+                "repeat_penalty": repeat_penalty,
+                "stop": []
+            }
+
+            tab_chat.insert(tk.END, f"\n⏳ [Chunk {i+1}/{total}] Menghasilkan (resume)...\n")
+            r = requests.post(LLAMA_API, json=data, timeout=240)
+            r.raise_for_status()
+            content = r.json().get("content", "").strip()
+
+            tab_chat.insert(tk.END, f"🤖 AI (Chunk {i+1}): {content}\n")
+            tab_chat.see(tk.END)
+
+            all_chunks_output += f"\n\n=== [Chunk {i+1}] ===\n{content}"
+            context_memory += "\n" + content
+
+            # Simpan progres ke file
+            status_resume = {
+                "total_chunks": total,
+                "words_per_chunk": words_per_chunk,
+                "last_completed_chunk": i + 1,
+                "full_prompt": resume_data["full_prompt"],
+                "context_memory": context_memory,
+                "all_chunks_output": all_chunks_output
+            }
+            with open("chunk_resume.json", "w", encoding="utf-8") as f:
+                json.dump(status_resume, f, ensure_ascii=False, indent=2)
+
+            time.sleep(delay_per_chunk)
+        except Exception as e:
+            tab_chat.insert(tk.END, f"[❌ Error Chunk {i+1}]: {e}\n")
+            break
+
+    # ✅ Finalisasi
+    try:
+        with open("generated_chunks.txt", "w", encoding="utf-8") as f:
+            f.write(all_chunks_output.strip())
+        tab_chat.insert(tk.END, f"\n📁 Semua chunk disimpan ke 'generated_chunks.txt'\n")
+    except Exception as e:
+        tab_chat.insert(tk.END, f"\n[❌ Gagal menyimpan file]: {e}\n")
+
+    stop_chunk_generation = False
+    chat_context += context_memory
+    save_chat_context()
+    generate_with_delay.set(False)
+
+    # Hapus file resume jika semua selesai
+    if not stop_now:
+        if os.path.exists("chunk_resume.json"):
+            os.remove("chunk_resume.json")
+
+def stop_chunking():
+    global stop_chunk_generation
+    stop_chunk_generation = True
+    tab_chat.insert(tk.END, "\n🛑 Permintaan untuk menghentikan chunk diterima.\n")
 
 def start_llama(model_path, ctx_size=4096):
     global llama_process, model_loaded
@@ -448,6 +636,7 @@ progress = ttk.Progressbar(frame_main, mode="indeterminate"); progress.pack(fill
 
 tab_chat = scrolledtext.ScrolledText(frame_main, wrap=tk.WORD, height=25, width=120, bg="#111", fg="white")
 tab_chat.pack(padx=10, pady=10); tab_chat.insert(tk.END, "💬 Selamat datang!\n")
+load_chat_context()
 
 if os.path.exists(SESSION_FILE):
     with open(SESSION_FILE, "r", encoding="utf-8") as f:
@@ -462,15 +651,27 @@ kirim_btn = ttk.Button(frame_actions, text="📨 Kirim Chat", command=lambda: ha
 kirim_btn.pack(side="left", padx=5)
 
 ttk.Checkbutton(frame_actions, text="Generate Chunk Delay", variable=generate_with_delay).pack(side="left", padx=5)
+#⏱️ Entry Delay (detik)
+chunk_delay_var = tk.IntVar(value=10)  # Default: 10 detik
+delay_entry = ttk.Entry(frame_actions, textvariable=chunk_delay_var, width=5)
+delay_entry.pack(side="left")
+ttk.Label(frame_actions, text="detik").pack(side="left")
+# Variabel kontrol checkbox auto resume
+enable_chunk_resume = tk.BooleanVar(value=True)  # default aktif
+# Checkbox untuk auto resume
+chk_resume = ttk.Checkbutton(frame_actions, text="🧠 Auto Resume", variable=enable_chunk_resume)
+chk_resume.pack(side="left", padx=5)
+# Tombol Stop Chunk
+stop_chunk_btn = ttk.Button(frame_actions, text="🛑 Stop Chunk", command=lambda: stop_chunking())
+stop_chunk_btn.pack(side="left", padx=5)
 ttk.Button(frame_actions, text="📎 Ambil File", command=upload_file_to_input).pack(side="left", padx=5)
+generate_with_delay.trace_add("write", lambda *args: update_button_label())
 
 def update_button_label():
     if generate_with_delay.get():
         kirim_btn.config(text="🚀 Generate Chunk")
     else:
         kirim_btn.config(text="📨 Kirim Chat")
-
-generate_with_delay.trace_add("write", lambda *args: update_button_label())
 
 # Settings Tab
 settings_label = tk.Label(frame_settings, text="Temperature:"); settings_label.grid(row=0,column=0)
@@ -494,6 +695,7 @@ theme_menu.bind("<<ComboboxSelected>>", lambda e: switch_theme(current_theme.get
 
 switch_theme(current_theme.get())
 ttk.Button(frame_system, text="🗑️ Hapus Riwayat", command=clear_history).pack(pady=5)
+ttk.Button(frame_actions, text="🧹 Reset Konteks", command=reset_context).pack(side="left", padx=5)
 
 # Load config
 conf = load_config()
