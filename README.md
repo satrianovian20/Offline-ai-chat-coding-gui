@@ -75,7 +75,7 @@ Enter prompt → Run model → Display output
 
 ![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-18%20160408.png)
 
-## 📸 Screenshot GUI From llamacpp_gui_mode.py (Experiment GUI)
+## 📸 Screenshot GUI From llamacpp_gui_mode.py (GUI Experiment)
 
 ![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-19%20110119.png)
 
