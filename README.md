@@ -301,7 +301,7 @@ Install Python 3.10 dari https://www.python.org/downloads/release/python-3100/
 
 > ✅ Centang “Add Python to PATH” saat install!
 > pip install requests
-> download dari link: (https://github.com/ggml-org/llama.cpp/releases)
+> download dari link: (https://github.com/ggml-org/llama.cpp/releases) [llama-b59xx-bin-win-cpu-x64 atau llama-b5899-bin-win-cpu-x64]
 > letakkan gui python di folder dari llamacpp yang sudah di download dari link: (https://github.com/ggml-org/llama.cpp/releases)
 > Jalankan gui python dengan klik dua kali
 
@@ -543,7 +543,7 @@ Get Python 3.10 from: https://www.python.org/downloads/release/python-3100/
 
 > ✅ Check "Add Python to PATH" during installation!
 > pip install requests
-> download from the link: (https://github.com/ggml-org/llama.cpp/releases)
+> download from the link: (https://github.com/ggml-org/llama.cpp/releases) [llama-b59xx-bin-win-cpu-x64 atau llama-b5899-bin-win-cpu-x64]
 > place the python gui in the llamacpp folder downloaded from the link: (https://github.com/ggml-org/llama.cpp/releases)
 > Run the python gui by double-clicking it
 
