@@ -63,6 +63,10 @@ Enter prompt → Run model → Display output
 | 💬 **Chat & Coding Mode**         | ✅ Highly suitable                      | ✅ Suitable, but heavier                      |
 | 🤯 **"Not Responding" Behavior**  | Only during heavy loads, no crash       | Frequent delays when RAM is low              |
 
+## 📸 Screenshot GUI From llamacpp_gui_combinedv11.py
+
+![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-21%20072238.png)
+
 ## 📸 Screenshot GUI From llamacpp_gui_combinedv10.py
 
 ![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/Screenshot%202025-07-20%20100422.png)
