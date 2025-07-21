@@ -304,6 +304,7 @@ Install Python 3.10 dari https://www.python.org/downloads/release/python-3100/
 > download dari link: (https://github.com/ggml-org/llama.cpp/releases) [llama-b59xx-bin-win-cpu-x64 atau llama-b5899-bin-win-cpu-x64]
 > letakkan gui python di folder dari llamacpp yang sudah di download dari link: (https://github.com/ggml-org/llama.cpp/releases)
 > Jalankan gui python dengan klik dua kali
+> Catatan: cari saja yang berfungsi dari build llama cpp untuk muat model ai di link: (https://github.com/ggml-org/llama.cpp/releases). Biasanya yang berfungsi antara yang terbaru yaitu llama-b59xx-bin-win-cpu-x64 atau llama-b5899-bin-win-cpu-x64.
 
 ---
 
@@ -546,6 +547,7 @@ Get Python 3.10 from: https://www.python.org/downloads/release/python-3100/
 > download from the link: (https://github.com/ggml-org/llama.cpp/releases) [llama-b59xx-bin-win-cpu-x64 atau llama-b5899-bin-win-cpu-x64]
 > place the python gui in the llamacpp folder downloaded from the link: (https://github.com/ggml-org/llama.cpp/releases)
 > Run the python gui by double-clicking it
+> Note: Just look for a working Llama CPP build to load AI models in link: (https://github.com/ggml-org/llama.cpp/releases). Typically, the latest ones are llama-b59xx-bin-win-cpu-x64 or llama-b5899-bin-win-cpu-x64.
 
 ---
 
