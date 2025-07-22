@@ -36,8 +36,8 @@ Prompt masuk → Model jalan → Output tampil
 |----|------------------------------------------------------|--------------|---------------------|----------------------------------------------------|------------------|
 | 1  | luna-ai-llama2-uncensored.Q4_0.gguf                 | Q4_0         | ±11.6 GB of 16GB    | Windows 11 + Office 2024 + music & anime video     | Stable & Smooth  |
 | 2  | Meta-Llama-3-8B-Instruct.Q8_0.gguf                  | Q8_0         | ±10.8 GB of 16GB    | Windows 11 + Office 2024 + music & anime video     | Stable & Smooth  |
-| 3  | WizardLM-13B-Uncensored.Q5_K_M.gguf                           | Q5_K_M       | 12,6 GB of 16 GB       |  Windows 11 + Office 2024 | Tested           |
-| 4  | wizardcoder-python-13b-v1.0.Q5_K_M.gguf                           | Q5_K_M       | 12,6 GB of 16 GB       |  Windows 11 + Office 2024 | Tested           |
+| 3  | WizardLM-13B-Uncensored.Q5_K_M.gguf                           | Q5_K_M       | 12,6 GB of 16 GB       |  Windows 11 + Office 2024 | Tested + Stable & Smooth           |
+| 4  | wizardcoder-python-13b-v1.0.Q5_K_M.gguf                           | Q5_K_M       | 12,6 GB of 16 GB       |  Windows 11 + Office 2024 | Tested + Stable & Smooth           |
 | 5  | All 7B           | Q4_K_M       | ≤11.5 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
 | 6  | All 13B           | Q4_K_M       | ≤15.5 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
 | 7  | deepseek-coder-7b-instruct-v1.5-Q8_0.gguf           | Q8_0       | 10.8 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
@@ -82,8 +82,8 @@ Enter prompt → Run model → Display output
 |----|------------------------------------------------------|--------------|---------------------|----------------------------------------------------|------------------|
 | 1  | luna-ai-llama2-uncensored.Q4_0.gguf                 | Q4_0         | ±11.6 GB of 16GB    | Windows 11 + Office 2024 + music & anime video     | Stable & Smooth  |
 | 2  | Meta-Llama-3-8B-Instruct.Q8_0.gguf                  | Q8_0         | ±10.8 GB of 16GB    | Windows 11 + Office 2024 + music & anime video     | Stable & Smooth  |
-| 3  | WizardLM-13B-Uncensored.Q5_K_M.gguf                           | Q5_K_M       | 12,6 GB of 16 GB       |  Windows 11 + Office 2024 | Tested           |
-| 4  | wizardcoder-python-13b-v1.0.Q5_K_M.gguf                           | Q5_K_M       | 12,6 GB of 16 GB       |  Windows 11 + Office 2024 | Tested           |
+| 3  | WizardLM-13B-Uncensored.Q5_K_M.gguf                           | Q5_K_M       | 12,6 GB of 16 GB       |  Windows 11 + Office 2024 | Tested + Stable & Smooth           |
+| 4  | wizardcoder-python-13b-v1.0.Q5_K_M.gguf                           | Q5_K_M       | 12,6 GB of 16 GB       |  Windows 11 + Office 2024 | Tested + Stable & Smooth           |
 | 5  | All 7B           | Q4_K_M       | ≤11.5 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
 | 6  | All 13B           | Q4_K_M       | ≤15.5 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
 | 7  | deepseek-coder-7b-instruct-v1.5-Q8_0.gguf           | Q8_0       | 10.8 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
