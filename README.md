@@ -40,6 +40,8 @@ Prompt masuk → Model jalan → Output tampil
 | 4  | wizardcoder-python-13b-v1.0.Q5_K_M.gguf                           | Q5_K_M       | 12,6 GB of 16 GB       |  Windows 11 + Office 2024 | Tested           |
 | 5  | All 7B           | Q4_K_M       | ≤11.5 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
 | 6  | All 13B           | Q4_K_M       | ≤15.5 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
+| 7  | deepseek-coder-7b-instruct-v1.5-Q8_0.gguf           | Q8_0       | 10.8 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
+| 8  | deepseek-coder-1.3b-instruct.Q4_0.gguf           | Q8_0       | 4 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
 
 🇬🇧 English Version:
 
@@ -84,6 +86,8 @@ Enter prompt → Run model → Display output
 | 4  | wizardcoder-python-13b-v1.0.Q5_K_M.gguf                           | Q5_K_M       | 12,6 GB of 16 GB       |  Windows 11 + Office 2024 | Tested           |
 | 5  | All 7B           | Q4_K_M       | ≤11.5 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
 | 6  | All 13B           | Q4_K_M       | ≤15.5 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
+| 7  | deepseek-coder-7b-instruct-v1.5-Q8_0.gguf           | Q8_0       | 10.8 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
+| 8  | deepseek-coder-1.3b-instruct.Q4_0.gguf           | Q8_0       | 4 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
 
 ## 📸 Screenshot GUI From llamacpp_gui_combinedv11.py
 
