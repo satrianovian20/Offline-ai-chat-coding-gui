@@ -3,10 +3,10 @@ GUI Python ringan (Tkinter) untuk menjalankan AI chat &amp; coding dengan model 
 
 🇮🇩 Bahasa Indonesia:
 
-🎉 Pertama kalinya dalam sejarah: Model AI 13B (Q4_K_M) berhasil dijalankan hanya dengan RAM 16GB — tanpa GPU, tanpa web server, cukup dengan GUI Python ukuran 10KB! Bukti nyata efisiensi maksimal 💪
+🎉 Pertama kalinya dalam sejarah: Model AI 13B (Q5_K_M) berhasil dijalankan hanya dengan RAM 16GB — tanpa GPU, tanpa web server, cukup dengan GUI Python ukuran 10KB! Bukti nyata efisiensi maksimal 💪
 ⚠️ Catatan RAM 16GB:
 
-Meskipun sistem Anda 16GB, Windows dan Office 2024 bisa menyita 3–5 GB di background. Namun, GUI ini tetap dapat menjalankan model 7B - 13B Q4_K_M. Tanpa GPU, tanpa swap besar.
+Meskipun sistem Anda 16GB, Windows dan Office 2024 bisa menyita 3–5 GB di background. Namun, GUI ini tetap dapat menjalankan model 7B Q8_0 - 13B Q5_K_M. Tanpa GPU, tanpa swap besar.
 
 ✅ GUI Python KB Ini langsung-to-the-point, tanpa ribet:
 Prompt masuk → Model jalan → Output tampil
@@ -32,11 +32,11 @@ Prompt masuk → Model jalan → Output tampil
 
 🇬🇧 English Version:
 
-🎉 First time in history: A 13B (Q4_K_M) AI model runs smoothly with just 16GB RAM — no GPU, no web server, only a 6KB - 16kb Python GUI! Proof of ultimate efficiency 💪
+🎉 First time in history: A 13B (Q5_K_M) AI model runs smoothly with just 16GB RAM — no GPU, no web server, only a 6KB - 16kb Python GUI! Proof of ultimate efficiency 💪
 
 ⚠️ 16GB RAM Note:
 
-Even if your system has 16GB, Windows and Office 2024 can take up 3–5GB in the background. However, this GUI can still run the 7B - 13B Q4_K_M model efficiently. No GPU, no large swap requirements.
+Even if your system has 16GB, Windows and Office 2024 can take up 3–5GB in the background. However, this GUI can still run the 7B Q8_0 - 13B Q5_K_M model efficiently. No GPU, no large swap requirements.
 
 > 🇮🇩 This project is primarily documented in Indonesian.
 > 🇬🇧 English overview is provided below.
