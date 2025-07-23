@@ -3,7 +3,7 @@ GUI Python ringan (Tkinter) untuk menjalankan AI chat &amp; coding dengan model 
 
 > 🇮🇩 This project is primarily documented in Indonesian.
 > 🇬🇧 English overview is provided below.
-> “This project is based on the original LLaMA GUI by Satria Novian – [GitHub link], licensed under the MIT License.” 
+> “This project is based on the original LLaMA GUI by Satria Novian – [GitHub link], licensed under the MIT License. Copyright © 2025 Satria Novian.” 
 
 🇮🇩 Bahasa Indonesia:
 
