@@ -17,7 +17,7 @@ Prompt masuk → Model jalan → Output tampil
 |----------------------------------|----------------------------------|--------------------------------------|
 | ✅ Ukuran File GUI               | **10 KB**                        | > **100 MB**                         |
 | ⚙️ Bahasa Pemrograman            | Python (tkinter native)          | Python + Gradio + JS + HTML          |
-| 🧠 Model yang Diuji              | 7B, 13B (Q4_K_M)                 | 7B, 13B                               |
+| 🧠 Model yang Diuji              | 8B (Q8_0), 13B (Q5_K_M)                 | 7B, 13B                               |
 | 🧮 RAM Minimum (7B - 13B Q4_K_M)      | **12.3 – 15.5 GB**               | **> 18 – 20 GB**                      |
 | 🖥️ CPU Pengujian                | i5-9400F (no GPU)                | Biasanya pakai GPU / CPU kuat        |
 | 🚀 Waktu Load Model 13B         | **35 – 40 detik**                | Bisa > 1 menit                       |
@@ -63,7 +63,7 @@ Enter prompt → Run model → Display output
 |:----------------------------------|:----------------------------------------|:--------------------------------------------|
 | ✅ **GUI File Size**              | **10 KB**                               | > **100 MB**                                 |
 | ⚙️ **Programming Language**       | Native Python (Tkinter)                 | Python + Gradio + JS + HTML                  |
-| 🧠 **Tested Model Types**         | 7B, 13B (Q4_K_M)                        | 7B, 13B                                       |
+| 🧠 **Tested Model Types**         | 8B (Q8_0), 13B (Q5_K_M)                        | 7B, 13B                                       |
 | 🧮 **Minimum RAM (7B–13B Q4_K_M)**| **12.3 – 15.5 GB**                      | **> 18 – 20 GB**                              |
 | 🖥️ **Test CPU**                   | i5-9400F (no GPU)                       | Typically uses GPU or high-end CPU           |
 | 🚀 **Model Load Time (13B)**      | **35 – 40 seconds**                     | Can take > 1 minute                          |
