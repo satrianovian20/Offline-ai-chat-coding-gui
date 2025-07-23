@@ -89,6 +89,9 @@ Enter prompt → Run model → Display output
 | 7  | deepseek-coder-7b-instruct-v1.5-Q8_0.gguf           | Q8_0       | 10.8 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
 | 8  | deepseek-coder-1.3b-instruct.Q4_0.gguf           | Q4_0       | 4 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
 
+## 📸 Screenshot GUI From multichat_ai_gui.py
+![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-23%20182952.png)
+
 ## 📸 Screenshot GUI From llamacpp_gui_combinedv11.py
 
 ![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-23%20073915.png)
