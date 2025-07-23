@@ -2,7 +2,8 @@
 GUI Python ringan (Tkinter) untuk menjalankan AI chat &amp; coding dengan model GGUF lokal (Low GUI PYTHON from Tkinter to run Offline AI Chat and Coding)
 
 > 🇮🇩 This project is primarily documented in Indonesian.
-> 🇬🇧 English overview is provided below. 
+> 🇬🇧 English overview is provided below.
+> “This project is based on the original LLaMA GUI by Satria Novian – [GitHub link], licensed under the MIT License.” 
 
 🇮🇩 Bahasa Indonesia:
 
