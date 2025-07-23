@@ -329,11 +329,11 @@ Berikut versi-versi GUI yang berhasil diuji:
 ### 1. Download Python
 Install Python 3.10 dari https://www.python.org/downloads/release/python-3100/
 
-> ✅ Centang “Add Python to PATH” saat install!
-> pip install requests
-> download dari link: (https://github.com/ggml-org/llama.cpp/releases) [llama-b59xx-bin-win-cpu-x64 atau llama-b5899-bin-win-cpu-x64]
-> letakkan gui python di folder dari llamacpp yang sudah di download dari link: (https://github.com/ggml-org/llama.cpp/releases)
-> Jalankan gui python dengan klik dua kali
+- ✅ Centang “Add Python to PATH” saat install!
+- pip install requests
+- download dari link: (https://github.com/ggml-org/llama.cpp/releases) [llama-b59xx-bin-win-cpu-x64 atau llama-b5899-bin-win-cpu-x64]
+- letakkan gui python di folder dari llamacpp yang sudah di download dari link: (https://github.com/ggml-org/llama.cpp/releases)
+- Jalankan gui python dengan klik dua kali
 > Catatan: cari saja yang berfungsi dari build llama cpp untuk muat model ai di link: (https://github.com/ggml-org/llama.cpp/releases). Biasanya yang berfungsi antara yang terbaru yaitu llama-b59xx-bin-win-cpu-x64 atau llama-b5899-bin-win-cpu-x64. Intinya fitur muat model di gui sepenuhnya berfungsi tapi llamacpp sebagai backend kurang berfungsi dengan baik sehingga silahkan cari llama-b5899-bin-win-cpu-x64 - llama-b59xx-bin-win-cpu-x64 yang dapat muat model.
 
 ---
@@ -573,11 +573,11 @@ Below are the GUI versions that have been successfully tested:
 1. Download Python
 Get Python 3.10 from: https://www.python.org/downloads/release/python-3100/
 
-> ✅ Check "Add Python to PATH" during installation!
-> pip install requests
-> download from the link: (https://github.com/ggml-org/llama.cpp/releases) [llama-b59xx-bin-win-cpu-x64 atau llama-b5899-bin-win-cpu-x64]
-> place the python gui in the llamacpp folder downloaded from the link: (https://github.com/ggml-org/llama.cpp/releases)
-> Run the python gui by double-clicking it
+- ✅ Check "Add Python to PATH" during installation!
+- pip install requests
+- download from the link: (https://github.com/ggml-org/llama.cpp/releases) [llama-b59xx-bin-win-cpu-x64 atau llama-b5899-bin-win-cpu-x64]
+- place the python gui in the llamacpp folder downloaded from the link: (https://github.com/ggml-org/llama.cpp/releases)
+- Run the python gui by double-clicking it
 > Note: Just look for a working Llama CPP build to load AI models in link: (https://github.com/ggml-org/llama.cpp/releases). Typically, the latest ones are llama-b59xx-bin-win-cpu-x64 or llama-b5899-bin-win-cpu-x64. The point is that the model loading feature in the GUI is fully functional but llamacpp as a backend is not functioning properly so please look for llama-b5899-bin-win-cpu-x64 - llama-b59xx-bin-win-cpu-x64 which can load the model.
 
 ---
