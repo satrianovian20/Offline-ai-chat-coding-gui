@@ -204,7 +204,6 @@ GUI ini hanya berukuran 10KB namun sudah terbukti mampu menangani model AI lokal
 
 Berikut adalah flowchart proses alur kerja prompt untuk multitab AI chat offline berbasis GUI Python:
 
-```mermaid
 flowchart TD
     A[Muat Model GGUF via Tab Utama] --> B{Model Sudah Dimuat?}
     B -- Ya --> C[Aktifkan Tombol Tab Chat Baru]
@@ -483,12 +482,8 @@ If you have RAM:
 
 ---
 
-
----
-
 ## 🇬🇧 Prompt Handling Flow (English Version)
 
-```markdown
 ## 🧠 Prompt Handling Flow in Multichat AI GUI
 
 This flowchart illustrates how prompt handling works in the offline multitab AI chat GUI (Python-based):
