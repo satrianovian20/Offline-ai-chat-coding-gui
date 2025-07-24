@@ -2,7 +2,7 @@
 GUI Python ringan (Tkinter) untuk menjalankan AI chat &amp; coding dengan model GGUF lokal (Low GUI PYTHON from Tkinter to run Offline AI Chat and Coding)
 
 Moto:
-GUI Rakyat Edition: Ringan, Garang, Tak Terbendung.
+GUI Rakyat Edition: Ringan, Garang, Tak Terbendung, AI GUI Bebas Crash™, Anti-Bluescreen Framework, The GUI That Refused to Die
 
 > 🇮🇩 This project is primarily documented in Indonesian.
 > 🇬🇧 English overview is provided below.
