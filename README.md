@@ -201,12 +201,13 @@ GUI ini hanya berukuran 10KB namun sudah terbukti mampu menangani model AI lokal
 ---
 
 ✅ Recap Status Dokumentasi (versi Indonesia):
-Elemen Bukti	Status
-📜 Log sesi (session-logs)	✅ Sudah ada
-🖼️ Screenshot saat load model	✅ Sudah ada
-🖼️ Screenshot saat idle	✅ Sudah ada
-🧪 Model besar (13B Q4_K_M)	✅ Sudah diuji
-⚙️ GUI ringan (6KB-16kb Python script)	✅ Terpakai dengan lancar dan tanpa crash karena adanya fitur otomatis yang melakukan optimalisasi ram dan cpu
+| Elemen Bukti |	Status |
+| - - - - - - | - - - - |
+| 📜 Log sesi (session-logs) |	✅ Sudah ada |
+| 🖼️ Screenshot saat load model	| ✅ Sudah ada |
+| 🖼️ Screenshot saat Idle |	✅ Sudah ada|
+| 🧪 Model besar (13B Q5_K_M)	| ✅ Sudah diuji |
+|⚙️ GUI ringan (6KB-16kb Python script) |	✅ Terpakai dengan lancar dan tanpa crash karena adanya fitur otomatis yang melakukan optimalisasi ram dan cpu |
 
 ---
 
