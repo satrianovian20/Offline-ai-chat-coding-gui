@@ -18,6 +18,8 @@ GUI Rakyat Edition: Ringan, Garang, Tak Terbendung, AI GUI Bebas Crash™, Anti-
 | 👻 Bahkan OS-nya kayak bingung: “Lho, kenapa nggak bluescreen padahal beban udah kayak mau pecah?” | 👻 Even the OS seems confused: "Why no bluescreen when the load is clearly breaking point?" |
 | 😭 Crash, hang, not responding, dan bluescreen sekarang cuma bisa nangis di pojokan Task Manager. | 😭 Crash, hang, unresponsive, and bluescreen now can only cry in the corner of Task Manager. |
 
+👉 TaskManager.exterminate(Bluescreen).sendTo("void\\system32")
+
 🇮🇩 Bahasa Indonesia:
 
 🎉 Pertama kalinya dalam sejarah: Model AI 13B (Q5_K_M) berhasil dijalankan hanya dengan RAM 16GB — tanpa GPU, tanpa web server, cukup dengan GUI Python ukuran 10KB! Bukti nyata efisiensi maksimal 💪
