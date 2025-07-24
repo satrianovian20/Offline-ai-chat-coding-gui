@@ -205,23 +205,21 @@ GUI ini hanya berukuran 10KB namun sudah terbukti mampu menangani model AI lokal
 Berikut adalah flowchart proses alur kerja prompt untuk multitab AI chat offline berbasis GUI Python:
 
 flowchart TD
-    A[Muat Model GGUF via Tab Utama] --> B{Model Sudah Dimuat?}
-    B -- Ya --> C[Aktifkan Tombol Tab Chat Baru]
-    B -- Tidak --> Z[Tampilkan Peringatan: Model Belum Dimuat]
-
-    C --> D[Klik Tab Chat Baru (1-5)]
-    D --> E[User Kirim Prompt]
-    E --> F{Tab Utama Sedang Menjalankan Prompt?}
-    
-    F -- Ya --> G[Masukkan Prompt ke Antrian]
-    F -- Tidak --> H[Jalankan Prompt di Tab Ini]
-
-    G --> I{Prompt di Antrian Selesai?}
-    I -- Ya --> H
-    I -- Tidak --> G
-
-    H --> J[Tampilkan Hasil di Kolom Chat Tab Aktif]
-    J --> K[Tunggu Input Baru / Kirim Prompt Lagi]
+[User] / [Pengguna]
+      ↓
+Click 'Start Model' / Klik 'Mulai Model'
+      ↓
+Model Loaded in Tab Utama / Model Dimuat di Tab Utama
+      ↓
+User opens New Chat Tab / Pengguna membuka Tab Chat Baru
+      ↓
+Send Prompt (Queued) / Kirim Prompt (Antri)
+      ↓
+Prompt processed sequentially / Prompt diproses secara berurutan
+      ↓
+AI generates response / AI menghasilkan respons
+      ↓
+Display response in correct tab / Tampilkan respons di tab yang sesuai
 
 🔄 Penjelasan Singkat:
 Prompt dijalankan satu per satu berdasarkan waktu dikirimnya.
@@ -488,25 +486,21 @@ If you have RAM:
 
 This flowchart illustrates how prompt handling works in the offline multitab AI chat GUI (Python-based):
 
-```mermaid
-flowchart TD
-    A[Load GGUF Model via Main Tab] --> B{Is Model Loaded?}
-    B -- Yes --> C[Enable New Chat Tab Button]
-    B -- No --> Z[Show Warning: Model Not Loaded]
-
-    C --> D[Click New Chat Tab (1-5)]
-    D --> E[User Sends Prompt]
-    E --> F{Is Main Tab Running Prompt?}
-    
-    F -- Yes --> G[Queue Prompt]
-    F -- No --> H[Execute Prompt in This Tab]
-
-    G --> I{Is Queued Prompt Finished?}
-    I -- Yes --> H
-    I -- No --> G
-
-    H --> J[Display Result in Active Tab Chat Box]
-    J --> K[Wait for New Input / Send Another Prompt]
+[User] / [Pengguna]
+      ↓
+Click 'Start Model' / Klik 'Mulai Model'
+      ↓
+Model Loaded in Tab Utama / Model Dimuat di Tab Utama
+      ↓
+User opens New Chat Tab / Pengguna membuka Tab Chat Baru
+      ↓
+Send Prompt (Queued) / Kirim Prompt (Antri)
+      ↓
+Prompt processed sequentially / Prompt diproses secara berurutan
+      ↓
+AI generates response / AI menghasilkan respons
+      ↓
+Display response in correct tab / Tampilkan respons di tab yang sesuai
 
 🔄 Quick Notes:
 Prompts are handled one-by-one in the order they were sent.
