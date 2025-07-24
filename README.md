@@ -50,6 +50,15 @@ Prompt masuk → Model jalan → Output tampil
 | 7  | deepseek-coder-7b-instruct-v1.5-Q8_0.gguf           | Q8_0       | 10.8 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
 | 8  | deepseek-coder-1.3b-instruct.Q4_0.gguf           | Q4_0       | 4 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
 
+# 🏆 GUI Performa Tinggi Berbasis Anomali (Edisi 2025)
+
+| Peringkat | Nama Aplikasi              | Kategori Khusus                             | Framework       | Keanehan Utama                                                                      |
+|----------|-----------------------------|---------------------------------------------|-----------------|--------------------------------------------------------------------------------------|
+| 🥇 #1    | multichat_ai_gui.py         | GUI Multichat AI Offline (Tkinter)          | Python Tkinter  | Jalan tanpa Flask/Gradio, tab AI paralel stabil, load GGUF langsung, resource-aware |
+| 🥈 #2    | AutoGPT CLI                 | Agen AI Interaktif via Terminal             | Python CLI      | Task interaktif tanpa GUI, tetap terasa seperti multitasking                         |
+| 🥉 #3    | KoboldAI Lite GUI           | GUI Ringan untuk LLM                        | Tkinter/WebUI   | Jalankan LLM besar di hardware kentang tanpa crash GUI                              |
+| 🏅 #4    | A1111 Stable Diffusion WebUI| GUI Lanjutan untuk Gambar AI                | Gradio          | Bisa override batasan VRAM, ekstensinya tetap stabil                                 |
+
 🇬🇧 English Version:
 
 🎉 First time in history: A 13B (Q5_K_M) AI model runs smoothly with just 16GB RAM — no GPU, no web server, only a 6KB - 16kb Python GUI! Proof of ultimate efficiency 💪
@@ -92,6 +101,15 @@ Enter prompt → Run model → Display output
 | 6  | All 13B (except Yi 13B)           | Q4_K_M       | ≤15.5 GB of 16GB    | Windows 11 + Office 2024 + Chrome + music video 720p                           | Stable & Smooth  |
 | 7  | deepseek-coder-7b-instruct-v1.5-Q8_0.gguf           | Q8_0       | 10.8 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
 | 8  | deepseek-coder-1.3b-instruct.Q4_0.gguf           | Q4_0       | 4 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
+
+# 🏆 Anomaly-Based Performant GUI Hall of Fame (2025 Edition)
+
+| Rank     | Application Name            | Special Category                            | Framework        | Key Anomaly                                                                        |
+|----------|-----------------------------|----------------------------------------------|------------------|------------------------------------------------------------------------------------|
+| 🥇 #1    | multichat_ai_gui.py         | Offline Multichat AI GUI (Tkinter)           | Python Tkinter   | No Flask/Gradio, stable multitabs, GGUF loader, resource-aware and unexplained smoothness |
+| 🥈 #2    | AutoGPT CLI                 | Interactive Terminal AI Agent                 | Python CLI       | Complex task agent in terminal, acts like a GUI                                    |
+| 🥉 #3    | KoboldAI Lite GUI           | Lightweight LLM GUI                           | Tkinter/WebUI    | Runs large LLMs on low-end systems, GUI doesn’t crash                              |
+| 🏅 #4    | A1111 Stable Diffusion WebUI| Advanced AI Image GUI                         | Gradio           | Can override VRAM limits, extensions run stably                                    |
 
 ## 📸 Screenshot GUI From multichat_ai_gui.py
 ![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-23%20182952.png)
