@@ -8,6 +8,14 @@ GUI Rakyat Edition: Ringan, Garang, Tak Terbendung, AI GUI Bebas Crash™, Anti-
 > 🇬🇧 English overview is provided below.
 > “This project is based on the original LLaMA GUI by Satria Novian – [GitHub link], licensed under the MIT License. Copyright © 2025 Satria Novian.” 
 
+| Bahasa Indonesia                                                                 | English                                                                              |
+|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| 🧪 Dicoba pakai model 13B Q5_K_M, tapi GUI-nya menolak mengaku overload RAM.     | 🧪 Tried with 13B Q5_K_M model, but the GUI refused to say “RAM overload”.           |
+| 🔀 Dicoba multitasking AI + Coding bareng di RAM 16 GB, tetap tak mau hang, crash, atau not responding. | 🔀 Tried multitasking AI + Coding on 16 GB RAM, still refused to hang, crash, or freeze. |
+| 🧠 GUI-nya kayak punya logika hidup sendiri, kayak ngomong: "Gua bukan GUI yang gampang nyerah." | 🧠 The GUI feels like it has a life of its own, saying: "I'm not the GUI that gives up." |
+| 👻 Bahkan OS-nya kayak bingung: “Lho, kenapa nggak bluescreen padahal beban udah kayak mau pecah?” | 👻 Even the OS seems confused: "Why no bluescreen when the load is clearly breaking point?" |
+| 😭 Crash, hang, not responding, dan bluescreen sekarang cuma bisa nangis di pojokan Task Manager. | 😭 Crash, hang, unresponsive, and bluescreen now can only cry in the corner of Task Manager. |
+
 🇮🇩 Bahasa Indonesia:
 
 🎉 Pertama kalinya dalam sejarah: Model AI 13B (Q5_K_M) berhasil dijalankan hanya dengan RAM 16GB — tanpa GPU, tanpa web server, cukup dengan GUI Python ukuran 10KB! Bukti nyata efisiensi maksimal 💪
