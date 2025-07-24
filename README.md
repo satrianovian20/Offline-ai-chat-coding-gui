@@ -8,6 +8,8 @@ GUI Rakyat Edition: Ringan, Garang, Tak Terbendung, AI GUI Bebas Crash™, Anti-
 > 🇬🇧 English overview is provided below.
 > “This project is based on the original LLaMA GUI by Satria Novian – [GitHub link], licensed under the MIT License. Copyright © 2025 Satria Novian.” 
 
+🌟 Dokumentasi Fenomena Aneh GUI Rakyat Edition (Documentation of Strange Phenomena GUI Rakyat Edition)
+
 | Bahasa Indonesia                                                                 | English                                                                              |
 |----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | 🧪 Dicoba pakai model 13B Q5_K_M, tapi GUI-nya menolak mengaku overload RAM.     | 🧪 Tried with 13B Q5_K_M model, but the GUI refused to say “RAM overload”.           |
