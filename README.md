@@ -201,8 +201,9 @@ GUI ini hanya berukuran 10KB namun sudah terbukti mampu menangani model AI lokal
 ---
 
 ✅ Recap Status Dokumentasi (versi Indonesia):
-| Elemen Bukti |	Status |
-| - - - - - - | - - - - |
+
+| Elemen Bukti |	Status  |
+|------|-----|
 | 📜 Log sesi (session-logs) |	✅ Sudah ada |
 | 🖼️ Screenshot saat load model	| ✅ Sudah ada |
 | 🖼️ Screenshot saat Idle |	✅ Sudah ada|
