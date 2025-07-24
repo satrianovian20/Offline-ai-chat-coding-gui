@@ -20,6 +20,10 @@ GUI Rakyat Edition: Ringan, Garang, Tak Terbendung, AI GUI Bebas Crash™, Anti-
 
 👉 TaskManager.exterminate(Bluescreen).sendTo("void\\system32")
 
+"Error Detected.
+Sending to: C:\Windows\System32\Void\NeverReturn.dll"
+💀 "May the bugs rest in bits."
+
 🇮🇩 Bahasa Indonesia:
 
 🎉 Pertama kalinya dalam sejarah: Model AI 13B (Q5_K_M) berhasil dijalankan hanya dengan RAM 16GB — tanpa GPU, tanpa web server, cukup dengan GUI Python ukuran 10KB! Bukti nyata efisiensi maksimal 💪
