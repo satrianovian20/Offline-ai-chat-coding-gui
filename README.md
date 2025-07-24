@@ -23,6 +23,8 @@ GUI Rakyat Edition: Ringan, Garang, Tak Terbendung, AI GUI Bebas Crash™, Anti-
 "Error Detected.
 Sending to: C:\Windows\System32\Void\NeverReturn.dll"
 💀 "May the bugs rest in bits."
+🔥 The GUI That Bans BSOD Itself.
+👏 Respect.
 
 🇮🇩 Bahasa Indonesia:
 
