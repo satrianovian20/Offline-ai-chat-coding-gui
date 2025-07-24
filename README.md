@@ -450,13 +450,15 @@ If you have RAM:
 
 ---
 
-✅ Documentation Status Recap (Indonesian Version)
-Proof Element	Status
-📜 Session logs	✅ Available
-🖼️ Screenshot (model load)	✅ Available
-🖼️ Screenshot (idle)	✅ Available
-🧪 Large model (13B Q4_K_M)	✅ Tested
-⚙️ Lightweight GUI (6KB–16KB Python)	✅ Works smoothly and safely with RAM/CPU optimization built-in
+✅ Documentation Status Recap (English Version)
+
+| Proof Element	| Status |
+|----------------|---------|
+| 📜 Session logs |	✅ Available |
+| 🖼️ Screenshot (model load)  |	✅ Available |
+| 🖼️ Screenshot (idle)	| ✅ Available |
+| 🧪 Large model (13B Q5_K_M)	 | ✅ Tested |
+| ⚙️ Lightweight GUI (6KB–16KB Python)	| ✅ Works smoothly and safely with RAM/CPU optimization built-in |
 
 ---
 
