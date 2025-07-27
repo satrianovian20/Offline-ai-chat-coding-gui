@@ -25,6 +25,7 @@ Sending to: C:\Windows\System32\Void\NeverReturn.dll"
 💀 "May the bugs rest in bits."
 🔥 The GUI That Bans BSOD Itself.
 👏 Respect.
+✅ Certified Not Manja — Rakyat Mode Approved
 
 🇮🇩 Bahasa Indonesia:
 
