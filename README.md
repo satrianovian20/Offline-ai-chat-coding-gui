@@ -129,8 +129,8 @@ Enter prompt → Run model → Display output
 | 🥉 #3    | KoboldAI Lite GUI           | Lightweight LLM GUI                           | Tkinter/WebUI    | Runs large LLMs on low-end systems, GUI doesn’t crash                              |
 | 🏅 #4    | A1111 Stable Diffusion WebUI| Advanced AI Image GUI                         | Gradio           | Can override VRAM limits, extensions run stably                                    |
 
-## 📸 Screenshot GUI From multichat_ai_gui.py
-![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-23%20182952.png)
+## 📸 Screenshot GUI From llamacpp_multichat_ai_gui.py
+![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-27%20082259.png)
 
 ## 📸 Screenshot GUI From llamacpp_gui_combinedv11.py
 
