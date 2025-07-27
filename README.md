@@ -4,6 +4,8 @@ GUI Python ringan (Tkinter) untuk menjalankan AI chat &amp; coding dengan model 
 Moto:
 GUI Rakyat Edition: Ringan, Garang, Tak Terbendung, AI GUI Bebas Crash™, Anti-Bluescreen Framework, The GUI That Refused to Die
 
+🚀 Cloned already? Don’t forget to ⭐ if this project made your CPU smile 😄  
+
 > 🇮🇩 This project is primarily documented in Indonesian.
 > 🇬🇧 English overview is provided below.
 > “This project is based on the original LLaMA GUI by Satria Novian – [GitHub link], licensed under the MIT License. Copyright © 2025 Satria Novian.” 
