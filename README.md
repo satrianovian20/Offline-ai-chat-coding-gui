@@ -31,10 +31,10 @@ Sending to: C:\Windows\System32\Void\NeverReturn.dll"
 
 🇮🇩 Bahasa Indonesia:
 
-🎉 Pertama kalinya dalam sejarah: Model AI 15B (Q5_K_M) berhasil dijalankan hanya dengan RAM 16GB — tanpa GPU, tanpa web server, cukup dengan GUI Python ukuran 10KB! Bukti nyata efisiensi maksimal 💪
+🎉 Pertama kalinya dalam sejarah: Model AI 16B (Q5_K_M) berhasil dijalankan hanya dengan RAM 16GB — tanpa GPU, tanpa web server, cukup dengan GUI Python ukuran 10KB! Bukti nyata efisiensi maksimal 💪
 ⚠️ Catatan RAM 16GB:
 
-Meskipun sistem Anda 16GB, Windows dan Office 2024 bisa menyita 3–5 GB di background. Namun, GUI ini tetap dapat menjalankan model 13B Q4_K_M - 15B Q5_K_M. Tanpa GPU, tanpa swap besar.
+Meskipun sistem Anda 16GB, Windows dan Office 2024 bisa menyita 3–5 GB di background. Namun, GUI ini tetap dapat menjalankan model 13B Q4_K_M - 16B Q5_K_M. Tanpa GPU, tanpa swap besar.
 
 ✅ GUI Python KB Ini langsung-to-the-point, tanpa ribet:
 Prompt masuk → Model jalan → Output tampil
