@@ -72,6 +72,8 @@ Prompt masuk → Model jalan → Output tampil
 | 8  | deepseek-coder-1.3b-instruct.Q4_0.gguf           | Q4_0       | 4 GB of 16GB    | Windows 11 pro 24H2 + Office 2024                           | Stable & Smooth  |
 | 9  | codellama-13b.Q6_K.gguf           | Q6_K       | ≤15.4 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
 | 10  | starcoder2-15b-Q5_K_M (1).gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
+| 11  | DeepSeek-Coder-V2-Lite-Instruct-Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
+| 12  | Llama-3-16B.Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
 
 # 🏆 GUI Performa Tinggi Berbasis Anomali (Edisi 2025)
 
@@ -84,11 +86,11 @@ Prompt masuk → Model jalan → Output tampil
 
 🇬🇧 English Version:
 
-🎉 First time in history: A 15B (Q5_K_M) AI model runs smoothly with just 16GB RAM — no GPU, no web server, only a 6KB - 16kb Python GUI! Proof of ultimate efficiency 💪
+🎉 First time in history: A 16B (Q5_K_M) AI model runs smoothly with just 16GB RAM — no GPU, no web server, only a 6KB - 16kb Python GUI! Proof of ultimate efficiency 💪
 
 ⚠️ 16GB RAM Note:
 
-Even if your system has 16GB, Windows and Office 2024 can take up 3–5GB in the background. However, this GUI can still run the 13B Q4_K_M - 15B Q5_K_M model efficiently. No GPU, no large swap requirements.
+Even if your system has 16GB, Windows and Office 2024 can take up 3–5GB in the background. However, this GUI can still run the 13B Q4_K_M - 16B Q5_K_M model efficiently. No GPU, no large swap requirements.
 
 ✅ This Python KB GUI is straight-to-the-point, without any fuss:
 Enter prompt → Run model → Display output
@@ -126,6 +128,9 @@ Enter prompt → Run model → Display output
 | 8  | deepseek-coder-1.3b-instruct.Q4_0.gguf           | Q4_0       | 4 GB of 16GB    | Windows 11 pro 24H2 + Office 2024                           | Stable & Smooth  |
 | 9  | codellama-13b.Q6_K.gguf           | Q6_K       | ≤15.4 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
 | 10  | starcoder2-15b-Q5_K_M (1).gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
+| 11  | DeepSeek-Coder-V2-Lite-Instruct-Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
+| 12  | Llama-3-16B.Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
+
 
 # 🏆 Anomaly-Based Performant GUI Hall of Fame (2025 Edition)
 
