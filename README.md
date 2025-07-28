@@ -70,6 +70,8 @@ Prompt masuk → Model jalan → Output tampil
 | 6  | All 13B (Kecuali Yi 13B)           | Q4_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + music video 720p                          | Stable & Smooth  |
 | 7  | deepseek-coder-7b-instruct-v1.5-Q8_0.gguf           | Q8_0       | 10.8 GB of 16GB    | Windows 11 pro 24H2 + Office 2024                           | Stable & Smooth  |
 | 8  | deepseek-coder-1.3b-instruct.Q4_0.gguf           | Q4_0       | 4 GB of 16GB    | Windows 11 pro 24H2 + Office 2024                           | Stable & Smooth  |
+| 9  | codellama-13b.Q6_K.gguf           | Q6_K       | ≤15.4 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
+| 10  | starcoder2-15b-Q5_K_M (1).gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
 
 # 🏆 GUI Performa Tinggi Berbasis Anomali (Edisi 2025)
 
@@ -122,6 +124,8 @@ Enter prompt → Run model → Display output
 | 6  | All 13B (except Yi 13B)           | Q4_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + music video 720p                           | Stable & Smooth  |
 | 7  | deepseek-coder-7b-instruct-v1.5-Q8_0.gguf           | Q8_0       | 10.8 GB of 16GB    | Windows 11 pro 24H2 + Office 2024                           | Stable & Smooth  |
 | 8  | deepseek-coder-1.3b-instruct.Q4_0.gguf           | Q4_0       | 4 GB of 16GB    | Windows 11 pro 24H2 + Office 2024                           | Stable & Smooth  |
+| 9  | codellama-13b.Q6_K.gguf           | Q6_K       | ≤15.4 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
+| 10  | starcoder2-15b-Q5_K_M (1).gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
 
 # 🏆 Anomaly-Based Performant GUI Hall of Fame (2025 Edition)
 
