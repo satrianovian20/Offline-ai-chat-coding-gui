@@ -31,10 +31,10 @@ Sending to: C:\Windows\System32\Void\NeverReturn.dll"
 
 🇮🇩 Bahasa Indonesia:
 
-🎉 Pertama kalinya dalam sejarah: Model AI 13B (Q5_K_M) berhasil dijalankan hanya dengan RAM 16GB — tanpa GPU, tanpa web server, cukup dengan GUI Python ukuran 10KB! Bukti nyata efisiensi maksimal 💪
+🎉 Pertama kalinya dalam sejarah: Model AI 15B (Q5_K_M) berhasil dijalankan hanya dengan RAM 16GB — tanpa GPU, tanpa web server, cukup dengan GUI Python ukuran 10KB! Bukti nyata efisiensi maksimal 💪
 ⚠️ Catatan RAM 16GB:
 
-Meskipun sistem Anda 16GB, Windows dan Office 2024 bisa menyita 3–5 GB di background. Namun, GUI ini tetap dapat menjalankan model 8B Q8_0 - 13B Q5_K_M. Tanpa GPU, tanpa swap besar.
+Meskipun sistem Anda 16GB, Windows dan Office 2024 bisa menyita 3–5 GB di background. Namun, GUI ini tetap dapat menjalankan model 13B Q4_K_M - 15B Q5_K_M. Tanpa GPU, tanpa swap besar.
 
 ✅ GUI Python KB Ini langsung-to-the-point, tanpa ribet:
 Prompt masuk → Model jalan → Output tampil
@@ -62,14 +62,14 @@ Prompt masuk → Model jalan → Output tampil
 
 | No | Nama Model GGUF                                      | Ukuran Quant   | RAM yang Digunakan          | OS & Kondisi Tambahan                         | Status GUI       |
 |----|------------------------------------------------------|--------------|---------------------|----------------------------------------------------|------------------|
-| 1  | luna-ai-llama2-uncensored.Q4_0.gguf                 | Q4_0         | ±11.6 GB of 16GB    | Windows 11 + Office 2024 + music & anime video     | Stable & Smooth  |
-| 2  | Meta-Llama-3-8B-Instruct.Q8_0.gguf                  | Q8_0         | ±10.8 GB of 16GB    | Windows 11 + Office 2024 + music & anime video     | Stable & Smooth  |
-| 3  | WizardLM-13B-Uncensored.Q5_K_M.gguf                           | Q5_K_M       | 12,6 GB of 16 GB       |  Windows 11 + Office 2024 | Tested + Stable & Smooth           |
-| 4  | wizardcoder-python-13b-v1.0.Q5_K_M.gguf                           | Q5_K_M       | 12,6 GB of 16 GB       |  Windows 11 + Office 2024 | Tested + Stable & Smooth           |
-| 5  | All 7B           | Q4_K_M       | ≤11.5 GB of 16GB    | Windows 11 + Office 2024 + Chrome + music video 720p                          | Stable & Smooth  |
-| 6  | All 13B (Kecuali Yi 13B)           | Q4_K_M       | ≤15.5 GB of 16GB    | Windows 11 + Office 2024 + Chrome + music video 720p                          | Stable & Smooth  |
-| 7  | deepseek-coder-7b-instruct-v1.5-Q8_0.gguf           | Q8_0       | 10.8 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
-| 8  | deepseek-coder-1.3b-instruct.Q4_0.gguf           | Q4_0       | 4 GB of 16GB    | Windows 11 + Office 2024                           | Stable & Smooth  |
+| 1  | luna-ai-llama2-uncensored.Q4_0.gguf                 | Q4_0         | ±11.6 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + music & anime video     | Stable & Smooth  |
+| 2  | Meta-Llama-3-8B-Instruct.Q8_0.gguf                  | Q8_0         | ±10.8 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + music & anime video     | Stable & Smooth  |
+| 3  | WizardLM-13B-Uncensored.Q5_K_M.gguf                           | Q5_K_M       | 12,6 GB of 16 GB       |  Windows 11 pro 24H2 + Office 2024 | Tested + Stable & Smooth           |
+| 4  | wizardcoder-python-13b-v1.0.Q5_K_M.gguf                           | Q5_K_M       | 12,6 GB of 16 GB       |  Windows 11 pro 24H2 + Office 2024 | Tested + Stable & Smooth           |
+| 5  | All 7B           | Q4_K_M       | ≤11.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + music video 720p                          | Stable & Smooth  |
+| 6  | All 13B (Kecuali Yi 13B)           | Q4_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + music video 720p                          | Stable & Smooth  |
+| 7  | deepseek-coder-7b-instruct-v1.5-Q8_0.gguf           | Q8_0       | 10.8 GB of 16GB    | Windows 11 pro 24H2 + Office 2024                           | Stable & Smooth  |
+| 8  | deepseek-coder-1.3b-instruct.Q4_0.gguf           | Q4_0       | 4 GB of 16GB    | Windows 11 pro 24H2 + Office 2024                           | Stable & Smooth  |
 
 # 🏆 GUI Performa Tinggi Berbasis Anomali (Edisi 2025)
 
@@ -82,11 +82,11 @@ Prompt masuk → Model jalan → Output tampil
 
 🇬🇧 English Version:
 
-🎉 First time in history: A 13B (Q5_K_M) AI model runs smoothly with just 16GB RAM — no GPU, no web server, only a 6KB - 16kb Python GUI! Proof of ultimate efficiency 💪
+🎉 First time in history: A 15B (Q5_K_M) AI model runs smoothly with just 16GB RAM — no GPU, no web server, only a 6KB - 16kb Python GUI! Proof of ultimate efficiency 💪
 
 ⚠️ 16GB RAM Note:
 
-Even if your system has 16GB, Windows and Office 2024 can take up 3–5GB in the background. However, this GUI can still run the 8B Q8_0 - 13B Q5_K_M model efficiently. No GPU, no large swap requirements.
+Even if your system has 16GB, Windows and Office 2024 can take up 3–5GB in the background. However, this GUI can still run the 13B Q4_K_M - 15B Q5_K_M model efficiently. No GPU, no large swap requirements.
 
 ✅ This Python KB GUI is straight-to-the-point, without any fuss:
 Enter prompt → Run model → Display output
@@ -351,7 +351,7 @@ Atur max_tokens di GUI agar tidak melebihi kapasitas RAM kamu.
 😎 Silakan buktikan sendiri. Semuanya open source. Mau test sendiri? Silakan kloning repo-nya sekarang.
 
 Catatan Jujur (untuk README atau FAQ)
-💡 Saat ini, pengujian terbatas pada model hingga 13B (Q4_K_M) karena sistem hanya memiliki RAM 16GB tanpa GPU.
+💡 Saat ini, pengujian terbatas pada model hingga 15B (Q5_K_M) karena sistem hanya memiliki RAM 16GB tanpa GPU.
 Namun, GUI Python 6KB-16KB ini berhasil menangani model besar tersebut secara stabil dan efisien, yang biasanya tidak mungkin dilakukan tanpa sistem high-end.
 Untuk model 33B ke atas, uji coba akan dilakukan jika tersedia perangkat dengan RAM lebih besar. Ditambah bisa melakukan optimalisasi ram dan cpu.
 
@@ -629,7 +629,7 @@ No web servers, no complex backends, no heavy libraries.
 Clone the repo now and experience it.
 
 📜 Honest Note (for README or FAQ)
-💡 So far, this GUI has only been tested with models up to 13B (Q4_K_M) due to 16GB RAM limitations and no GPU.
+💡 So far, this GUI has only been tested with models up to 15B (Q5_K_M) due to 16GB RAM limitations and no GPU.
 But the Python GUI (6KB–16KB) still handled it smoothly and efficiently — something many wouldn’t expect without a high-end setup.
 
 For 33B+ models, testing will follow when more RAM is available. The GUI already supports CPU/RAM optimization.
