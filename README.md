@@ -183,7 +183,6 @@ Alat sederhana GUI untuk mendeteksi port aktif dari `llama-server.exe` pada LLaM
 - Tes koneksi ke port manual
 - Salin port ke clipboard
 - Ubah hostname (127.0.0.1 atau localhost)
-- Notifikasi suara saat port ditemukan (Windows only)
 
 ## 🖥️ Cara Pakai
 1. Jalankan `_py test.cmd` terlebih dahulu.
@@ -215,8 +214,6 @@ Manually test connection to a specific port
 Copy the detected port to clipboard
 
 Change hostname (127.0.0.1 or localhost)
-
-Sound notification when an active port is found (Windows only)
 
 🖥️ How to Use
 Run _py test.cmd first.
