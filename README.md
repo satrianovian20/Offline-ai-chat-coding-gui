@@ -187,8 +187,9 @@ Alat sederhana GUI untuk mendeteksi port aktif dari `llama-server.exe` pada LLaM
 ## 🖥️ Cara Pakai
 1. Jalankan `_py test.cmd` terlebih dahulu.
 2. `LLaMA_Server_Port_Detector.py` akan langsung jalan setelah Jalankan `_py test.cmd` terlebih dahulu.
-3. Klik `🔍 Deteksi Port`.
-4. Setelah port aktif ditemukan, bisa langsung klik `📋 Copy Port` atau `🔌 Tes Koneksi`.
+3. Klik 'Jalankan llama-server.exe'.
+4. Klik `🔍 Deteksi Port`.
+5. Setelah port aktif ditemukan, bisa langsung klik `📋 Copy Port` atau `🔌 Tes Koneksi`.
 
 ## 💡 Catatan
 - Script ini menggunakan `tkinter` dan `http.client`.
@@ -215,13 +216,15 @@ Copy the detected port to clipboard
 Change hostname (127.0.0.1 or localhost)
 
 🖥️ How to Use
-Run _py test.cmd first.
+1. Run _py test.cmd first.
 
-Will Launch LLaMA_Server_Port_Detector.py after Run _py test.cmd first.
+2. Will Launch LLaMA_Server_Port_Detector.py after Run _py test.cmd first.
 
-Click 🔍 Detect Port.
+3. Click 'Jalankan llama-server.exe'.
 
-Once an active port is found, you can click 📋 Copy Port or 🔌 Test Connection.
+4. Click 🔍 Detect Port.
+
+5. Once an active port is found, you can click 📋 Copy Port or 🔌 Test Connection.
 
 💡 Notes
 This script uses tkinter and http.client.
