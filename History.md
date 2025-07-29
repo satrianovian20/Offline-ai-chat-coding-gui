@@ -22,6 +22,28 @@ Namun menggunakan `llama.cpp` dari source GitHub juga bukan hal mudah:
 
 ---
 
+## 🧭 Keputusan Besar: Tinggalkan KoboldCpp
+
+Saat sedang mengembangkan versi lanjutan `LLaMA.cpp GUI Combined`, KoboldCpp merilis `koboldcpp-old-pc.exe` untuk PC lama.
+
+Namun saya **mengabaikannya dengan sengaja** — karena:
+
+- Sudah cukup stres dengan bug KoboldCpp sebelumnya
+- Sudah terlalu jauh dalam membangun GUI berbasis `llama-server.exe`
+- Tak ingin memulai ulang lagi dari nol
+- Dan... **sayang kalau berhenti di tengah jalan**
+
+💡 Ternyata keputusan ini benar:
+Proyek pun berkembang hingga menjadi `LLaMA.cpp Multichat AI GUI`, yang kini dilengkapi fitur modern:
+- Multi-tab chat seperti ChatGPT
+- Bisa close tab
+- Ganti model GGUF secara dinamis
+- Chat dan Coding Assistant offline
+
+🚀 GUI AI lokal ini kini mampu memberi pengalaman seperti ChatGPT — tapi berjalan di PC kamu sendiri, **tanpa internet, tanpa server luar, dan tanpa biaya**.
+
+---
+
 ## ✅ Kenapa Pakai `llama-server.exe`?
 
 - REST API yang stabil (`/completion`, `/healthz`)
@@ -80,6 +102,29 @@ But using `llama.cpp` from source wasn’t easy either:
 - Early versions of `server` lacked stable API
 
 💡 **Eventually... `llama-server.exe` was discovered** from official LLaMA.cpp releases.
+
+---
+
+## 🧠 The Big Decision: Ignoring KoboldCpp’s Comeback
+
+While upgrading to `LLaMA.cpp GUI Combined`, the **KoboldCpp team released `koboldcpp-old-pc.exe`** — aimed at low-end systems.
+
+But I **intentionally ignored it**:
+
+- Already experienced too many issues with KoboldCpp
+- LLaMA.cpp server was more stable and modern
+- Rewriting the GUI backend would have wasted time
+- And most of all — **I didn’t want to stop halfway**
+
+### ✅ And I was right.
+Soon after, the project grew into **LLaMA.cpp Multichat AI GUI**, now packed with modern AI chat features:
+
+- Multi-tab chat like ChatGPT  
+- Closeable chat tabs  
+- Runtime GGUF model switching  
+- Offline Chat + Coding Assistant with full streaming responses
+
+> 🚀 This GUI now provides a ChatGPT-like experience — 100% offline, on your own machine, with no internet, no third-party servers, and zero cost.
 
 ---
 
