@@ -192,7 +192,6 @@ Alat sederhana GUI untuk mendeteksi port aktif dari `llama-server.exe` pada LLaM
 
 ## 💡 Catatan
 - Script ini menggunakan `tkinter` dan `http.client`.
-- Suara notifikasi hanya tersedia untuk Windows (menggunakan `winsound`).
 - Tidak perlu install `pyperclip` jika tidak bisa, bisa dihapus fitur `Copy`.
 
 ### 📄 `requirements.txt` (opsional)
@@ -226,8 +225,6 @@ Once an active port is found, you can click 📋 Copy Port or 🔌 Test Connecti
 
 💡 Notes
 This script uses tkinter and http.client.
-
-Sound notification only works on Windows (uses winsound).
 
 Installing pyperclip is optional; if not available, the copy feature can be disabled.
 
