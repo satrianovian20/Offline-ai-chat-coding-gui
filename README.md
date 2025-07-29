@@ -171,7 +171,7 @@ Enter prompt → Run model → Display output
 ![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-18%20170809.png)
 
 ## 📸 Third Screenshot Chat From GUI
-![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-23%20195730.png)
+![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-30%20064550.png)
 
 ---
 
