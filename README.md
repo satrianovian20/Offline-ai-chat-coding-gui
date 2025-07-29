@@ -173,6 +173,73 @@ Enter prompt → Run model → Display output
 
 ---
 
+Bahasa Indonesia
+# 🔌 LLaMA.cpp Port Detector GUI
+
+Alat sederhana GUI untuk mendeteksi port aktif dari `llama-server.exe` pada LLaMA.cpp build lokal Anda.
+
+## 📦 Fitur
+- Deteksi otomatis port aktif dari range yang ditentukan
+- Tes koneksi ke port manual
+- Salin port ke clipboard
+- Ubah hostname (127.0.0.1 atau localhost)
+- Notifikasi suara saat port ditemukan (Windows only)
+
+## 🖥️ Cara Pakai
+1. Jalankan `_py test.cmd` terlebih dahulu.
+2. `LLaMA_Server_Port_Detector.py` akan langsung jalan setelah Jalankan `_py test.cmd` terlebih dahulu.
+3. Klik `🔍 Deteksi Port`.
+4. Setelah port aktif ditemukan, bisa langsung klik `📋 Copy Port` atau `🔌 Tes Koneksi`.
+
+## 💡 Catatan
+- Script ini menggunakan `tkinter` dan `http.client`.
+- Suara notifikasi hanya tersedia untuk Windows (menggunakan `winsound`).
+- Tidak perlu install `pyperclip` jika tidak bisa, bisa dihapus fitur `Copy`.
+
+### 📄 `requirements.txt` (opsional)
+# Hanya jika pyperclip dipakai
+pyperclip
+
+---
+
+English Version
+
+🔌 LLaMA.cpp Port Detector GUI
+A simple GUI tool to detect the active port used by llama-server.exe on your local LLaMA.cpp build.
+
+📦 Features
+Automatically scans for active ports within a specified range
+
+Manually test connection to a specific port
+
+Copy the detected port to clipboard
+
+Change hostname (127.0.0.1 or localhost)
+
+Sound notification when an active port is found (Windows only)
+
+🖥️ How to Use
+Run _py test.cmd first.
+
+Will Launch LLaMA_Server_Port_Detector.py after Run _py test.cmd first.
+
+Click 🔍 Detect Port.
+
+Once an active port is found, you can click 📋 Copy Port or 🔌 Test Connection.
+
+💡 Notes
+This script uses tkinter and http.client.
+
+Sound notification only works on Windows (uses winsound).
+
+Installing pyperclip is optional; if not available, the copy feature can be disabled.
+
+📄 requirements.txt (optional)
+# Only needed if you use pyperclip
+pyperclip
+
+---
+
 ## 🇮🇩 Bahasa Indonesia
 
 GUI lokal untuk LLaMA.cpp:
