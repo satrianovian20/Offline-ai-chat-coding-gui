@@ -14,7 +14,7 @@ GUI Rakyat Edition: Ringan, Garang, Tak Terbendung, AI GUI Bebas Crash™, Anti-
 
 | Bahasa Indonesia                                                                 | English                                                                              |
 |----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| 🧪 Dicoba pakai model 13B Q5_K_M, tapi GUI-nya menolak mengaku overload RAM.     | 🧪 Tried with 13B Q5_K_M model, but the GUI refused to say “RAM overload”.           |
+| 🧪 Dicoba pakai model 17B Q5_K_M, tapi GUI-nya menolak mengaku overload RAM.     | 🧪 Tried with 17B Q5_K_M model, but the GUI refused to say “RAM overload”.           |
 | 🔀 Dicoba multitasking AI + Coding bareng di RAM 16 GB, tetap tak mau hang, crash, atau not responding. | 🔀 Tried multitasking AI + Coding on 16 GB RAM, still refused to hang, crash, or freeze. |
 | 🧠 GUI-nya kayak punya logika hidup sendiri, kayak ngomong: "Gua bukan GUI yang gampang nyerah." | 🧠 The GUI feels like it has a life of its own, saying: "I'm not the GUI that gives up." |
 | 👻 Bahkan OS-nya kayak bingung: “Lho, kenapa nggak bluescreen padahal beban udah kayak mau pecah?” | 👻 Even the OS seems confused: "Why no bluescreen when the load is clearly breaking point?" |
@@ -31,10 +31,10 @@ Sending to: C:\Windows\System32\Void\NeverReturn.dll"
 
 🇮🇩 Bahasa Indonesia:
 
-🎉 Pertama kalinya dalam sejarah: Model AI 16B (Q5_K_M) berhasil dijalankan hanya dengan RAM 16GB — tanpa GPU, tanpa web server, cukup dengan GUI Python ukuran 10KB! Bukti nyata efisiensi maksimal 💪
+🎉 Pertama kalinya dalam sejarah: Model AI 17B (Q5_K_M) berhasil dijalankan hanya dengan RAM 16GB — tanpa GPU, tanpa web server, cukup dengan GUI Python ukuran 10KB! Bukti nyata efisiensi maksimal 💪
 ⚠️ Catatan RAM 16GB:
 
-Meskipun sistem Anda 16GB, Windows dan Office 2024 bisa menyita 3–5 GB di background. Namun, GUI ini tetap dapat menjalankan model 13B Q4_K_M - 16B Q5_K_M. Tanpa GPU, tanpa swap besar.
+Meskipun sistem Anda 16GB, Windows dan Office 2024 bisa menyita 3–5 GB di background. Namun, GUI ini tetap dapat menjalankan model 13B Q4_K_M - 17B Q5_K_M. Tanpa GPU, tanpa swap besar.
 
 ✅ GUI Python KB Ini langsung-to-the-point, tanpa ribet:
 Prompt masuk → Model jalan → Output tampil
@@ -45,7 +45,7 @@ Prompt masuk → Model jalan → Output tampil
 |----------------------------------|----------------------------------|--------------------------------------|
 | ✅ Ukuran File GUI               | **10 KB**                        | > **100 MB**                         |
 | ⚙️ Bahasa Pemrograman            | Python (tkinter native)          | Python + Gradio + JS + HTML          |
-| 🧠 Model yang Diuji              | 8B (Q8_0), 13B (Q5_K_M)                 | 7B, 13B                               |
+| 🧠 Model yang Diuji              | 1,3B (Q4_0) - 17B (Q5_K_M)                 | 7B, 13B                               |
 | 🧮 RAM Minimum (8B (Q8_0) - 13B Q5_K_M)      | **12.3 – 15.5 GB**               | **> 18 – 20 GB**                      |
 | 🖥️ CPU Pengujian                | i5-9400F (no GPU)                | Biasanya pakai GPU / CPU kuat        |
 | 🚀 Waktu Load Model 13B         | **35 – 40 detik**                | Bisa > 1 menit                       |
@@ -74,6 +74,7 @@ Prompt masuk → Model jalan → Output tampil
 | 10  | starcoder2-15b-Q5_K_M (1).gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
 | 11  | DeepSeek-Coder-V2-Lite-Instruct-Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
 | 12  | Llama-3-16B.Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
+| 13  | orcamaidxl-17b-32k.Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome                          | Stable & Smooth  |
 
 # 🏆 GUI Performa Tinggi Berbasis Anomali (Edisi 2025)
 
@@ -86,11 +87,11 @@ Prompt masuk → Model jalan → Output tampil
 
 🇬🇧 English Version:
 
-🎉 First time in history: A 16B (Q5_K_M) AI model runs smoothly with just 16GB RAM — no GPU, no web server, only a 6KB - 16kb Python GUI! Proof of ultimate efficiency 💪
+🎉 First time in history: A 17B (Q5_K_M) AI model runs smoothly with just 16GB RAM — no GPU, no web server, only a 6KB - 16kb Python GUI! Proof of ultimate efficiency 💪
 
 ⚠️ 16GB RAM Note:
 
-Even if your system has 16GB, Windows and Office 2024 can take up 3–5GB in the background. However, this GUI can still run the 13B Q4_K_M - 16B Q5_K_M model efficiently. No GPU, no large swap requirements.
+Even if your system has 16GB, Windows and Office 2024 can take up 3–5GB in the background. However, this GUI can still run the 13B Q4_K_M - 17B Q5_K_M model efficiently. No GPU, no large swap requirements.
 
 ✅ This Python KB GUI is straight-to-the-point, without any fuss:
 Enter prompt → Run model → Display output
@@ -101,7 +102,7 @@ Enter prompt → Run model → Display output
 |:----------------------------------|:----------------------------------------|:--------------------------------------------|
 | ✅ **GUI File Size**              | **10 KB**                               | > **100 MB**                                 |
 | ⚙️ **Programming Language**       | Native Python (Tkinter)                 | Python + Gradio + JS + HTML                  |
-| 🧠 **Tested Model Types**         | 8B (Q8_0), 13B (Q5_K_M)                        | 7B, 13B                                       |
+| 🧠 **Tested Model Types**         | 1,3B (Q4_0) - 17B (Q5_K_M)                        | 7B, 13B                                       |
 | 🧮 **Minimum RAM (8B Q8_0 –13B Q5_K_M)**| **12.3 – 15.5 GB**                      | **> 18 – 20 GB**                              |
 | 🖥️ **Test CPU**                   | i5-9400F (no GPU)                       | Typically uses GPU or high-end CPU           |
 | 🚀 **Model Load Time (13B)**      | **35 – 40 seconds**                     | Can take > 1 minute                          |
@@ -130,6 +131,7 @@ Enter prompt → Run model → Display output
 | 10  | starcoder2-15b-Q5_K_M (1).gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
 | 11  | DeepSeek-Coder-V2-Lite-Instruct-Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
 | 12  | Llama-3-16B.Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
+| 13  | orcamaidxl-17b-32k.Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome                          | Stable & Smooth  |
 
 
 # 🏆 Anomaly-Based Performant GUI Hall of Fame (2025 Edition)
