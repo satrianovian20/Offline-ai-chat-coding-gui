@@ -4,7 +4,7 @@ GUI Python ringan (Tkinter) untuk menjalankan AI chat &amp; coding dengan model 
 Moto:
 GUI Rakyat Edition: Ringan, Garang, Tak Terbendung, AI GUI Bebas Crash™, Anti-Bluescreen Framework, The GUI That Refused to Die
 
-🚀 Cloned already? Don’t forget to ⭐ if this project made your CPU smile 😄  
+🚀 Cloned already? Don’t forget to ⭐ if this project made your CPU smile 😄  "🧪 Verified Stress Test Logs (Real-World AI Usage by Rakyat CPU)"
 
 > 🇮🇩 This project is primarily documented in Indonesian.
 > 🇬🇧 English overview is provided below.
