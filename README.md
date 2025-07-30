@@ -24,6 +24,8 @@ Didesain oleh pejuang offline, untuk pejuang offline.
 Memberi akses AI lokal ke semua pengguna, tanpa perlu GPU mahal  
 Tidak perlu server, tidak perlu 32GB RAM, cukup niat dan logika  
 
+“Diuji pertama oleh Battletester Elegan Pro Rakyat demi GUI yang kuat dan stabil.”
+
 ---
 
 > 🇮🇩 This project is primarily documented in Indonesian.
