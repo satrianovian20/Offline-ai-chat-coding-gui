@@ -85,6 +85,8 @@ Prompt masuk → Model jalan → Output tampil
 | 🥉 #3    | KoboldAI Lite GUI           | GUI Ringan untuk LLM                        | Tkinter/WebUI   | Jalankan LLM besar di hardware kentang tanpa crash GUI                              |
 | 🏅 #4    | A1111 Stable Diffusion WebUI| GUI Lanjutan untuk Gambar AI                | Gradio          | Bisa override batasan VRAM, ekstensinya tetap stabil                                 |
 
+“Tidak seperti banyak GUI AI lain, proyek ini didokumentasikan jujur dan lengkap, termasuk stress test ekstrem untuk rakyat yang ingin tahu kemampuan sesungguhnya.”
+
 🇬🇧 English Version:
 
 🎉 First time in history: A 17B (Q5_K_M) AI model runs smoothly with just 16GB RAM — no GPU, no web server, only a 6KB - 16kb Python GUI! Proof of ultimate efficiency 💪
@@ -142,6 +144,8 @@ Enter prompt → Run model → Display output
 | 🥈 #2    | AutoGPT CLI                 | Interactive Terminal AI Agent                 | Python CLI       | Complex task agent in terminal, acts like a GUI                                    |
 | 🥉 #3    | KoboldAI Lite GUI           | Lightweight LLM GUI                           | Tkinter/WebUI    | Runs large LLMs on low-end systems, GUI doesn’t crash                              |
 | 🏅 #4    | A1111 Stable Diffusion WebUI| Advanced AI Image GUI                         | Gradio           | Can override VRAM limits, extensions run stably                                    |
+
+“Unlike many other AI GUIs, this project is documented transparently and thoroughly — including extreme stress tests — for the people who want to know the real capabilities of their hardware and local models.”
 
 ## 📸 Screenshot GUI From llamacpp_multichat_ai_gui.py
 ![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-27%20082259.png)
