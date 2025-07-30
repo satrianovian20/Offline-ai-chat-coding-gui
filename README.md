@@ -12,7 +12,7 @@ GUI Rakyat Edition: Ringan, Garang, Tak Terbendung, AI GUI Bebas Crash™, Anti-
 GUI ini bukan lahir dari ketenangan.
 Ia ditempa di CPU 100%, RAM nyaris kolaps, dan prompt berulang-ulang yang tak masuk akal.
 
-Dari pengalaman hampir ngehang di v1, GUI ini berkembang jadi sistem tangguh yang mampu menjalankan model 13B di sistem lokal tanpa ampun.
+Dari pengalaman hampir ngehang di v1, GUI ini berkembang jadi sistem tangguh yang mampu menjalankan model 13B, 15B, 16B, dan 17B di sistem lokal 16GB ram tanpa ampun.
 
 Ini GUI untuk user yang tidak takut panas.
 
