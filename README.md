@@ -20,6 +20,10 @@ Didesain oleh pejuang offline, untuk pejuang offline.
 
 “Kalau dia bisa bertahan di neraka CPU saya, dia akan bertahan di neraka siapa pun.” — Developer
 
+🔥 GUI ini diuji oleh Battletester Elegan Pro Rakyat 🔥  
+Memberi akses AI lokal ke semua pengguna, tanpa perlu GPU mahal  
+Tidak perlu server, tidak perlu 32GB RAM, cukup niat dan logika  
+
 ---
 
 > 🇮🇩 This project is primarily documented in Indonesian.
