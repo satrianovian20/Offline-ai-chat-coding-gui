@@ -289,12 +289,13 @@ GUI lokal untuk LLaMA.cpp:
 
 💡 Kesimpulan Buat Pengguna GUI:
 Kalau user punya RAM:
+4GB: 1,3B Q8_0, 1,5B Q8_0, 4B Q4_K_M, dan 4B Q5_K_M
 
-8GB: Deepseek 1.3B atau TinyLlama cukup, serta Qwen 4B, tapi jangan berharap jawaban super.
+8GB: 1,3B Q8_0, 1,5B Q8_0, 4B Q8_0, 7B Q4_0, dan 7B Q5_K_M
 
-12GB–16GB: Langsung lompat ke Mistral 7B atau DeepSeek-Coder 6.7B dan model 13B Q4_K_M.
+12GB:1,3B Q8_0, 1,5B Q8_0, 4B Q8_0, 7B Q8_0, dan 8B Q5_K_M
 
->16GB: Bisa gas model 13B seperti Yi-13B, OpenHermes 13B, dll.
+16GB: 1,3B Q8_0, 1,5B Q8_0, 4B Q8_0, 7B Q8_0, 8B Q8_0, 9B Q8_0, 10,7B Q8_0, 13B Q6_k, 15B Q5_K_M, 16B Q5_K_M, dan 17B Q5_K_M
 
 Optimalitas GUI Python 6KB-16kb:
 ✅ GUI Python Terbukti Optimal dan Stabil
@@ -583,11 +584,13 @@ This Python GUI script weighs just 10KB, yet has proven capable of running large
 
 If you have RAM:
 
-8GB: Deepseek 1.3B or TinyLlama are sufficient, and Qwen 4B, but don't expect super responsiveness.
+4GB: 1,3B Q8_0, 1,5B Q8_0, 4B Q4_K_M, dan 4B Q5_K_M
 
-12GB–16GB: Jump straight to Mistral 7B or DeepSeek-Coder 6.7B and the 13B Q4_K_M models.
+8GB: 1,3B Q8_0, 1,5B Q8_0, 4B Q8_0, 7B Q4_0, dan 7B Q5_K_M
 
->16GB: You can go all-in on 13B models like Yi-13B, OpenHermes 13B, etc.
+12GB:1,3B Q8_0, 1,5B Q8_0, 4B Q8_0, 7B Q8_0, dan 8B Q5_K_M
+
+16GB: 1,3B Q8_0, 1,5B Q8_0, 4B Q8_0, 7B Q8_0, 8B Q8_0, 9B Q8_0, 10,7B Q8_0, 13B Q6_k, 15B Q5_K_M, 16B Q5_K_M, dan 17B Q5_K_M
 
 ---
 
