@@ -433,11 +433,13 @@ LLaMA 13B (Q4_K_M)
 ❓ RAM saya cuma 8GB, bisa jalan?
 Bisa, asal model yang dipilih sesuai. Gunakan model kecil seperti:
 
-TinyLlama 1.1B
+TinyLlama 1.1B Q8_0 
 
-DeepSeek Coder 1.3B
+DeepSeek Coder 13b Q8_0 
 
-Qwen 4B
+Mistral 4B Q8_0 
+
+Open Hermes 7B Q4_K_M
 
 Atur max_tokens di GUI agar tidak melebihi kapasitas RAM kamu.
 
@@ -708,11 +710,13 @@ LLaMA 13B (Q4_K_M)
 ❓ I only have 8GB RAM, will it work?
 ✅ Yes, just use smaller models like:
 
-TinyLlama 1.1B
+TinyLlama 1.1B Q8_0 
 
-DeepSeek Coder 1.3B
+DeepSeek Coder 13b Q8_0 
 
-Qwen 4B
+Mistral 4B Q8_0 
+
+Open Hermes 7B Q4_K_M
 
 🛠️ Set max_tokens low to match your available RAM in the GUI settings.
 
