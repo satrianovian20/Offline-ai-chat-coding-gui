@@ -6,6 +6,22 @@ GUI Rakyat Edition: Ringan, Garang, Tak Terbendung, AI GUI Bebas Crash™, Anti-
 
 🚀 Cloned already? Don’t forget to ⭐ if this project made your CPU smile 😄  "🧪 Verified Stress Test Logs (Real-World AI Usage by Rakyat CPU)" 🏆 "LLaMA.CPP Rakyat Edition: ChatGPT Experience in kilobytes." 💻 "Stress-Tested Terminator AI GUI" 🚧 "Born in CPU Hell, Forged by Low-End Desperation"
 
+---
+
+🔥 Tentang GUI Ini
+GUI ini bukan lahir dari ketenangan.
+Ia ditempa di CPU 100%, RAM nyaris kolaps, dan prompt berulang-ulang yang tak masuk akal.
+
+Dari pengalaman hampir ngehang di v1, GUI ini berkembang jadi sistem tangguh yang mampu menjalankan model 13B di sistem lokal tanpa ampun.
+
+Ini GUI untuk user yang tidak takut panas.
+
+Didesain oleh pejuang offline, untuk pejuang offline.
+
+“Kalau dia bisa bertahan di neraka CPU saya, dia akan bertahan di neraka siapa pun.” — Developer
+
+---
+
 > 🇮🇩 This project is primarily documented in Indonesian.
 > 🇬🇧 English overview is provided below.
 > “This project is based on the original LLaMA GUI by Satria Novian – [GitHub link], licensed under the MIT License. Copyright © 2025 Satria Novian.” 
