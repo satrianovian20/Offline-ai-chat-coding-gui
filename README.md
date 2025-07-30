@@ -26,6 +26,9 @@ Tidak perlu server, tidak perlu 32GB RAM, cukup niat dan logika
 
 “Diuji pertama oleh Battletester Elegan Pro Rakyat demi GUI yang kuat dan stabil.”
 
+👁️‍🗨️ Tujuan:  
+Melindungi user dari GUI tidak stabil, menjaga kestabilan RAM, CPU, dan nyawa Windows Explorer Anda.
+
 ---
 
 > 🇮🇩 This project is primarily documented in Indonesian.
