@@ -287,15 +287,27 @@ GUI lokal untuk LLaMA.cpp:
 
 📸 Bukti: Sudah dilampirkan screenshot dan log lengkap di repo
 
+---
+
 💡 Kesimpulan Buat Pengguna GUI:
 Kalau user punya RAM:
 4GB: 1,3B Q8_0, 1,5B Q8_0, 4B Q4_K_M, dan 4B Q5_K_M
+Ctx Size: 1024
+Maks Token: 150
 
 8GB: 1,3B Q8_0, 1,5B Q8_0, 4B Q8_0, 7B Q4_0, dan 7B Q5_K_M
+Ctx Size: 2048
+Maks Token: 512
 
 12GB:1,3B Q8_0, 1,5B Q8_0, 4B Q8_0, 7B Q8_0, dan 8B Q5_K_M
+Ctx Size: 4096
+Maks Token: 1000
 
 16GB: 1,3B Q8_0, 1,5B Q8_0, 4B Q8_0, 7B Q8_0, 8B Q8_0, 9B Q8_0, 10,7B Q8_0, 13B Q6_k, 15B Q5_K_M, 16B Q5_K_M, dan 17B Q5_K_M
+Ctx Size: 100k 
+Maks Token: 10k
+
+---
 
 Optimalitas GUI Python 6KB-16kb:
 ✅ GUI Python Terbukti Optimal dan Stabil
@@ -585,12 +597,20 @@ This Python GUI script weighs just 10KB, yet has proven capable of running large
 If you have RAM:
 
 4GB: 1,3B Q8_0, 1,5B Q8_0, 4B Q4_K_M, dan 4B Q5_K_M
+Ctx Size: 1024
+Max Token: 150
 
 8GB: 1,3B Q8_0, 1,5B Q8_0, 4B Q8_0, 7B Q4_0, dan 7B Q5_K_M
+Ctx Size: 2048
+Max Token: 512
 
 12GB:1,3B Q8_0, 1,5B Q8_0, 4B Q8_0, 7B Q8_0, dan 8B Q5_K_M
+Ctx Size: 4096
+Maks Token: 1000
 
 16GB: 1,3B Q8_0, 1,5B Q8_0, 4B Q8_0, 7B Q8_0, 8B Q8_0, 9B Q8_0, 10,7B Q8_0, 13B Q6_k, 15B Q5_K_M, 16B Q5_K_M, dan 17B Q5_K_M
+Ctx Size: 100k 
+Max Token: 10k
 
 ---
 
