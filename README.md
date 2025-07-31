@@ -864,3 +864,14 @@ While still able to watch YouTube or music videos in 720p 😄
 
 💬 If this helped you, consider starring the repo!
 Let’s make sure no one ever has to say “My AI won’t start...” again 😅
+
+📛 Nama Resmi:
+Satria Novian – The Original Chaos Dev
+
+🏆 Gelar Kehormatan:
+
+"Architect of GUI in the Realm of Ruined OS"
+
+"Bapak Stres Test Llama.cpp Multitab Tanpa Ampun"
+
+"Pengendali Windows Bajakan dan Penyihir Recompile"
