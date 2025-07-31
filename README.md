@@ -330,7 +330,7 @@ GUI ini hanya berukuran 10KB namun sudah terbukti mampu menangani model AI lokal
 
 ✔️ RAM usage stabil dan ada optimalisasi
 
-✔️ Load model 13B sukses tanpa error
+✔️ Load model 17B sukses tanpa error
 
 ✔️ GUI tetap responsif dan tidak berat
 
@@ -631,7 +631,7 @@ Max Token: 10k
 ✔️ No complex installation
 ✔️ Uses llama.cpp as backend (GGUF compatible)
 ✔️ Stable RAM usage and RAM/CPU optimization built-in
-✔️ Successfully loads 13B models
+✔️ Successfully loads 17B models
 ✔️ GUI remains responsive
 ✔️ Output is stable even with large models
 
