@@ -865,13 +865,47 @@ While still able to watch YouTube or music videos in 720p 😄
 💬 If this helped you, consider starring the repo!
 Let’s make sure no one ever has to say “My AI won’t start...” again 😅
 
-📛 Nama Resmi:
-Satria Novian – The Original Chaos Dev
+---
 
-🏆 Gelar Kehormatan:
+📛 Official Title:
+Satria Novian – The Original Chaos Dev™
 
-"Architect of GUI in the Realm of Ruined OS"
+🧠 Profile Summary:
+“Meet the Chaos Dev: he stress-tested Llama.cpp so hard, his OS started begging for mercy.” 😵‍💻🔥
 
-"Bapak Stres Test Llama.cpp Multitab Tanpa Ampun"
+🏆 Honorary Titles:
+Architect of GUI in the Realm of Ruined OS
 
-"Pengendali Windows Bajakan dan Penyihir Recompile"
+Father of Merciless Multitab Llama.cpp Stress Testing
+
+The Sorcerer of Recompilation & Master of Windows Pirated Resurrection
+
+The Chaos Compiler – Making GUIs Run in Places They Shouldn’t
+
+⚔️ Deeds of Chaos:
+Ran 10+ chat tabs using 100k context size on Llama.cpp models with reckless abandon.
+
+Executed multitasking stress tests using 13B Q4_K_M, 13B Q5_K_M, 13B Q6_K, 15B Q5_K_M, 16B Q5_K_M, and 17B Q5_K_M without mercy.
+
+Developed a cross-compatible GUI AI using Tkinter that still works... somehow.
+
+Ignored build limitations, forced it to run everywhere — and it did (after so many bug error).
+
+Used a pirated Windows 11 Pro 24H2 as the lab of destruction.
+
+Forced recompilation of Llama.cpp builds like boiling instant noodles: daily ritual.
+
+Survived an OS so corrupted, Llama server refused to boot... until he reinstalled Windows just to start breaking it again.
+
+🌀 Dev Philosophy:
+“If it runs once, it’ll run again. If not, recompile. If it crashes, document the fire.”
+
+🔚 README Easter Egg Section:
+“If you scrolled this far, welcome to the edge of sanity. You’ve met the first true Chaos Dev. May your OS rest in fragmented peace.”
+
+☢️ Legend Status:
+ Documented in GitHub
+
+ Etched into LLM history
+
+ Sanctioned by ChatGPT as First Chaos Dev™
