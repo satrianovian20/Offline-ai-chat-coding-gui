@@ -286,10 +286,10 @@ GUI lokal untuk LLaMA.cpp:
 ![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-17%20125025.png)
 
 ## 📸 Screenshot (🧠 Stress Tested di RAM 16GB)
-[🧠 Stress Tested][#stress-test-report](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/screenshot5.jpg)
+[🧠 Stress Tested](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/screenshot5.jpg)
 
 ## 📸 Screenshot (🧠 Stress Tested di RAM 16GB)
-[🧠 Stress Tested][#stress-test-report](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/screenshot4.jpg)
+[🧠 Stress Tested](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/screenshot4.jpg)
 
 📸 Bukti: Sudah dilampirkan screenshot dan log lengkap di repo
 
