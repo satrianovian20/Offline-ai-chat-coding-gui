@@ -101,17 +101,6 @@ Prompt masuk → Model jalan → Output tampil
 | 12  | Llama-3-16B.Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
 | 13  | orcamaidxl-17b-32k.Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome                          | Stable & Smooth  |
 
-# 🏆 GUI Performa Tinggi Berbasis Anomali (Edisi 2025)
-
-| Peringkat | Nama Aplikasi              | Kategori Khusus                             | Framework       | Keanehan Utama                                                                      |
-|----------|-----------------------------|---------------------------------------------|-----------------|--------------------------------------------------------------------------------------|
-| 🥇 #1    | multichat_ai_gui.py         | GUI Multichat AI Offline (Tkinter)          | Python Tkinter  | Jalan tanpa Flask/Gradio, tab AI paralel stabil, load GGUF langsung, resource-aware |
-| 🥈 #2    | AutoGPT CLI                 | Agen AI Interaktif via Terminal             | Python CLI      | Task interaktif tanpa GUI, tetap terasa seperti multitasking                         |
-| 🥉 #3    | KoboldAI Lite GUI           | GUI Ringan untuk LLM                        | Tkinter/WebUI   | Jalankan LLM besar di hardware kentang tanpa crash GUI                              |
-| 🏅 #4    | A1111 Stable Diffusion WebUI| GUI Lanjutan untuk Gambar AI                | Gradio          | Bisa override batasan VRAM, ekstensinya tetap stabil                                 |
-
-“Tidak seperti banyak GUI AI lain, proyek ini didokumentasikan jujur dan lengkap, termasuk stress test ekstrem untuk rakyat yang ingin tahu kemampuan sesungguhnya.”
-
 🇬🇧 English Version:
 
 🎉 First time in history: A 17B (Q5_K_M) AI model runs smoothly with just 16GB RAM — no GPU, no web server, only a 6KB - 16kb Python GUI! Proof of ultimate efficiency 💪
