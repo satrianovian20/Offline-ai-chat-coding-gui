@@ -32,3 +32,14 @@
 | 6  | Models stayed responsive even at ctx 4096 + max\_tokens 5000 | Despite half-dead server, AI responded like a modern chatbot.                                  |
 | 7  | OS reinstalled not due to failure, but victory               | Server finally died. Not a loss — the war had been won.                                        |
 | 8  | Cloners will be confused                                     | This GUI AI looks impossible: anti-hang, responsive, Tkinter, yet runs big models smoothly.    |
+---
+| Kategori            | Chaos Dev Indonesia 🇮🇩                                            | Chaos Dev English 🇬🇧                                                           |
+| ------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Mentalitas          | Pantang nyerah walau GGUF gak kebaca dan server exe mogok           | Never give up even when GGUF fails and server exe refuses to boot                |
+| Error pertama       | GUI error? Istirahat 5 menit, ngopi, balik lagi coding              | First GUI error? Rest 5 minutes, grab coffee, back to coding                     |
+| Modularisasi awal   | Tambah fitur modular satu-satu sambil debug manual                  | Add modular features one by one while debugging manually                         |
+| Build environment   | Windows penuh file sisa eksperimen, game bajakan, Python bertumpuk  | Windows filled with leftover experiments, cracked games, tangled Python installs |
+| Port stabil         | Tetap pakai port 5001 meski environment seperti kapal pecah         | Still use port 5001 even if the environment is like a sinking ship               |
+| Solusi kalau gagal  | Coba install Llama.cpp dari pip, lalu ganti ke exe, lalu oprek lagi | Try installing Llama.cpp via pip, switch to exe, tweak scripts again             |
+| Alasan lanjut oprek | Karena sayang sama GUI-nya dan ingin bantu user PC kentang lainnya  | Because I care about my GUI and want to help other potato-PC users               |
+ 
