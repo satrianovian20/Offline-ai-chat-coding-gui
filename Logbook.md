@@ -42,4 +42,18 @@
 | Port stabil         | Tetap pakai port 5001 meski environment seperti kapal pecah         | Still use port 5001 even if the environment is like a sinking ship               |
 | Solusi kalau gagal  | Coba install Llama.cpp dari pip, lalu ganti ke exe, lalu oprek lagi | Try installing Llama.cpp via pip, switch to exe, tweak scripts again             |
 | Alasan lanjut oprek | Karena sayang sama GUI-nya dan ingin bantu user PC kentang lainnya  | Because I care about my GUI and want to help other potato-PC users               |
- 
+---
+| No | Kejadian                                                                     | Bahasa Inggris                                                                  | Bahasa Indonesia                                                                  |
+| -- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 1  | Awal tanya cara bikin GUI AI chatbot                                         | "How do I make an AI chatbot GUI using Python Tkinter without Gradio or Flask?" | "Gimana cara bikin GUI AI chatbot pakai Python Tkinter tanpa Gradio atau Flask?"  |
+| 2  | Awalnya pakai KoboldCPP                                                      | "Started with KoboldCPP, chaotic config everywhere"                             | "Mulai pakai KoboldCPP dulu, konfigurasi kacau total"                             |
+| 3  | Coba Llama server exe, awalnya sukses                                        | "Ran llama server exe successfully, cheers and high-five!"                      | "Llama server exe jalan, langsung tos dan sorak-sorai!"                           |
+| 4  | PC dimatikan, llama server gak jalan lagi                                    | "After restarting PC, llama server exe just died"                               | "Habis restart PC, llama server exe malah KO total"                               |
+| 5  | Otak diputar, skrip dioprek, ganti-ganti build                               | "Script-twisting madness, swapping builds like mad scientists"                  | "Oprek skrip brutal, gonta-ganti build kayak ilmuwan gila"                        |
+| 6  | Build b5899 ternyata jalan                                                   | "Build b5899 brought peace... until we found the root cause"                    | "Build b5899 menyelamatkan... sampai ketahuan penyebab aslinya"                   |
+| 7  | Penyebab aslinya? Windows Security hilang karena game bajakan                | "Turns out... Windows Security gone due to pirated game. Chaos wins."           | "Ternyata... Windows Security hilang gegara game bajakan. Chaos menang telak."    |
+| 8  | README.md dan Logbook.md berisi komedi chaos                                 | "README and Logbook full of satirical chaos dev entries"                        | "README dan Logbook isinya komedi dev yang penuh kekacauan"                       |
+| 9  | Instal ulang Windows → semua build jalan normal                              | "Fresh Windows install = everything works. Irony much?"                         | "Setelah install ulang Windows = semua build jalan. Ironi tingkat dewa."          |
+| 10 | Bisa load 160k ctx + 10k max tokens di Deepseek Coder v2 Lite 15.7B Q5\_K\_M | "Running 160k context + 10k max tokens on a 16GB RAM pirate Windows = LEGEND"   | "Jalanin 160k konteks + 10k token maksimum di RAM 16GB Windows bajakan = LEGENDA" |
+| 11 | GUI bisa jalan di semua OS bajakan dan non-bajakan                           | "Inclusive GUI: runs even on pirated Win10 Home without tantrum"                | "GUI non-diskriminatif: bisa jalan di Win10 Home bajakan tanpa rewel"             |
+
