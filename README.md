@@ -162,7 +162,7 @@ Enter prompt → Run model → Display output
 “Unlike many other AI GUIs, this project is documented transparently and thoroughly — including extreme stress tests — for the people who want to know the real capabilities of their hardware and local models.”
 
 ## 📸 Screenshot GUI From llamacpp_multichat_ai_gui.py
-![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-08-01%20131439.png)
+![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-08-04%20152935.png)
 
 ![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-08-01%20131452.png)
 
