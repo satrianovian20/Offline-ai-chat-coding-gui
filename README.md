@@ -100,6 +100,7 @@ Prompt masuk → Model jalan → Output tampil
 | 11  | DeepSeek-Coder-V2-Lite-Instruct-Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
 | 12  | Llama-3-16B.Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
 | 13  | orcamaidxl-17b-32k.Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome                          | Stable & Smooth  |
+| 14  | llava-v1.5-13b-Q8_0.gguf           | Q8_0       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Notepad++                         | Stable & Smooth  |
 
 Berbeda dengan banyak GUI AI lainnya, proyek ini didokumentasikan secara transparan dan menyeluruh — termasuk uji stres ekstrem — bagi mereka yang ingin mengetahui kemampuan sebenarnya dari perangkat keras dan model lokal mereka.
 
@@ -150,6 +151,7 @@ Enter prompt → Run model → Display output
 | 11  | DeepSeek-Coder-V2-Lite-Instruct-Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
 | 12  | Llama-3-16B.Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++                          | Stable & Smooth  |
 | 13  | orcamaidxl-17b-32k.Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome                          | Stable & Smooth  | 
+| 14  | llava-v1.5-13b-Q8_0.gguf           | Q8_0       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Notepad++                         | Stable & Smooth  |
 
 “Unlike many other AI GUIs, this project is documented transparently and thoroughly — including extreme stress tests — for the people who want to know the real capabilities of their hardware and local models.”
 
@@ -488,7 +490,7 @@ Berikut versi-versi GUI yang berhasil diuji:
 | llamacpp_gui_combinedv7.py| ✅        | + Auto-save session dan repeat_penalty   |
 | llamacpp_gui_combinedv8.py| ✅       | + Auto-save load model berfungsi        |
 | llamacpp_gui_combinedv9.py| ✅        | + Fitur Rakyat Mode di menu pengaturan dan prompt hemat ram di samping mulai Llama Server        |
-| llamacpp_gui_combinedv10.py    | ✅               | + Generate Prompt Words per chunk, chunk delay, auto chunk resume, auto chunkresum via prompt, chat context, save context, dan load save context       |
+| llamacpp_gui_combinedv10.py    | ✅               | + Generate Prompt Words per chunk, chunk delay, auto chunk resume, auto chunk resume via prompt, chat context, save context, dan load save context       |
 | llamacpp_gui_combinedv11.py    | ✅ Terbaru              | + Memory Mode dan Versi Terakhir       |
 | llamacpp_multichat_ai_gui.py    | ✅ Terbaru              | + Memory Mode + Multi Chat Tab AI + Generate Chunk + Chat Context + Auto Save Chat Context + Auto Save Chat History + Import Prompt From File + Close Tab + Prompt System + CTX Size and  Tokens Settings + Change Model + Reset Chat Display + Load Chat Context + Reset Chat Context + Stop Prompt + Editing Prompt You: and Resend Prompt      |
 | llamacpp_multimodal_ai_gui.py    | ✅ Terbaru              | + Memory Mode + Multi Chat Tab AI + Generate Chunk + Chat Context + Auto Save Chat Context + Auto Save Chat History + Import Prompt From File + Close Tab + Prompt System + CTX Size and  Tokens Settings + Change Model + Reset Chat Display + Load Chat Context + Reset Chat Context + Stop Prompt + Editing Prompt You: and Resend Prompt + Multimodal Image to text support +  Multimodal Multiple Image to text support   |
@@ -787,7 +789,7 @@ Below are the GUI versions that have been successfully tested:
 | llamacpp_gui_combinedv7.py    | ✅                     | + Auto-save session and repeat_penalty setting                         |
 | llamacpp_gui_combinedv8.py    | ✅                     | + Auto-save model loading now works properly                           |
 | llamacpp_gui_combinedv9.py    | ✅               | + “Rakyat Mode” in settings + RAM-friendly prompt + LLaMA Server       |
-| llamacpp_gui_combinedv10.py    | ✅               | + Generate Prompt Words per chunk, chunk delay, auto chunk resume, auto chunkresum via prompt, chat context, save context, and load save context      |
+| llamacpp_gui_combinedv10.py    | ✅               | + Generate Prompt Words per chunk, chunk delay, auto chunk resume, auto chunk resume via prompt, chat context, save context, and load save context      |
 | llamacpp_gui_combinedv11.py    | ✅ Latest              | + Memory Mode and Final Version      |
 | llamacpp_multichat_ai_gui.py    | ✅ Latest              | + Memory Mode + Multi Chat Tab AI + Generate Chunk + Chat Context + Auto Save Chat Context + Auto Save Chat History + Import Prompt From File + Close Tab + Prompt System + CTX Size and  Tokens Settings  + Change Model + Reset Chat Display + Load Chat Context + Reset Chat Context + Stop Prompt + Editing Prompt You: and Resend Prompt  |
 | llamacpp_multimodal_ai_gui.py    | ✅ Terbaru              | + Memory Mode + Multi Chat Tab AI + Generate Chunk + Chat Context + Auto Save Chat Context + Auto Save Chat History + Import Prompt From File + Close Tab + Prompt System + CTX Size and  Tokens Settings + Change Model + Reset Chat Display + Load Chat Context + Reset Chat Context + Stop Prompt + Editing Prompt You: and Resend Prompt + Multimodal Image to text support +  Multimodal Multiple Image to text support     |
