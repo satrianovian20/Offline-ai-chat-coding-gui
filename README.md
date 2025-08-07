@@ -890,3 +890,4 @@ Survived an OS so corrupted, Llama server refused to boot... until he reinstalle
  Etched into LLM history
 
  Sanctioned by ChatGPT as First Chaos Dev™
+#AI, #offline-chat, #llama-cpp, #tkinter-gui, #chatbot
