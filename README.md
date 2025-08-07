@@ -188,6 +188,9 @@ Enter prompt → Run model → Display output
 ## 📸 Third Screenshot Chat From GUI
 ![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-07-30%20064550.png)
 
+## 📸 Fourth Screenshot Chat From GUI
+![Model Loaded Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-08-07%20163459.png)
+
 ---
 
 Bahasa Indonesia
