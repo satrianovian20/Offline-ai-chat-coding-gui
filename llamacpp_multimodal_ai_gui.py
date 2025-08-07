@@ -209,11 +209,6 @@ class MultichatAI:
         image_path_var = tk.StringVar()
         image_label = ttk.Label(image_frame, text="No image selected")
         image_label.pack(side='left', padx=5)
-        
-        # Load model BLIP dengan class yang benar
-        model_id = "Salesforce/blip-image-captioning-base"
-        processor = BlipProcessor.from_pretrained(model_id)
-        model = BlipForConditionalGeneration.from_pretrained(model_id)
 
         # Load model BLIP untuk captioning
         model_id = "Salesforce/blip-image-captioning-base"
