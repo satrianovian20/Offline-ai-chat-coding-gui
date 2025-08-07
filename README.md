@@ -29,6 +29,9 @@ Tidak perlu server, tidak perlu 32GB RAM, cukup niat dan logika
 👁️‍🗨️ Tujuan:  
 Melindungi user dari GUI tidak stabil, menjaga kestabilan RAM, CPU, dan nyawa Windows Explorer Anda.
 
+"Ngoprek GUI ini tanpa ngerti modularnya? Ya meledak dong parsing error-nya. Enjoy debugging, bro 😎"
+– Satria Novian, Arsitek Chaos & Modular AI
+
 ---
 
 > 🇮🇩 This project is primarily documented in Indonesian.
