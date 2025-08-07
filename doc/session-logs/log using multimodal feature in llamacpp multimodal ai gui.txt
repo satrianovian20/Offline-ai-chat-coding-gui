@@ -1,0 +1,185 @@
+[INFO] Using mmproj: E:/Instalan/AI Tool/Models\llava-v1.5-13b-Q8_0.mmproj-model-f16.gguf
+load_backend: loaded RPC backend from C:\Users\Reza Pahlevi\Downloads\AI Tools\textgen gui\llama-b6055-bin-win-cpu-x64\ggml-rpc.dll
+load_backend: loaded CPU backend from C:\Users\Reza Pahlevi\Downloads\AI Tools\textgen gui\llama-b6055-bin-win-cpu-x64\ggml-cpu-haswell.dll
+build: 6055 (ba42794c) with clang version 19.1.5 for x86_64-pc-windows-msvc
+system info: n_threads = 6, n_threads_batch = 6, total_threads = 6
+
+system_info: n_threads = 6 (n_threads_batch = 6) / 6 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | LLAMAFILE = 1 | OPENMP = 1 | REPACK = 1 |
+
+main: binding port with default address family
+main: HTTP server is listening, hostname: 127.0.0.1, port: 5001, http threads: 5
+main: loading model
+srv    load_model: loading model 'E:/Instalan/AI Tool/Models/llava-v1.5-13b-Q8_0.gguf'
+llama_model_loader: loaded meta data with 20 key-value pairs and 363 tensors from E:/Instalan/AI Tool/Models/llava-v1.5-13b-Q8_0.gguf (version GGUF V3 (latest))
+llama_model_loader: Dumping metadata keys/values. Note: KV overrides do not apply in this output.
+llama_model_loader: - kv   0:                       general.architecture str              = llama
+llama_model_loader: - kv   1:                               general.name str              = LLaMA v2
+llama_model_loader: - kv   2:                       llama.context_length u32              = 4096
+llama_model_loader: - kv   3:                     llama.embedding_length u32              = 5120
+llama_model_loader: - kv   4:                          llama.block_count u32              = 40
+llama_model_loader: - kv   5:                  llama.feed_forward_length u32              = 13824
+llama_model_loader: - kv   6:                 llama.rope.dimension_count u32              = 128
+llama_model_loader: - kv   7:                 llama.attention.head_count u32              = 40
+llama_model_loader: - kv   8:              llama.attention.head_count_kv u32              = 40
+llama_model_loader: - kv   9:     llama.attention.layer_norm_rms_epsilon f32              = 0.000010
+llama_model_loader: - kv  10:                          general.file_type u32              = 7
+llama_model_loader: - kv  11:                       tokenizer.ggml.model str              = llama
+llama_model_loader: - kv  12:                      tokenizer.ggml.tokens arr[str,32000]   = ["<unk>", "<s>", "</s>", "<0x00>", "<...
+llama_model_loader: - kv  13:                      tokenizer.ggml.scores arr[f32,32000]   = [0.000000, 0.000000, 0.000000, 0.0000...
+llama_model_loader: - kv  14:                  tokenizer.ggml.token_type arr[i32,32000]   = [2, 3, 3, 6, 6, 6, 6, 6, 6, 6, 6, 6, ...
+llama_model_loader: - kv  15:                tokenizer.ggml.bos_token_id u32              = 1
+llama_model_loader: - kv  16:                tokenizer.ggml.eos_token_id u32              = 2
+llama_model_loader: - kv  17:            tokenizer.ggml.padding_token_id u32              = 0
+llama_model_loader: - kv  18:               tokenizer.ggml.add_bos_token bool             = true
+llama_model_loader: - kv  19:               tokenizer.ggml.add_eos_token bool             = false
+llama_model_loader: - type  f32:   81 tensors
+llama_model_loader: - type q8_0:  282 tensors
+print_info: file format = GGUF V3 (latest)
+print_info: file type   = Q8_0
+print_info: file size   = 12.88 GiB (8.50 BPW)
+load: special_eos_id is not in special_eog_ids - the tokenizer config may be incorrect
+load: special tokens cache size = 3
+load: token to piece cache size = 0.1684 MB
+print_info: arch             = llama
+print_info: vocab_only       = 0
+print_info: n_ctx_train      = 4096
+print_info: n_embd           = 5120
+print_info: n_layer          = 40
+print_info: n_head           = 40
+print_info: n_head_kv        = 40
+print_info: n_rot            = 128
+print_info: n_swa            = 0
+print_info: is_swa_any       = 0
+print_info: n_embd_head_k    = 128
+print_info: n_embd_head_v    = 128
+print_info: n_gqa            = 1
+print_info: n_embd_k_gqa     = 5120
+print_info: n_embd_v_gqa     = 5120
+print_info: f_norm_eps       = 0.0e+00
+print_info: f_norm_rms_eps   = 1.0e-05
+print_info: f_clamp_kqv      = 0.0e+00
+print_info: f_max_alibi_bias = 0.0e+00
+print_info: f_logit_scale    = 0.0e+00
+print_info: f_attn_scale     = 0.0e+00
+print_info: n_ff             = 13824
+print_info: n_expert         = 0
+print_info: n_expert_used    = 0
+print_info: causal attn      = 1
+print_info: pooling type     = 0
+print_info: rope type        = 0
+print_info: rope scaling     = linear
+print_info: freq_base_train  = 10000.0
+print_info: freq_scale_train = 1
+print_info: n_ctx_orig_yarn  = 4096
+print_info: rope_finetuned   = unknown
+print_info: model type       = 13B
+print_info: model params     = 13.02 B
+print_info: general.name     = LLaMA v2
+print_info: vocab type       = SPM
+print_info: n_vocab          = 32000
+print_info: n_merges         = 0
+print_info: BOS token        = 1 '<s>'
+print_info: EOS token        = 2 '</s>'
+print_info: UNK token        = 0 '<unk>'
+print_info: PAD token        = 0 '<unk>'
+print_info: LF token         = 13 '<0x0A>'
+print_info: EOG token        = 2 '</s>'
+print_info: max token length = 48
+load_tensors: loading model tensors, this can take a while... (mmap = true)
+load_tensors: offloading 0 repeating layers to GPU
+load_tensors: offloaded 0/41 layers to GPU
+load_tensors:   CPU_Mapped model buffer size = 13189.86 MiB
+....................................................................................................
+llama_context: constructing llama_context
+llama_context: non-unified KV cache requires ggml_set_rows() - forcing unified KV cache
+llama_context: n_seq_max     = 1
+llama_context: n_ctx         = 4096
+llama_context: n_ctx_per_seq = 4096
+llama_context: n_batch       = 2048
+llama_context: n_ubatch      = 512
+llama_context: causal_attn   = 1
+llama_context: flash_attn    = 0
+llama_context: kv_unified    = true
+llama_context: freq_base     = 10000.0
+llama_context: freq_scale    = 1
+llama_context:        CPU  output buffer size =     0.12 MiB
+llama_kv_cache_unified:        CPU KV buffer size =  3200.00 MiB
+llama_kv_cache_unified: size = 3200.00 MiB (  4096 cells,  40 layers,  1/ 1 seqs), K (f16): 1600.00 MiB, V (f16): 1600.00 MiB
+llama_kv_cache_unified: LLAMA_SET_ROWS=0, using old ggml_cpy() method for backwards compatibility
+llama_context:        CPU compute buffer size =   368.01 MiB
+llama_context: graph nodes  = 1486
+llama_context: graph splits = 1
+common_init_from_params: added </s> logit bias = -inf
+common_init_from_params: setting dry_penalty_last_n to ctx_size = 4096
+common_init_from_params: warming up the model with an empty run - please wait ... (--no-warmup to disable)
+clip_model_loader: model name:   openai/clip-vit-large-patch14-336
+clip_model_loader: description:  image encoder for LLaVA
+clip_model_loader: GGUF version: 3
+clip_model_loader: alignment:    32
+clip_model_loader: n_tensors:    377
+clip_model_loader: n_kv:         18
+
+clip_model_loader: has vision encoder
+clip_ctx: CLIP using CPU backend
+load_hparams: projector:
+load_hparams: n_embd:             1024
+load_hparams: n_head:             16
+load_hparams: n_ff:               4096
+load_hparams: n_layer:            23
+load_hparams: ffn_op:             gelu_quick
+load_hparams: projection_dim:     768
+
+--- vision hparams ---
+load_hparams: image_size:         336
+load_hparams: patch_size:         14
+load_hparams: has_llava_proj:     1
+load_hparams: minicpmv_version:   0
+load_hparams: proj_scale_factor:  0
+load_hparams: n_wa_pattern:       0
+
+load_hparams: model size:         615.49 MiB
+load_hparams: metadata size:      0.13 MiB
+alloc_compute_meta:        CPU compute buffer size =    32.88 MiB
+srv    load_model: loaded multimodal model, 'E:/Instalan/AI Tool/Models\llava-v1.5-13b-Q8_0.mmproj-model-f16.gguf'
+srv    load_model: ctx_shift is not supported by multimodal, it will be disabled
+srv          init: initializing slots, n_slots = 1
+slot         init: id  0 | task -1 | new slot n_ctx_slot = 4096
+main: model loaded
+main: chat template, chat_template: {%- for message in messages -%}
+  {{- '<|im_start|>' + message.role + '
+' + message.content + '<|im_end|>
+' -}}
+{%- endfor -%}
+{%- if add_generation_prompt -%}
+  {{- '<|im_start|>assistant
+' -}}
+{%- endif -%}, example_format: '<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hello<|im_end|>
+<|im_start|>assistant
+Hi there<|im_end|>
+<|im_start|>user
+How are you?<|im_end|>
+<|im_start|>assistant
+'
+main: server is listening on http://127.0.0.1:5001 - starting the main loop
+srv  update_slots: all slots are idle
+C:\Users\Reza Pahlevi\AppData\Local\Programs\Python\Python310\lib\site-packages\huggingface_hub\file_download.py:945: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+C:\Users\Reza Pahlevi\AppData\Local\Programs\Python\Python310\lib\site-packages\transformers\generation\utils.py:1353: UserWarning: Using `max_length`'s default (20) to control the generation length. This behaviour is deprecated and will be removed from the config in v5 of Transformers -- we recommend using `max_new_tokens` to control the maximum length of the generation.
+  warnings.warn(
+Upload mode: embedding
+[DEBUG] 2 image_embedding(s) dimasukkan ke payload (mode: embedding)
+slot launch_slot_: id  0 | task 0 | processing task
+slot update_slots: id  0 | task 0 | new prompt, n_ctx_slot = 4096, n_keep = 0, n_prompt_tokens = 86
+slot update_slots: id  0 | task 0 | kv cache rm [0, end)
+slot update_slots: id  0 | task 0 | prompt processing progress, n_past = 86, n_tokens = 86, progress = 1.000000
+slot update_slots: id  0 | task 0 | prompt done, n_past = 86, n_tokens = 86
+slot      release: id  0 | task 0 | stop processing: n_past = 196, truncated = 0
+slot print_timing: id  0 | task 0 |
+prompt eval time =   65156.71 ms /    86 tokens (  757.64 ms per token,     1.32 tokens per second)
+       eval time =  138857.95 ms /   111 tokens ( 1250.97 ms per token,     0.80 tokens per second)
+      total time =  204014.67 ms /   197 tokens
+srv  update_slots: all slots are idle
+srv  log_server_r: request: POST /completion 127.0.0.1 200
