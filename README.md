@@ -166,7 +166,7 @@ Enter prompt → Run model → Display output
 ![Model Loaded Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-08-07%20133717.png)
 
 ## 📸 Screenshot GUI From llamacpp_multichat_ai_gui.py
-![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-08-04%20152935.png)
+![Model Loaded Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-08-09%20062119.png)
 
 ![Model Loaded Screenshot](https://github.com/satrianovian20/offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-08-01%20131452.png)
 
