@@ -1,0 +1,19 @@
+# This is test guide for llamacpp gui python
+
+write a democracy, oligarchy, politic, and geopolitic journal in 5000 words. 500 words per paragraph. Write it in academic tone and journal format. Make one journal. Do not create another journal. Just only one journal.
+
+write a democracy journal in 5000 words and 500 words per paragraph. Use academic tone and journal formatting.
+
+write a oligarchy and capitalism journal in 5000 words and 500 words per paragraph. Use academic tone and journal formatting.
+
+prompt example for auto chunk resume feature activated: run auto chunk resume
+
+write democracy journal in three chapter. every chapter is 200 words. Democracy journal content:
+1. Chapter 1 "Democracy Preliminary".
+2. Chapter 2 "Democracy Discussion".
+3. Chapter 3 "Democracy Conclusion".
+First, writing Chapter 1 "Democracy Preliminary".
+
+continue writing to Chapter 2 "Democracy Discussion".
+
+continue writing to Chapter 3 "Democracy Conclusion".
