@@ -105,6 +105,7 @@ Prompt masuk → Model jalan → Output tampil
 | 13  | orcamaidxl-17b-32k.Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome                          | Stable & Smooth  |
 | 14  | llava-v1.5-13b-Q8_0.gguf           | Q8_0       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Notepad++                         | Stable & Smooth  |
 | 15  | InternVL3-8B-Instruct-UD-Q8_K_XL.gguf           | Q8_K_XL       | ≤14.2 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Notepad++                         | Stable & Smooth  |
+| 16  | InternVL3-14B-Instruct-Q6_K.gguf           | Q6_K       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Notepad++                         | Stable & Smooth  |
 
 Berbeda dengan banyak GUI AI lainnya, proyek ini didokumentasikan secara transparan dan menyeluruh — termasuk uji stres ekstrem — bagi mereka yang ingin mengetahui kemampuan sebenarnya dari perangkat keras dan model lokal mereka.
 
@@ -157,6 +158,7 @@ Enter prompt → Run model → Display output
 | 13  | orcamaidxl-17b-32k.Q5_K_M.gguf           | Q5_K_M       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome                          | Stable & Smooth  | 
 | 14  | llava-v1.5-13b-Q8_0.gguf           | Q8_0       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Notepad++                         | Stable & Smooth  |
 | 15  | InternVL3-8B-Instruct-UD-Q8_K_XL.gguf           | Q8_K_XL       | ≤14.2 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Notepad++                         | Stable & Smooth  |
+| 16  | InternVL3-14B-Instruct-Q6_K.gguf           | Q6_K       | ≤15.5 GB of 16GB    | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Notepad++                         | Stable & Smooth  |
 
 “Unlike many other AI GUIs, this project is documented transparently and thoroughly — including extreme stress tests — for the people who want to know the real capabilities of their hardware and local models.”
 
