@@ -20,16 +20,22 @@ GUI AI Chatbot & Multichat sekarang hanya tersedia versi **berbayar murah meriah
 
 Dapatkan di sini 👉 [Coming Soon]
 
+💖 **Kenapa Berbayar?**  
+Proyek ini butuh biaya untuk tetap berjalan. Kalau kamu suka dengan GUI ini dan ingin support pengembangannya, silakan beli lisensinya.  
+
+🙏 Terima kasih sudah mendukung chaos developer!  
+
 ## 💖 Dukung Proyek Ini
 
 Jika kamu merasa proyek ini bermanfaat dan ingin mendukung pengembangannya, kamu bisa berdonasi melalui:
+👉 Untuk mendapatkan source code & file GUI:
 
 - 💸 [Saweria](https://saweria.co/satrianovian20)
 - ☕ [PayPal](https://www.paypal.com/paypalme/satrianovian)
 
-Terima kasih banyak atas dukungannya! 🙏
 
--------------------------------------------
+**Bayar dulu, baru dapat akses download**
+Terima kasih banyak atas dukungannya! 🙏
 
 -------------------------------------------
 
@@ -43,17 +49,22 @@ The AI Chatbot & Multichat GUI is now available only in a **cheap paid version**
 
 Get it here 👉 [Coming Soon]
 
+💖 **Why Paid?**  
+This project needs support to keep development going. If you find it useful, please consider supporting by purchasing a license.  
+
+🙏 Thank you for supporting chaos developers!  
+
 💖 Support This Project
 If this project helped you and you'd like to support its development, you can donate via:
+👉 To get the source code, you can donate via:
 
 - 💸 [Saweria](https://saweria.co/satrianovian20)
 - ☕ [PayPal](https://www.paypal.com/paypalme/satrianovian)
 
+**Pay first, then receive download access**
 Thank you so much for your support! 🙏
 
 -------------------------------------------
-
----
 
 > 🇮🇩 This project is primarily documented in Indonesian.
 > 🇬🇧 English overview is provided below.
