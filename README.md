@@ -8,29 +8,50 @@ GUI Rakyat Edition: Ringan, Garang, Tak Terbendung, AI GUI Bebas Crash™, Anti-
 
 ---
 
-🔥 Tentang GUI Ini
-GUI ini bukan lahir dari ketenangan.
-Ia ditempa di CPU 100%, RAM nyaris kolaps, dan prompt berulang-ulang yang tak masuk akal.
+-------------------------------------------
 
-Dari pengalaman hampir ngehang di v1, GUI ini berkembang jadi sistem tangguh yang mampu menjalankan model 13B, 15B, 16B, dan 17B di sistem lokal 16GB ram tanpa ampun.
+🚨 PROYEK INI SUDAH TIDAK GRATIS 🚨
 
-Ini GUI untuk user yang tidak takut panas.
+GUI AI Chatbot & Multichat sekarang hanya tersedia versi **berbayar murah meriah**  
+➡️ **Sekali beli, tanpa perpanjangan license.**
 
-Didesain oleh pejuang offline, untuk pejuang offline.
+- 💻 Llama.cpp AI Chatbot GUI → $5  
+- 💻 Llama.cpp Multichat AI GUI → $7  
 
-“Kalau dia bisa bertahan di neraka CPU saya, dia akan bertahan di neraka siapa pun.” — Developer
+Dapatkan di sini 👉 [Coming Soon]
 
-🔥 GUI ini diuji oleh Battletester Elegan Pro Rakyat 🔥  
-Memberi akses AI lokal ke semua pengguna, tanpa perlu GPU mahal  
-Tidak perlu server, tidak perlu 32GB RAM, cukup niat dan logika  
+## 💖 Dukung Proyek Ini
 
-“Diuji pertama oleh Battletester Elegan Pro Rakyat demi GUI yang kuat dan stabil.”
+Jika kamu merasa proyek ini bermanfaat dan ingin mendukung pengembangannya, kamu bisa berdonasi melalui:
 
-👁️‍🗨️ Tujuan:  
-Melindungi user dari GUI tidak stabil, menjaga kestabilan RAM, CPU, dan nyawa Windows Explorer Anda.
+- 💸 [Saweria](https://saweria.co/satrianovian20)
+- ☕ [PayPal](https://www.paypal.com/paypalme/satrianovian)
 
-"Ngoprek GUI ini tanpa ngerti modularnya? Ya meledak dong parsing error-nya. Enjoy debugging, bro 😎"
-– Satria Novian, Arsitek Chaos & Modular AI
+Terima kasih banyak atas dukungannya! 🙏
+
+-------------------------------------------
+
+-------------------------------------------
+
+🚨 THIS PROJECT IS NO LONGER FREE 🚨
+
+The AI Chatbot & Multichat GUI is now available only in a **cheap paid version**
+➡️ **One-time purchase, no license renewals.**
+
+- 💻 Llama.cpp AI Chatbot GUI → $5
+- 💻 Llama.cpp Multichat AI GUI → $7
+
+Get it here 👉 [Coming Soon]
+
+💖 Support This Project
+If this project helped you and you'd like to support its development, you can donate via:
+
+- 💸 [Saweria](https://saweria.co/satrianovian20)
+- ☕ [PayPal](https://www.paypal.com/paypalme/satrianovian)
+
+Thank you so much for your support! 🙏
+
+-------------------------------------------
 
 ---
 
@@ -548,15 +569,6 @@ Install Python 3.10 dari https://www.python.org/downloads/release/python-3100/
 
 ---
 
-## 💖 Dukung Proyek Ini
-
-Jika kamu merasa proyek ini bermanfaat dan ingin mendukung pengembangannya, kamu bisa berdonasi melalui:
-
-- 💸 [Saweria](https://saweria.co/satrianovian20)
-- ☕ [PayPal](https://www.paypal.com/paypalme/satrianovian)
-
-Terima kasih banyak atas dukungannya! 🙏
-
 ## 2. Clone atau Download Proyek Ini
 
 git clone https://github.com/satrianovian20/offline-ai-chat-coding-gui.git
@@ -842,16 +854,6 @@ Get Python 3.10 from: https://www.python.org/downloads/release/python-3100/
 - place the python gui in the llamacpp folder downloaded from the link: (https://github.com/ggml-org/llama.cpp/releases)
 - Run the python gui by double-clicking it
 > Note: Just look for a working Llama CPP build to load AI models in link: (https://github.com/ggml-org/llama.cpp/releases). Typically, the latest ones are llama-b59xx-bin-win-cpu-x64 or llama-b5899-bin-win-cpu-x64. The point is that the model loading feature in the GUI is fully functional but llamacpp as a backend is not functioning properly so please look for llama-b5899-bin-win-cpu-x64 - llama-b59xx-bin-win-cpu-x64 which can load the model.
-
----
-
-💖 Support This Project
-If this project helped you and you'd like to support its development, you can donate via:
-
-- 💸 [Saweria](https://saweria.co/satrianovian20)
-- ☕ [PayPal](https://www.paypal.com/paypalme/satrianovian)
-
-Thank you so much for your support! 🙏
 
 ---
 
