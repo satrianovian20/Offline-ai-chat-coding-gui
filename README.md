@@ -18,7 +18,7 @@ GUI AI Chatbot & Multichat sekarang hanya tersedia versi **berbayar murah meriah
 - 💻 Llama.cpp AI Chatbot GUI → $5  
 - 💻 Llama.cpp Multichat AI GUI → $7  
 
-Dapatkan di sini 👉 [Coming Soon]
+Dapatkan di sini 👉 [Kilashare](https://kilashare.blogspot.com/)
 
 💖 **Kenapa Berbayar?**  
 Proyek ini butuh biaya untuk tetap berjalan. Kalau kamu suka dengan GUI ini dan ingin support pengembangannya, silakan beli lisensinya.  
@@ -47,7 +47,7 @@ The AI Chatbot & Multichat GUI is now available only in a **cheap paid version**
 - 💻 Llama.cpp AI Chatbot GUI → $5
 - 💻 Llama.cpp Multichat AI GUI → $7
 
-Get it here 👉 [Coming Soon]
+Get it here 👉 [Kilashare](https://kilashare.blogspot.com/)
 
 💖 **Why Paid?**  
 This project needs support to keep development going. If you find it useful, please consider supporting by purchasing a license.  
