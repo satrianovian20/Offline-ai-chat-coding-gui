@@ -21,7 +21,9 @@ GUI AI Chatbot & Multichat sekarang hanya tersedia versi **berbayar murah meriah
 Dapatkan di sini 👉 [Kilashare](https://kilashare.blogspot.com/)
 
 💖 **Kenapa Berbayar?**  
-Proyek ini butuh biaya untuk tetap berjalan. Kalau kamu suka dengan GUI ini dan ingin support pengembangannya, silakan beli lisensinya.  
+Proyek ini butuh biaya untuk tetap berjalan. Kalau kamu suka dengan GUI ini dan ingin support pengembangannya, silakan beli lisensinya.
+
+"Source code ini bukan versi final, compile ke EXE butuh setup khusus & modular stress test. Versi EXE hanya tersedia lewat pembelian resmi."
 
 🙏 Terima kasih sudah mendukung chaos developer!  
 
@@ -50,7 +52,9 @@ The AI Chatbot & Multichat GUI is now available only in a **cheap paid version**
 Get it here 👉 [Kilashare](https://kilashare.blogspot.com/)
 
 💖 **Why Paid?**  
-This project needs support to keep development going. If you find it useful, please consider supporting by purchasing a license.  
+This project needs support to keep development going. If you find it useful, please consider supporting by purchasing a license.
+
+"This source code is not the final version, compiling to EXE requires special setup & modular stress testing. The EXE version is only available through official purchase."
 
 🙏 Thank you for supporting chaos developers!  
 
