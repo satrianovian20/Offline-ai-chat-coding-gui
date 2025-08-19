@@ -29,6 +29,8 @@ Proyek ini butuh biaya untuk tetap berjalan. Kalau kamu suka dengan GUI ini dan 
 
 “Versi EXE sudah dites semua fitur aktif → Chunk Resume, Auto Save, Role Mode, Stop Prompt. Fitur ini tidak aktif penuh kalau hanya pakai source code.”
 
+👉 “Kalian cloning repo sekali, compile sekali, error sekali. Saya compile + stress test 3 layer (py, compile, exe), hasilnya produk anti-crash. Bayar murah aja dapet yang udah siap pakai, hemat waktu debugging berminggu-minggu.”
+
 🙏 Terima kasih sudah mendukung chaos developer!  
 
 ## 💖 Dukung Proyek Ini
@@ -63,6 +65,8 @@ This project needs support to keep development going. If you find it useful, ple
 "Creating your own EXE requires hours of environment setup, modular debugging, and stress testing. For just $5 (the equivalent of one visit), you get a ready-to-use, stable version."
 
 "The EXE version has been tested with all active features → Chunk Resume, Auto Save, Role Mode, Stop Prompt. These features are not fully active if you only use the source code."
+
+👉 “You clone the repo once, compile once, and crash once. I compiled and stress-tested 3 layers (py, compile, exe), resulting in a crash-proof product. Pay less and get a ready-to-use product, saving you weeks of debugging time.”
 
 🙏 Thank you for supporting chaos developers!  
 
