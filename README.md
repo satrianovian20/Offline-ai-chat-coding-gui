@@ -31,6 +31,23 @@ Proyek ini butuh biaya untuk tetap berjalan. Kalau kamu suka dengan GUI ini dan 
 
 👉 “Kalian cloning repo sekali, compile sekali, error sekali. Saya compile + stress test 3 layer (py, compile, exe), hasilnya produk anti-crash. Bayar murah aja dapet yang udah siap pakai, hemat waktu debugging berminggu-minggu.”
 
+📜 Chaos Dev Stress Test Protocol™
+Setiap EXE lulus uji 3 lapis stress test sebelum dilepas:
+
+🧪 Python Script Stress Test → spam input, test memory leak, dan handling teks panjang.
+
+🧪 Compile Stress Test → build .exe berulang kali pakai setup modular → cek crash/bug tersembunyi.
+
+🧪 Exe Runtime Stress Test → dijalankan di PC low-end sampai high-end → spam fitur (resume, role, autosave, stop).
+
+⚔️ Hasil:
+
+Anti-Crash™ Certified
+
+Kompatibel universal dengan semua build llama-server.exe
+
+Stable Mode (fitur aktif penuh hanya di versi EXE resmi)
+
 🙏 Terima kasih sudah mendukung chaos developer!  
 
 ## 💖 Dukung Proyek Ini
@@ -67,6 +84,23 @@ This project needs support to keep development going. If you find it useful, ple
 "The EXE version has been tested with all active features → Chunk Resume, Auto Save, Role Mode, Stop Prompt. These features are not fully active if you only use the source code."
 
 👉 “You clone the repo once, compile once, and crash once. I compiled and stress-tested 3 layers (py, compile, exe), resulting in a crash-proof product. Pay less and get a ready-to-use product, saving you weeks of debugging time.”
+
+📜 Chaos Dev Stress Test Protocol™
+Every EXE passes a three-layer stress test before release:
+
+🧪 Python Script Stress Test → input spam, memory leak test, and long text handling.
+
+🧪 Compile Stress Test → build the .exe repeatedly using a modular setup → check for hidden crashes/bugs.
+
+🧪 Exe Runtime Stress Test → run on low-end to high-end PCs → feature spam (resume, role, autosave, stop).
+
+⚔️ Results:
+
+Anti-Crash™ Certified
+
+Universally compatible with all llama-server.exe builds
+
+Stable Mode (full features enabled only in the official EXE version)
 
 🙏 Thank you for supporting chaos developers!  
 
