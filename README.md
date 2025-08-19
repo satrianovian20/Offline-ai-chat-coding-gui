@@ -25,6 +25,10 @@ Proyek ini butuh biaya untuk tetap berjalan. Kalau kamu suka dengan GUI ini dan 
 
 "Source code ini bukan versi final, compile ke EXE butuh setup khusus & modular stress test. Versi EXE hanya tersedia lewat pembelian resmi."
 
+“Bikin EXE sendiri butuh setup environment, debug modular, dan stress test berjam-jam. Dengan harga cuma $5 (setara 1x nongkrong), kamu langsung dapat versi stabil siap pakai.”
+
+“Versi EXE sudah dites semua fitur aktif → Chunk Resume, Auto Save, Role Mode, Stop Prompt. Fitur ini tidak aktif penuh kalau hanya pakai source code.”
+
 🙏 Terima kasih sudah mendukung chaos developer!  
 
 ## 💖 Dukung Proyek Ini
@@ -55,6 +59,10 @@ Get it here 👉 [Kilashare](https://kilashare.blogspot.com/)
 This project needs support to keep development going. If you find it useful, please consider supporting by purchasing a license.
 
 "This source code is not the final version, compiling to EXE requires special setup & modular stress testing. The EXE version is only available through official purchase."
+
+"Creating your own EXE requires hours of environment setup, modular debugging, and stress testing. For just $5 (the equivalent of one visit), you get a ready-to-use, stable version."
+
+"The EXE version has been tested with all active features → Chunk Resume, Auto Save, Role Mode, Stop Prompt. These features are not fully active if you only use the source code."
 
 🙏 Thank you for supporting chaos developers!  
 
