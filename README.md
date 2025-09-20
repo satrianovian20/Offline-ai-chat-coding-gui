@@ -117,7 +117,17 @@ Thank you so much for your support! 🙏
 -------------------------------------------
 Portofolio Chatbot GUI/ Chatbot WebUI
 # 📸 Screenshot:
+![Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/screenshot.png)
 
+![Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/screenshot.png)
+
+![Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/screenshot.png)
+
+![Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/screenshot.png)
+
+![Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/screenshot.png)
+
+![Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/screenshot.png)
 
 # 🎥 Video :
 
