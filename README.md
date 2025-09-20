@@ -131,6 +131,10 @@ Portofolio Chatbot GUI/ Chatbot WebUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-16%20193118.png)
 
+![Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/screenshot.png)
+
+![Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/screenshot.png)
+
 # 🎥 Video :
 
 
