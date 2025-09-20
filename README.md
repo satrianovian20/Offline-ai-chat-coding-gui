@@ -279,14 +279,13 @@ Open Hermes 7B Q4_K_M
 
 ❓ “Is the GUI really that lightweight?” ✅ Yep. File size is only mb. No web servers, no complex backends, no heavy libraries.
 
-❓ “Will it crash when loading large models?” 🚫 As long as your system is stable and swap file is active, crashes are extremely rare. 📊 Even with RAM above 15GB during model load, logs show stable performance.
-
-# 💡 Catatan:  
-> Repo ini hanya berisi **kode eksperimen Tkinter**.  
-> Versi **production-ready** (Tkinter Pro, TTKBootstrap mirip ChatGPT, Gradio WebUI, Flask+PHP Multitab) **tidak dipublikasikan di sini**.  
-> Screenshot & video demo di repo menunjukkan fitur lengkap dari berbagai versi.  
+❓ “Will it crash when loading large models?” 🚫 As long as your system is stable and swap file is active, crashes are extremely rare. 📊 Even with RAM above 15GB during model load, logs show stable performance.  
 
 ❓ “Is there actual proof?” 📸 Yes. Screenshots and logs are available in the docs/session-logs/ and docs/screenshots/ folders.
 
 ❓ “What if I still don’t believe?” 😎 Feel free to test it yourself. 
 
+# 💡 Catatan:  
+> Repo ini hanya berisi **kode eksperimen Tkinter**.  
+> Versi **production-ready** (Tkinter Pro, TTKBootstrap mirip ChatGPT, Gradio WebUI, Flask+PHP Multitab) **tidak dipublikasikan di sini**.  
+> Screenshot & video demo di repo menunjukkan fitur lengkap dari berbagai versi.
