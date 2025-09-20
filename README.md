@@ -117,17 +117,19 @@ Thank you so much for your support! 🙏
 -------------------------------------------
 Portofolio Chatbot GUI/ Chatbot WebUI
 # 📸 Screenshot:
-![Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/screenshot.png)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-19%20212225.png)
 
-![Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/screenshot.png)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-16%20192713.png)
 
-![Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/screenshot.png)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-16%20192720.png)
 
-![Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/screenshot.png)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-19%20201829.png)
 
-![Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/screenshot.png)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-19%20212225.png)
 
-![Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/screenshot.png)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-16%20193110.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-16%20193118.png)
 
 # 🎥 Video :
 
