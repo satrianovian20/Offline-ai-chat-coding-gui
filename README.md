@@ -175,6 +175,8 @@ Chatbot Tkinter Multichat AI GUI (Multimodal Custom)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-16%20193118.png)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-21%20211333.png)
+
 Chatbot Gradio Multichat AI WebUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-16%20193552.png)
