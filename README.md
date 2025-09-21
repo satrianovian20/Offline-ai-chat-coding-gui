@@ -142,7 +142,7 @@ Thank you so much for your support! 🙏
 
 -------------------------------------------
 
-# Showcase Portofolio Chatbot GUI/ Chatbot WebUI
+# Showcase Portofolio Chatbot GUI/ Chatbot WebUI (production ready version)
 # 📸 Screenshot:
 Chatbot Ttkbootstrap Multichat AI GUI
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-21%20110556.png)
@@ -297,4 +297,4 @@ Open Hermes 7B Q4_K_M
 # 💡 Catatan:  
 > Repo ini hanya berisi **kode eksperimen Tkinter**.  
 > Versi **production-ready** (Tkinter Pro, TTKBootstrap mirip ChatGPT, Gradio WebUI, Flask+PHP Multitab) **tidak dipublikasikan di sini**.  
-> Screenshot & video demo di repo menunjukkan fitur lengkap dari berbagai versi.
+> Screenshot & video demo di repo menunjukkan fitur lengkap dari berbagai versi yang sudah production ready.
