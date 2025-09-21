@@ -186,7 +186,8 @@ Chatbot Tkinter Multichat AI GUI
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-08-30%20195609.png)
 
 # 🎥 Video :
-
+Chatbot Ttkbootstrap Multichat Ai GUI Demo
+[![Watch the demo]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=szpQFl2sN1U))
 
 🇮🇩 Bahasa Indonesia:
 ✅ FAQ — Pertanyaan Umum (Trust Booster Edition) 
