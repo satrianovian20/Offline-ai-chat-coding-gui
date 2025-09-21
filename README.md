@@ -142,7 +142,7 @@ Thank you so much for your support! 🙏
 
 -------------------------------------------
 
-# Showcase Portofolio Chatbot GUI/ Chatbot WebUI (production ready version)
+# Showcase Portofolio Chatbot GUI & Chatbot WebUI (production ready version)
 # 📸 Screenshot:
 Chatbot Ttkbootstrap Multichat AI GUI
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-21%20110556.png)
