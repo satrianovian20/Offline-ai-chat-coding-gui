@@ -147,7 +147,7 @@ Thank you so much for your support! 🙏
 Chatbot Ttkbootstrap Multichat AI GUI
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-21%20110556.png)
 
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-18%20194415.png)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-21%20192952.png)
 
 Chatbot Tkinter SIngle Chat AI GUI
 
