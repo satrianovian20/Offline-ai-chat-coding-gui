@@ -169,6 +169,8 @@ Chatbot Flask + PHP Multichat AI WebUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-10%20194815.png)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-11%20071435.png)
+
 Chatbot Tkinter Multichat AI GUI (Multimodal Custom)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-16%20193110.png)
