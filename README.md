@@ -149,6 +149,8 @@ Chatbot Ttkbootstrap Multichat AI GUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-21%20192952.png)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-24%20114600.png)
+
 Chatbot Tkinter SIngle Chat AI GUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-21%20132654.png)
