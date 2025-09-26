@@ -229,7 +229,7 @@ Chatbot Tkinter Multichat AI GUI
 Chatbot Ttkbootstrap Multichat AI GUI Demo
 [![Watch the demo](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-21%20110556.png)](https://www.youtube.com/watch?v=szpQFl2sN1U)
 
-Chatbot Gradio Multichat AI GUI Demo
+Chatbot Gradio Multichat AI WebUI Demo
 [![Watch the demo](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-26%20100454.png)](https://www.youtube.com/watch?v=2offZ1urkCo)
 
 🇮🇩 Bahasa Indonesia:
