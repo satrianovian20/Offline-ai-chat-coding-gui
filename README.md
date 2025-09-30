@@ -235,6 +235,12 @@ Chatbot TkinterWeb Multisession AI GUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-28%20202330.png)
 
+Chatbot TkinterWeb Multitab + Multisession AI GUI - Ttkbootstrap
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-30%20130009.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-30%20130021.png)
+
 # 🎥 Video :
 Chatbot Ttkbootstrap Multichat AI GUI Demo
 [![Watch the demo](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-21%20110556.png)](https://www.youtube.com/watch?v=szpQFl2sN1U)
