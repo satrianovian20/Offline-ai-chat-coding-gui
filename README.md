@@ -112,12 +112,6 @@ Thank you so much for your support! 🙏
 
 -------------------------------------------
 
-> 🇮🇩 This project is primarily documented in Indonesian.
-> 🇬🇧 English overview is provided below.
-> “This project is based on the original LLaMA GUI by Satria Novian – [GitHub link], licensed under the MIT License. Copyright © 2025 Satria Novian.”
-
--------------------------------------------
-
 # 📌 Model yang sudah diuji / Tested Model GGUF
 
 | No | Nama Model GGUF                                | Ukuran Quant | RAM yang Digunakan         | OS & Kondisi Tambahan                                    | Status GUI            |
