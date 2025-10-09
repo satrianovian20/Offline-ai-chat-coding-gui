@@ -163,7 +163,7 @@ Chatbot Tkinter SIngle Chat AI GUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-03%20152647.png)
 
-Chatbot Flask + PHP Multichat AI WebUI
+Chatbot Phask (Flask + Php) Multichat AI WebUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-25%20085225.png)
 
