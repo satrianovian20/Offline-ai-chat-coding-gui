@@ -266,6 +266,9 @@ Chatbot Ttkbootstrap Multichat AI GUI Demo
 Chatbot GradioWeb (Gradio) Multichat AI WebUI Demo
 [![Watch the demo](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-26%20100454.png)](https://www.youtube.com/watch?v=2offZ1urkCo)
 
+Chatbot Tkinter Multisession AI GUI Demo
+[![Watch the demo](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-11%20150826.png)](https://www.youtube.com/watch?v=rZHz-49WmeI)
+
 🇮🇩 Bahasa Indonesia:
 ✅ FAQ — Pertanyaan Umum (Trust Booster Edition) 
 
