@@ -385,7 +385,18 @@ Open Hermes 7B Q4_K_M
 
 ❓ “What if I still don’t believe?” 😎 Feel free to test it yourself. 
 
+----------------------
+
 # 💡 Catatan:  
 > Repo ini hanya berisi **kode eksperimen Tkinter**.  
 > Versi **production-ready** (Tkinter Pro, TTKBootstrap mirip ChatGPT, Gradio WebUI, Flask+PHP Multitab) **tidak dipublikasikan di sini**.  
 > Screenshot & video demo di repo menunjukkan fitur lengkap dari berbagai versi yang sudah production ready.
+
+----------------------
+
+## 💡 About This Project
+This repository contains **experimental open-source code** for the multi-tab AI Chatbot GUI,  
+along with a **fully working .exe demo** for public showcase.
+
+> ⚠️ Note: The `.exe` release represents the **production-ready build**,  
+> while the source code here is **an experimental framework prototype**.
