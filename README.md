@@ -138,8 +138,21 @@ Thank you so much for your support! 🙏
 
 -------------------------------------------
 
-# Portfolio Chatbot GUI & Chatbot WebUI Showcase (production ready version)
+# Portfolio Offline AI Chat Coding GUI & WebUI Showcase (production ready version)
 # 📸 Screenshot:
+LlamaArgos Translator Tkinter GUI
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-13%20212732.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-13%20212742.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-13%20212756.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-13%20212807.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-13%20212818.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-13%20212827.png)
+
 Chatbot Ttkbootstrap Multichat AI GUI
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-21%20110556.png)
 
@@ -267,7 +280,7 @@ Chatbot GradioWeb (Gradio) Multichat AI WebUI Demo
 [![Watch the demo](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-26%20100454.png)](https://www.youtube.com/watch?v=2offZ1urkCo)
 
 Chatbot Tkinter Multisession AI GUI Demo
-[![Watch the demo](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-11%20150826.png)](https://www.youtube.com/watch?v=rZHz-49WmeI)
+[![Watch the demo](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-11%20150826.png)](https://www.youtube.com/watch?v=rZHz-49WmeI) 
 
 🇮🇩 Bahasa Indonesia:
 ✅ FAQ — Pertanyaan Umum (Trust Booster Edition) 
