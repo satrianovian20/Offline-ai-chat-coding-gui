@@ -140,7 +140,7 @@ Thank you so much for your support! 🙏
 
 # Portfolio Offline AI Chat Coding GUI & WebUI Showcase (production ready version)
 # 📸 Screenshot:
-LlamaArgos Translator Tkinter GUI
+LlamArgos Translator Tkinter GUI
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-13%20212732.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-13%20212742.png)
@@ -152,6 +152,13 @@ LlamaArgos Translator Tkinter GUI
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-13%20212818.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-13%20212827.png)
+
+LlamArgos Translator Ttkbootstrap GUI
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-14%20110536.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-14%20110600.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-14%20110632.png)
 
 Chatbot Ttkbootstrap Multichat AI GUI
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-21%20110556.png)
