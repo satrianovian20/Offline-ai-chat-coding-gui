@@ -291,6 +291,52 @@ Chatbot GradioWeb (Gradio) Multichat AI WebUI Demo
 Chatbot Tkinter Multisession AI GUI Demo
 [![Watch the demo](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-11%20150826.png)](https://www.youtube.com/watch?v=rZHz-49WmeI) 
 
+---
+
+## 🇮🇩 **Versi Bahasa Indonesia**
+
+# 🧠 offline-ai-chat-coding-gui (Change Log)
+
+## CHANGELOG RETRO CHAOS DEVELOPER EDITION
+
+### Added
+
+🖼️ Cek screenshot di repo, semua fitur baru kelihatan kok 😎
+
+### Fixed
+
+🐞 Bug fix? Pasti dong. Kayak biasa, tiap update makin cepat & stabil 💪
+(Gak percaya? Jalankan aja, kalau gak error berarti udah fix 😎)
+
+### Changed
+
+⚙️ Tambah fitur baru sambil nambal bug di fitur barunya.
+Jangan tanya lagi ada bug atau enggak — ini gaya klasik Retro Developer 🤣
+
+---
+
+## 🇬🇧 **English Version**
+
+# 🧠 offline-ai-chat-coding-gui (Change Log)
+
+## CHANGELOG RETRO CHAOS DEVELOPER EDITION
+
+### Added
+
+🖼️ Check the screenshots in the repo — all new features are clearly visible 😎
+
+### Fixed
+
+🐞 Bug fixes? Of course! As always, every update runs faster and smoother 💪
+(Don’t believe it? Just run it — if it doesn’t crash, it’s fixed 😎)
+
+### Changed
+
+⚙️ Added new features while patching the new feature’s own bugs.
+Don’t even ask if there are more bugs — this is the classic Retro Developer style 🤣
+
+---
+
 🇮🇩 Bahasa Indonesia:
 ✅ FAQ — Pertanyaan Umum (Trust Booster Edition) 
 
