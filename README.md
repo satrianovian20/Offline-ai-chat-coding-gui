@@ -75,7 +75,7 @@ This project needs support to keep development going. If you find it useful, ple
 
 "This source code is not the final version, compiling to EXE requires special setup & modular stress testing. The EXE version is only available through official purchase."
 
-"Creating your own EXE requires hours of environment setup, modular debugging, and stress testing. For just $5 (the equivalent of one visit), you get a ready-to-use, stable version."
+"Creating your own EXE requires hours of environment setup, modular debugging, and stress testing. For just one time buy (the equivalent of one visit), you get a ready-to-use, stable version."
 
 "The EXE version has been tested with all active features → Chunk Resume, Auto Save, Role Mode, Stop Prompt. These features are not fully active if you only use the source code."
 
