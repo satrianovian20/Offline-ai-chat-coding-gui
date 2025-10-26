@@ -203,6 +203,12 @@ Chatbot Phask (Flask + Php) Multichat AI WebUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-25%20085515.png)
 
+Chatbot Phask (Flask + Php) Chatbot Single Tab AI WebUI
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-26%20114537.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-26%20114603.png)
+
 Chatbot Tkinter Multichat AI GUI (Multimodal Custom)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-16%20193110.png)
