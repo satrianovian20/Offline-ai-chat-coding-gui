@@ -24,7 +24,7 @@ Proyek ini butuh biaya untuk tetap berjalan. Kalau kamu suka dengan GUI ini dan 
 
 "Source code ini bukan versi final, compile ke EXE butuh setup khusus & modular stress test. Versi EXE hanya tersedia lewat pembelian resmi."
 
-“Bikin EXE sendiri butuh setup environment, debug modular, dan stress test berjam-jam. Dengan harga cuma $5 (setara 1x nongkrong), kamu langsung dapat versi stabil siap pakai.”
+“Bikin EXE sendiri butuh setup environment, debug modular, dan stress test berjam-jam. Dengan harga cuma sekali bayar (setara 1x nongkrong), kamu langsung dapat versi stabil siap pakai.”
 
 “Versi EXE sudah dites semua fitur aktif → Chunk Resume, Auto Save, Role Mode, Stop Prompt. Fitur ini tidak aktif penuh kalau hanya pakai source code.”
 
