@@ -140,7 +140,7 @@ Thank you so much for your support! 🙏
 
 # Portfolio Offline AI Chat Coding GUI & WebUI Showcase (production ready version)
 # 📸 Screenshot:
-LlamArgos Translator Tkinter GUI
+ChatCPP LlamArgos Tkinter GUI
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-13%20212732.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-13%20212742.png)
@@ -153,7 +153,7 @@ LlamArgos Translator Tkinter GUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-13%20212827.png)
 
-LlamArgos Translator Ttkbootstrap GUI
+ChatCPP LlamArgos Ttkbootstrap GUI
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-14%20191803.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-14%20191815.png)
@@ -162,7 +162,7 @@ LlamArgos Translator Ttkbootstrap GUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-14%20192435.png)
 
-Chatbot Ttkbootstrap Multichat AI GUI - Multitab
+ChatCPP Ttkbootstrap Multichat AI GUI - Multitab
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-21%20110556.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-21%20192952.png)
@@ -173,7 +173,7 @@ Chatbot Ttkbootstrap Multichat AI GUI - Multitab
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-18%20174757.png)
 
-Chatbot Tkinter SIngle Chat AI GUI
+ChatCPP Tkinter SIngle Chat AI GUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-03%20152033.png)
 
@@ -189,7 +189,7 @@ Chatbot Tkinter SIngle Chat AI GUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-03%20152647.png)
 
-Chatbot Phask (Flask + Php) Multichat AI WebUI
+ChatCPP Phask (Flask + Php) Multichat AI WebUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-25%20085225.png)
 
@@ -203,13 +203,13 @@ Chatbot Phask (Flask + Php) Multichat AI WebUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-25%20085515.png)
 
-Chatbot Phask (Flask + Php) Chatbot Single Tab AI WebUI
+ChatCPP Phask (Flask + Php) Chatbot Single Tab AI WebUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-26%20114537.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-26%20114603.png)
 
-Chatbot Tkinter Multichat AI GUI (Multimodal Custom)
+ChatCPP Tkinter Multichat AI GUI (Multimodal Custom)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-16%20193110.png)
 
@@ -223,7 +223,7 @@ Chatbot Tkinter Multichat AI GUI (Multimodal Custom)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-03%20151508.png)
 
-Chatbot GradioWeb (Gradio) Multichat AI WebUI
+ChatCPP GradioWeb (Gradio) Multichat AI WebUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-26%20100454.png)
 
@@ -249,7 +249,7 @@ Chatbot GradioWeb (Gradio) Multichat AI WebUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-26%20101345.png)
 
-Chatbot Tkinter Multichat AI GUI
+ChatCPP Tkinter Multichat AI GUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-08-30%20195558.png)
 
@@ -261,7 +261,7 @@ Chatbot Tkinter Multichat AI GUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-03%20151104.png)
 
-Chatbot TkinterWeb Multisession AI GUI
+ChatCPP TkinterWeb Multisession AI GUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-18%20175405.png)
 
@@ -273,7 +273,7 @@ Chatbot TkinterWeb Multisession AI GUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-18%20175542.png)
 
-Chatbot TkinterWeb Multitab + Multisession AI GUI - Ttkbootstrap
+ChatCPP TkinterWeb Multitab + Multisession AI GUI - Ttkbootstrap
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-18%20181806.png)
 
@@ -285,7 +285,7 @@ Chatbot TkinterWeb Multitab + Multisession AI GUI - Ttkbootstrap
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-18%20182010.png)
 
-Chatbot Multichat (Multitab + Multisession) TkBootstrapWeb - tkinter + ttkbootstrap + tkinterweb
+ChatCPP Multichat (Multitab + Multisession) TkBootstrapWeb - tkinter + ttkbootstrap + tkinterweb
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-18%20182818.png)
 
@@ -298,13 +298,13 @@ Chatbot Multichat (Multitab + Multisession) TkBootstrapWeb - tkinter + ttkbootst
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-18%20182935.png)
 
 # 🎥 Video :
-Chatbot Ttkbootstrap Multichat AI GUI Demo
+ChatCPP Ttkbootstrap Multichat AI GUI Demo
 [![Watch the demo](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-21%20110556.png)](https://www.youtube.com/watch?v=szpQFl2sN1U)
 
-Chatbot GradioWeb (Gradio) Multichat AI WebUI Demo
+ChatCPP GradioWeb (Gradio) Multichat AI WebUI Demo
 [![Watch the demo](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-26%20100454.png)](https://www.youtube.com/watch?v=2offZ1urkCo)
 
-Chatbot Tkinter Multisession AI GUI Demo
+ChatCPP Tkinter Multisession AI GUI Demo
 [![Watch the demo](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-11%20150826.png)](https://www.youtube.com/watch?v=rZHz-49WmeI) 
 
 ---
