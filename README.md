@@ -1,4 +1,4 @@
-# 🧠 Offline AI Chat & Coding GUI (Rakyat Edition)
+<img width="1913" height="1079" alt="image" src="https://github.com/user-attachments/assets/ad8b4831-52e6-4922-8cd3-b2a0315cd628" /># 🧠 Offline AI Chat & Coding GUI (Rakyat Edition)
 Offline AI Chat & Coding GUI dan WebUI ringan untuk menjalankan AI chat &amp; coding dengan model GGUF lokal (Offline AI Chat & Coding GUI and WebUI to run Offline AI Chat and Coding)
 
 Moto:
@@ -140,6 +140,9 @@ Thank you so much for your support! 🙏
 
 # Portfolio Offline AI Chat Coding GUI & WebUI Showcase (production ready version)
 # 📸 Screenshot:
+ChatCPP Llama MultiCode Editor (Tkinter Edition)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-11-01%20195606.png)
+
 ChatCPP LlamArgos Tkinter GUI
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-13%20212732.png)
 
