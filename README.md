@@ -1,4 +1,4 @@
-<img width="1913" height="1079" alt="image" src="https://github.com/user-attachments/assets/ad8b4831-52e6-4922-8cd3-b2a0315cd628" /># 🧠 Offline AI Chat & Coding GUI (Rakyat Edition)
+🧠 Offline AI Chat & Coding GUI (Rakyat Edition)
 Offline AI Chat & Coding GUI dan WebUI ringan untuk menjalankan AI chat &amp; coding dengan model GGUF lokal (Offline AI Chat & Coding GUI and WebUI to run Offline AI Chat and Coding)
 
 Moto:
