@@ -1,4 +1,4 @@
-🧠 Offline AI Chat & Coding GUI (Rakyat Edition)
+# 🧠 Offline AI Chat & Coding GUI (Rakyat Edition)
 Offline AI Chat & Coding GUI dan WebUI ringan untuk menjalankan AI chat &amp; coding dengan model GGUF lokal (Offline AI Chat & Coding GUI and WebUI to run Offline AI Chat and Coding)
 
 Moto:
