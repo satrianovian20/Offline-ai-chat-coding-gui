@@ -140,6 +140,11 @@ Thank you so much for your support! 🙏
 
 # Portfolio Offline AI Chat Coding GUI & WebUI Showcase (production ready version)
 # 📸 Screenshot:
+ChatCPP Translator (FastAPI Edition)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-12-09%20205116.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-12-09%20205157.png)
+
 ChatCPP Llama MultiCode Editor (Tkinter Edition)
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-11-23%20200703.png)
 
