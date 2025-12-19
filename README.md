@@ -135,6 +135,8 @@ Thank you so much for your support! 🙏
 | 17 | mradermacher-InternVL3.5-14BQ6_K.gguf + mmproj               | Q6_K         | ≤15.5 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 | 18 | mradermacher-InternVL3_5-8BQ8_0.gguf + mmproj               | Q8_0         | ≤14.5 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 | 19 | Mistral-Small-3.2-24B-Instruct-2506-UD-Q4_K_XL.gguf + mmproj               | Q4_K_XL         | ≤15.7 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
+| 20 | Codestral-22B-v01-Q4_K_M.gguf               | Q4_K_M         | ≤15.7 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
+| 20 | Codestral-RAG-19B-Pruned-Q5_K_M.gguf               | Q5_K_M         | ≤15.7 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 
 -------------------------------------------
 
