@@ -21,7 +21,7 @@ GUI Rakyat Edition: Ringan, Garang, Tak Terbendung, AI GUI Bebas Crash™, Anti-
 
 🚨 PROYEK INI SUDAH TIDAK GRATIS 🚨
 
-GUI AI Chatbot & Multichat sekarang hanya tersedia versi **berbayar murah meriah**  
+Offline AI Chat & Coding GUI (Rakyat Edition) sekarang hanya tersedia versi **berbayar murah meriah**  
 ➡️ **Sekali beli, tanpa perpanjangan license.** 
 
 Dapatkan di sini 👉 [Kilashare](https://kilashare.blogspot.com/)
@@ -72,7 +72,7 @@ Terima kasih banyak atas dukungannya! 🙏
 
 🚨 THIS PROJECT IS NO LONGER FREE 🚨
 
-The AI Chatbot & Multichat GUI is now available only in a **cheap paid version**
+The Offline AI Chat & Coding GUI (Rakyat Edition) is now available only in a **cheap paid version**
 ➡️ **One-time purchase, no license renewals.**
 
 Get it here 👉 [Kilashare](https://kilashare.blogspot.com/)
