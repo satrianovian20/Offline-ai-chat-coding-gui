@@ -1,10 +1,20 @@
 # 🧠 Offline AI Chat & Coding GUI (Rakyat Edition)
 ## 🇮🇩 Bahasa Indonesia
 ⚠️ Repository ini adalah monorepo yang berisi berbagai aplikasi AI offline yang diimplementasikan menggunakan berbagai framework Python dan platform yang berbeda.
+Fokus utama:
+
+- AI tanpa internet
+- GUI ringan & mandiri
+- Bisa jalan di PC rakyat tanpa cloud, API key, atau langganan
 
 ## 🇬🇧 English
 ⚠️ This repository is a monorepo containing multiple offline AI applications
 implemented across different Python frameworks and platforms.
+Focused on:
+
+- Offline-first AI
+- Lightweight desktop GUIs
+- No cloud, no API keys, no subscriptions
 
 -------------------------------
 
