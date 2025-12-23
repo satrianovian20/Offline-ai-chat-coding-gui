@@ -1,8 +1,8 @@
 # 🧠 Offline AI Chat & Coding GUI (Rakyat Edition)
-🇮🇩 Bahasa Indonesia
+## 🇮🇩 Bahasa Indonesia
 ⚠️ Repository ini adalah monorepo yang berisi berbagai aplikasi AI offline yang diimplementasikan menggunakan berbagai framework Python dan platform yang berbeda.
 
-🇬🇧 English
+## 🇬🇧 English
 ⚠️ This is a monorepo containing multiple offline AI applications
 implemented across different Python frameworks and platforms.
 
