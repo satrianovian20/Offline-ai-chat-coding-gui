@@ -6,6 +6,8 @@
 ⚠️ This is a monorepo containing multiple offline AI applications
 implemented across different Python frameworks and platforms.
 
+-------------------------------
+
 Moto:
 GUI Rakyat Edition: Ringan, Garang, Tak Terbendung, AI GUI Bebas Crash™, Anti-Bluescreen Framework, The GUI That Refused to Die
 
