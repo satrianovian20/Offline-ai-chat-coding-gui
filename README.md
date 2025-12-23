@@ -18,14 +18,22 @@ Focused on:
 
 -------------------------------
 
-Moto:
-GUI Rakyat Edition: Ringan, Garang, Tak Terbendung, AI GUI Bebas Crash™, Anti-Bluescreen Framework, The GUI That Refused to Die
+🔥 Moto & Project Philosophy
 
-🚀 Cloned already? Don’t forget to ⭐ if this project made your CPU smile 😄  "🧪 Verified Stress Test Logs (Real-World AI Usage by Rakyat CPU)" 🏆 "LLaMA.CPP Rakyat Edition: ChatGPT Experience in kilobytes." 🏆 "Your Own GPT Pro: Local, Open-Source & Fully Customizable" 💻 "Stress-Tested Terminator AI GUI" 🚧 "Born in CPU Hell, Forged by Low-End Desperation" 🎮 "I just wanted to pirate a game..." ⚙️ "...but accidentally created a multiversally-compatible AI GUI." "This repo is so stable, even bugs are afraid to appear." 🐞💀 *Powered by Bugs, Sustained by Chaos*
+GUI Rakyat Edition
+- Ringan, Garang, Tak Terbendung
+- Anti-Bluescreen Framework
+- The GUI That Refused to Die
+- Born in CPU Hell, Forged by Low-End Desperation
+- Stress-Tested Terminator AI GUI
+- Powered by Bugs, Sustained by Chaos 🐞💀
+
+⭐ Cloned already?
+Don’t forget to ⭐ if this project made your CPU smile 😄
 
 -------------------------------------------
 
-🇮🇩 This project is primarily documented in Indonesian. 🇬🇧 English overview is provided below. “This project is based on the original LLaMA GUI by Satria Novian
+🇮🇩 This project is primarily documented in Indonesian. 🇬🇧 English overview is provided below. “This project is based on the original GUI by Satria Novian
 
 -------------------------------------------
 
