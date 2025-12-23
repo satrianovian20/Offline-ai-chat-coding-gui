@@ -1,5 +1,10 @@
 # 🧠 Offline AI Chat & Coding GUI (Rakyat Edition)
-Offline AI Chat & Coding GUI dan WebUI ringan untuk menjalankan AI chat &amp; coding dengan model GGUF lokal (Offline AI Chat & Coding GUI and WebUI to run Offline AI Chat and Coding)
+🇮🇩 Bahasa Indonesia
+⚠️ Repository ini adalah monorepo yang berisi berbagai aplikasi AI offline yang diimplementasikan menggunakan berbagai framework Python dan platform yang berbeda.
+
+🇬🇧 English
+⚠️ This is a monorepo containing multiple offline AI applications
+implemented across different Python frameworks and platforms.
 
 Moto:
 GUI Rakyat Edition: Ringan, Garang, Tak Terbendung, AI GUI Bebas Crash™, Anti-Bluescreen Framework, The GUI That Refused to Die
