@@ -305,6 +305,7 @@ ChatCPP Tkinter Multichat AI GUI (Multimodal Custom)
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-03%20151508.png)
 
 ChatCPP GradioWeb (Gradio) Multichat AI WebUI
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-12-28%20102407.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-26%20100454.png)
 
