@@ -166,6 +166,15 @@ Thank you so much for your support! 🙏
 
 # Portfolio Offline AI Chat Coding GUI & WebUI Showcase (production ready version)
 # 📸 Screenshot:
+ChatCPP SuperAPP (Ttkbootstrap Edition)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-12-30%20210422.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-12-30%20210429.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-12-30%20211221.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-12-30%20211230.png)
+
 ChatCPP Translator (Flask Edition)
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-12-27%20101751.png)
 
