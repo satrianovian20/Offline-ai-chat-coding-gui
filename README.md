@@ -207,9 +207,9 @@ ChatCPP Translator (Pywebview Edition)
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-01%20094733.png)
 
 ChatCPP Translator (FastAPI Edition)
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-12-09%20205116.png)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-01%20113147.png)
 
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-12-09%20205157.png)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-01%20113904.png)
 
 ChatCPP Llama MultiCode Editor (Tkinter Edition)
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-11-23%20200703.png)
