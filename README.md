@@ -166,6 +166,9 @@ Thank you so much for your support! 🙏
 
 # Portfolio Offline AI Chat Coding GUI & WebUI Showcase (production ready version)
 # 📸 Screenshot:
+ChatCPP Argos Worker
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-01%20164756.png)
+
 ChatCPP SuperAPP (Ttkbootstrap Edition)
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-12-30%20210422.png)
 
