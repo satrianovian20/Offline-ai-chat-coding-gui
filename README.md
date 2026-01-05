@@ -205,8 +205,13 @@ Thank you so much for your support! 🙏
 
 -------------------------------------------
 
-# Portfolio Showcase (Production & R&D Lineage)
+# Portfolio Showcase (Full Production Ready & R&D Lineage)
 # 📸 Screenshot:
+Installed Software Portfolio
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-05%20205646.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-05%20205701.png)
+
 ChatCPP OCR Worker
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-03%20180509.png)
 
