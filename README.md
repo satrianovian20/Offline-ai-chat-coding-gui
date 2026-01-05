@@ -205,7 +205,7 @@ Thank you so much for your support! 🙏
 
 -------------------------------------------
 
-# Portfolio Offline AI Chat Coding GUI & WebUI Showcase (production ready version)
+# Portfolio Showcase (Production & R&D Lineage)
 # 📸 Screenshot:
 ChatCPP OCR Worker
 
