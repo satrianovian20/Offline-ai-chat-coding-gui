@@ -278,13 +278,13 @@ ChatCPP Multichat (Multitab + Multisession) TkBootstrapWeb - tkinter + ttkbootst
 
 # 🎥 Video :
 ChatCPP Ttkbootstrap Multichat AI GUI Demo
-[![Watch the demo](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-21%20110556.png)](https://www.youtube.com/watch?v=szpQFl2sN1U)
+
 
 ChatCPP GradioWeb (Gradio) Multichat AI WebUI Demo
-[![Watch the demo](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-09-26%20100454.png)](https://www.youtube.com/watch?v=2offZ1urkCo)
+
 
 ChatCPP Tkinter Multisession AI GUI Demo
-[![Watch the demo](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202025-10-11%20150826.png)](https://www.youtube.com/watch?v=rZHz-49WmeI) 
+ 
 
 ---
 
