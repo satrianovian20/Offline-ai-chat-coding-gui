@@ -276,8 +276,11 @@ ChatCPP Phask (Flask + Php) Multichat AI WebUI
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-05%20191610.png)
 
 ChatCPP Phask (Flask + Php) Chatbot Single Tab AI WebUI
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-06%20092934.png)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-06%20095719.png)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-06%20100502.png)
 
 ChatCPP Tkinter Multichat AI GUI (Multimodal Custom)
 
