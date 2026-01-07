@@ -202,12 +202,12 @@ Thank you so much for your support! 🙏
 | 19 | Mistral-Small-3.2-24B-Instruct-2506-UD-Q4_K_XL.gguf + mmproj               | Q4_K_XL         | ≤15.7 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 | 20 | Codestral-22B-v01-Q4_K_M.gguf               | Q4_K_M         | ≤15.7 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 | 21 | Codestral-RAG-19B-Pruned-Q5_K_M.gguf               | Q5_K_M         | ≤15.7 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 22 | anything-v4.5-pruned-fp16.safetensors               | FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 23 | DreamShaper_8_pruned.safetensors               | FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 23 | realisticVisionV60B1_v51VAE.safetensors               | FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 23 | level4_v50BakedVAEFp16.safetensors               | FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 24 | majicmixRealistic_v7.safetensors               | FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 25 | MeinaPastelV2-bakedVAE-pruned.safetensors               | FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
+| 22 | anything-v4.5-pruned-fp16.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
+| 23 | DreamShaper_8_pruned.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
+| 23 | realisticVisionV60B1_v51VAE.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
+| 23 | level4_v50BakedVAEFp16.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
+| 24 | majicmixRealistic_v7.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
+| 25 | MeinaPastelV2-bakedVAE-pruned.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 
 -------------------------------------------
 
