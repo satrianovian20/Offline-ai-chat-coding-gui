@@ -211,6 +211,7 @@ Thank you so much for your support! 🙏
 | 26 | meinamix_v12Final.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 | 27 | realisticVisionV60B1_v60B1VAE.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 | 28 | Anything-v4.5-pruned-mergedVae.safetensors.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
+| 29 | counterfeitV30_v30.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 
 -------------------------------------------
 
