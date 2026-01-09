@@ -256,6 +256,10 @@ ChatCPP Argos Manager Engine
 ChatCPP Whisper Worker
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-09%20165337.png)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-09%20172132.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-09%20172151.png)
+
 ChatCPP SuperAPP (Ttkbootstrap Edition)
 
 
