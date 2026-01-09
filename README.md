@@ -223,6 +223,8 @@ Thank you so much for your support! 🙏
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-09%20152228.png)
 
+ChatCPP Translator Worker
+
 ChatCPP Image Converter Worker
 
 ChatCPP Image Generator Worker
