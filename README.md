@@ -214,6 +214,8 @@ Thank you so much for your support! 🙏
 | 29 | counterfeitV30_v30.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 | 30 | AnythingXL_xl.safetensors               | SD XL + FP16         | Intel I5-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 | 31 | realvisxlV50_v50Bakedvae.safetensors               | SD XL + FP16         | Intel I5-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
+| 32 | dreamshaperXL_alpha2Xl10.safetensors               | SD XL + FP16         | Intel I5-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
+
 
 -------------------------------------------
 
