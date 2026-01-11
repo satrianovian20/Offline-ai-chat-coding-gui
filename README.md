@@ -179,7 +179,7 @@ Thank you so much for your support! 🙏
 
 # 📌 Model AI yang sudah diuji / Tested AI Model
 
-| No | Nama Model GGUF                                | Ukuran Quant | RAM/VRAM yang Digunakan         | OS & Kondisi Tambahan                                    | Status GUI            |
+| No | Nama Model GGUF                                | Ukuran Quant | RAM/VRAM/CPU yang Digunakan         | OS & Kondisi Tambahan                                    | Status GUI            |
 |----|------------------------------------------------|--------------|----------------------------|---------------------------------------------------------|-----------------------|
 | 1  | luna-ai-llama2-uncensored.Q4_0.gguf            | Q4_0         | ±11.6 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + music & anime video | Stable & Smooth       |
 | 2  | Meta-Llama-3-8B-Instruct.Q8_0.gguf             | Q8_0         | ±10.8 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + music & anime video | Stable & Smooth       |
@@ -212,6 +212,8 @@ Thank you so much for your support! 🙏
 | 27 | realisticVisionV60B1_v60B1VAE.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 | 28 | Anything-v4.5-pruned-mergedVae.safetensors.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 | 29 | counterfeitV30_v30.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
+| 30 | AnythingXL_xl.safetensors               | SD XL + FP16         | Intel I%-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
+| 31 | realvisxlV50_v50Bakedvae.safetensors               | SD XL + FP16         | Intel I%-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 
 -------------------------------------------
 
