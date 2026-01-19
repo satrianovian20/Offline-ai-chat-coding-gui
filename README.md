@@ -217,7 +217,8 @@ Thank you so much for your support! 🙏
 | 32 | dreamshaperXL_alpha2Xl10.safetensors               | SD XL + FP16         | Intel I5-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 | 33 | aniverseXL_v40.safetensors               | SD XL + FP16         | Intel I5-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 | 33 | aniversePonyXL_v60.safetensors               | SD XL + FP16         | Intel I5-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-
+| 34 | animagineXLV31_v31.safetensors               | SD XL + FP16         | Intel I5-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
+| 35 | hyper3dHighlyDetailed3D_v1.safetensors               | SD XL + FP16         | Intel I5-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 
 -------------------------------------------
 
