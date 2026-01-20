@@ -373,22 +373,13 @@ ChatCPP Phask (Flask + Php) Chatbot Single Tab AI WebUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-06%20100502.png)
 
-ChatCPP Tkinter Multichat AI GUI (Multimodal Custom)
-
-
 ChatCPP GradioWeb (Gradio) Multichat AI WebUI
-
-
-ChatCPP Tkinter Multichat AI GUI
-
 
 
 ChatCPP TkinterWeb Multisession AI GUI
 
 
-
 ChatCPP TkinterWeb Multitab + Multisession AI GUI - Ttkbootstrap
-
 
 
 ChatCPP Multichat (Multitab + Multisession) TkBootstrapWeb - tkinter + ttkbootstrap + tkinterweb
