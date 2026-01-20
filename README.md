@@ -344,9 +344,20 @@ ChatCPP LlamArgos Ttkbootstrap GUI
 ChatCPP Ttkbootstrap Multichat AI GUI - Multitab
 
 
-ChatCPP Tkinter SIngle Chat AI GUI
+ChatCPP Chatbot Tkinter SIngle Chat AI GUI
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-20%20151608.png)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-20%20151622.png)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-20%20151632.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-20%20151646.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-20%20151704.png)
+
+ChatCPP Chatbot Tkinter MultiChat AI GUI
+
+ChatCPP Chatbot Tkinter Multimodal AI GUI
 
 ChatCPP Phask (Flask + Php) Multichat AI WebUI
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-05%20191526.png)
