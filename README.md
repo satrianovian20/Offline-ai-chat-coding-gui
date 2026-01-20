@@ -355,6 +355,10 @@ ChatCPP Chatbot Tkinter SIngle Chat AI GUI
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-20%20151704.png)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-20%20153258.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-20%20153320.png)
+
 ChatCPP Chatbot Tkinter MultiChat AI GUI
 
 ChatCPP Chatbot Tkinter Multimodal AI GUI
