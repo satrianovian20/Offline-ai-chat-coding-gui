@@ -228,7 +228,7 @@ Thank you so much for your support! 🙏
 ## Installed Portfolio
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-11%20134306.png)
 
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-11%20134435.png)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-20%20195311.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-17%20100029.png)
 
@@ -238,6 +238,13 @@ ChatCPP Template
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-18%20201832.png)
 
 ChatCPP Video Generator Worker
+
+ChatCPP Translator Suite Ttkbootstrap (CLI Worker)
+![Screenshot]()
+
+![Screenshot]()
+
+![Screenshot]()
 
 ChatCPP Translator Worker
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-16%20083649.png)
