@@ -237,6 +237,8 @@ ChatCPP Template
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-18%20201832.png)
 
+ChatCPP Video Generator Worker
+
 ChatCPP Translator Worker
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-16%20083649.png)
 
