@@ -343,7 +343,7 @@ ChatCPP LlamArgos Tkinter GUI
 ChatCPP LlamArgos Ttkbootstrap GUI
 
 
-ChatCPP Ttkbootstrap Multichat AI GUI - Multitab
+ChatCPP Chatbot Ttkbootstrap Multichat AI GUI - Multitab
 
 
 ChatCPP Chatbot Tkinter SIngle Chat AI GUI
