@@ -240,11 +240,11 @@ ChatCPP Template
 ChatCPP Video Generator Worker
 
 ChatCPP Translator Suite Ttkbootstrap (CLI Worker)
-![Screenshot]()
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-20%20194151.png)
 
-![Screenshot]()
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-20%20194200.png)
 
-![Screenshot]()
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-20%20194209.png)
 
 ChatCPP Translator Worker
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-16%20083649.png)
