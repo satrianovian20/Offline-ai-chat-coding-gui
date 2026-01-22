@@ -219,6 +219,8 @@ Thank you so much for your support! 🙏
 | 33 | aniversePonyXL_v60.safetensors               | SD XL + FP16         | Intel I5-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 | 34 | animagineXLV31_v31.safetensors               | SD XL + FP16         | Intel I5-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 | 35 | hyper3dHighlyDetailed3D_v1.safetensors               | SD XL + FP16         | Intel I5-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
+| 36 | counterfeitV30_v30.safetensors               | SD 1.5 + FP32         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
+| 37 | revAnimated_v2RebirthVAE.safetensors               | SD 1.5 + FP32         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
 
 -------------------------------------------
 
@@ -236,6 +238,10 @@ ChatCPP Template
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-18%20201817.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-18%20201832.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-22%20191834.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-22%20192449.png)
 
 ChatCPP Video Generator Worker
 
