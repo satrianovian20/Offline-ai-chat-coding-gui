@@ -327,7 +327,7 @@ ChatCPP Translator (FastAPI Edition)
 
 
 ChatCPP Llama MultiCode Editor (Tkinter Edition)
-Get it here 👉 [Kilashare](https://kilashare.blogspot.com/2025/11/chatcpp-llama-multicode-editor-tkinter.html)
+Get it here 👉 [ChatCPP Llama MultiCode Editor (Tkinter Edition)](https://kilashare.blogspot.com/2025/11/chatcpp-llama-multicode-editor-tkinter.html)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-17%20092307.png)
 
@@ -394,7 +394,7 @@ ChatCPP Chatbot Tkinter MultiChat AI GUI
 ChatCPP Chatbot Tkinter Multimodal AI GUI
 
 ChatCPP Phask (Flask + Php) Multichat AI WebUI
-Get it here 👉 [Kilashare](https://kilashare.blogspot.com/2025/09/llamacpp-server-multichat-flask-webui-v3.html)
+Get it here 👉 [ChatCPP Phask (Flask + Php) Multichat AI WebUI](https://kilashare.blogspot.com/2025/09/llamacpp-server-multichat-flask-webui-v3.html)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-05%20191526.png)
 
