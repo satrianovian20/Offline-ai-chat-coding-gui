@@ -75,44 +75,7 @@ Don’t forget to ⭐ if this project made your CPU smile 😄
 
 🇮🇩 This project is primarily documented in Indonesian. 🇬🇧 English overview is provided below. “This project is based on the original GUI by Satria Novian
 
--------------------------------------------
-
-🚨 PROYEK INI SUDAH TIDAK GRATIS 🚨
-
-Offline AI Chat & Coding GUI (Rakyat Edition) sekarang hanya tersedia versi **berbayar murah meriah**  
-➡️ **Sekali beli, tanpa perpanjangan license.** 
-
-Dapatkan di sini 👉 [Kilashare](https://kilashare.blogspot.com/)
-
-💖 **Kenapa Berbayar?**  
-Proyek ini butuh biaya untuk tetap berjalan. Kalau kamu suka dengan GUI ini dan ingin support pengembangannya, silakan beli lisensinya.
-
-"Source code ini bukan versi final, compile ke EXE butuh setup khusus & modular stress test. Versi EXE hanya tersedia lewat pembelian resmi."
-
-“Bikin EXE sendiri butuh setup environment, debug modular, dan stress test berjam-jam. Dengan harga cuma sekali bayar (setara 1x nongkrong), kamu langsung dapat versi stabil siap pakai.”
-
-“Versi EXE sudah dites semua fitur aktif.”
-
-👉 “Kalian cloning repo sekali, compile sekali, error sekali. Saya compile + stress test 3 layer (py, compile, exe), hasilnya produk anti-crash. Bayar murah aja dapet yang udah siap pakai, hemat waktu debugging berminggu-minggu.”
-
-📜 Chaos Dev Stress Test Protocol™
-Setiap EXE lulus uji 3 lapis stress test sebelum dilepas:
-
-🧪 Python Script Stress Test → spam input, test memory leak, dan handling teks panjang.
-
-🧪 Compile Stress Test → build .exe berulang kali pakai setup modular → cek crash/bug tersembunyi.
-
-🧪 Exe Runtime Stress Test → dijalankan di PC low-end sampai high-end → spam fitur (resume, role, autosave, stop).
-
-⚔️ Hasil:
-
-Anti-Crash™ Certified
-
-Kompatibel universal dengan semua build llama-server.exe
-
-Stable Mode (fitur aktif penuh hanya di versi EXE resmi)
-
-🙏 Terima kasih sudah mendukung chaos developer!  
+-------------------------------------------  
 
 ## 💖 Dukung Proyek Ini
 
@@ -126,46 +89,9 @@ Jika kamu merasa proyek ini bermanfaat dan ingin mendukung pengembangannya, kamu
 **Bayar dulu, baru dapat akses download**
 Terima kasih banyak atas dukungannya! 🙏
 
--------------------------------------------
+-------------------------------------------  
 
-🚨 THIS PROJECT IS NO LONGER FREE 🚨
-
-The Offline AI Chat & Coding GUI (Rakyat Edition) is now available only in a **cheap paid version**
-➡️ **One-time purchase, no license renewals.**
-
-Get it here 👉 [Kilashare](https://kilashare.blogspot.com/)
-
-💖 **Why Paid?**  
-This project needs support to keep development going. If you find it useful, please consider supporting by purchasing a license.
-
-"This source code is not the final version, compiling to EXE requires special setup & modular stress testing. The EXE version is only available through official purchase."
-
-"Creating your own EXE requires hours of environment setup, modular debugging, and stress testing. For just one time buy (the equivalent of one visit), you get a ready-to-use, stable version."
-
-"The EXE version has been tested with all active features."
-
-👉 “You clone the repo once, compile once, and crash once. I compiled and stress-tested 3 layers (py, compile, exe), resulting in a crash-proof product. Pay less and get a ready-to-use product, saving you weeks of debugging time.”
-
-📜 Chaos Dev Stress Test Protocol™
-Every EXE passes a three-layer stress test before release:
-
-🧪 Python Script Stress Test → input spam, memory leak test, and long text handling.
-
-🧪 Compile Stress Test → build the .exe repeatedly using a modular setup → check for hidden crashes/bugs.
-
-🧪 Exe Runtime Stress Test → run on low-end to high-end PCs → feature spam (resume, role, autosave, stop).
-
-⚔️ Results:
-
-Anti-Crash™ Certified
-
-Universally compatible with all llama-server.exe builds
-
-Stable Mode (full features enabled only in the official EXE version)
-
-🙏 Thank you for supporting chaos developers!  
-
-💖 Support This Project
+## 💖 Support This Project
 If this project helped you and you'd like to support its development, you can donate via:
 👉 To get the source code, you can donate via:
 
