@@ -171,6 +171,12 @@ Get it here 👉 [Kilashare](https://kilashare.blogspot.com/)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-22%20192449.png)
 
+ChatCPP Multimodal Video Frame to Text Caption Worker
+
+ChatCPP Multimodal Image to Text Caption Worker
+
+ChatCPP Multimodal Image to Text Generator Worker
+
 ChatCPP Text Generator Worker 
 
 ChatCPP Video Generator Worker
