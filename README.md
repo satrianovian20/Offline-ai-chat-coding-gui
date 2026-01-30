@@ -204,6 +204,10 @@ ChatCPP Image Converter Worker
 
 ChatCPP SD 1.5 Image Generator Worker (SD 1.5 Only)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-30%20183544.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-30%20183518.png)
+
 ChatCPP SD Image Generator Worker (SD 1.5, SD XL 1.0, Pony, Illustrious)
 
 ChatCPP OCR Worker
