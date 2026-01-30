@@ -161,6 +161,7 @@ Thank you so much for your support! 🙏
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-17%20100029.png)
 
 ChatCPP Template
+
 Get it here 👉 [Kilashare](https://kilashare.blogspot.com/)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-18%20201817.png)
@@ -179,7 +180,7 @@ ChatCPP Multimodal Image to Text Generator Worker
 
 ChatCPP Text Generator Worker 
 
-ChatCPP Video Generator Worker
+ChatCPP SD 1.5 Video Generator Worker
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-27%20080224.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/output.gif)
@@ -201,14 +202,9 @@ ChatCPP Image Converter Worker
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-23%20163158.png)
 
-ChatCPP Image Generator Worker
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-08%20180246.png)
+ChatCPP SD 1.5 Image Generator Worker (SD 1.5 Only)
 
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-08%20180304.png)
-
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-08%20180802.png)
-
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-20%20211220.png)
+ChatCPP SD Image Generator Worker (SD 1.5, SD XL 1.0, Pony, Illustrious)
 
 ChatCPP OCR Worker
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-03%20180118.png)
