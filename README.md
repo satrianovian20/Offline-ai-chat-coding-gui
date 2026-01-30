@@ -180,7 +180,7 @@ ChatCPP Multimodal Image to Text Generator Worker
 
 ChatCPP Text Generator Worker 
 
-ChatCPP SD 1.5 Video Generator Worker
+ChatCPP SD 1.5 Video Generator Worker (SD 1.5 Only)
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-27%20080224.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/output.gif)
