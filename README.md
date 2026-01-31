@@ -172,6 +172,10 @@ Get it here 👉 [Kilashare](https://kilashare.blogspot.com/)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-22%20192449.png)
 
+ChatCPP Microsoft SAPI Text To Speech Worker
+
+ChatCPP Microsoft SAPI Text To Speech Manager
+
 ChatCPP Text To Speech With Translation Worker
 
 ChatCPP Text To Speech Worker
