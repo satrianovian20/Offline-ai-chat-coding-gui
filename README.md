@@ -190,6 +190,10 @@ ChatCPP Microsoft SAPI Text To Speech Manager
 
 ChatCPP Text To Speech With Translation Worker
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-31%20112053.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-31%20112105.png)
+
 ChatCPP Text To Speech Worker
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-31%20112314.png)
