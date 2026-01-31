@@ -176,6 +176,10 @@ ChatCPP Text To Speech With Translation Worker
 
 ChatCPP Text To Speech Worker
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-31%20112314.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-31%20112524.png)
+
 ChatCPP Multimodal Video Frame to Text Caption Worker
 
 ChatCPP Multimodal Image to Text Caption Worker
