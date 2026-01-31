@@ -174,6 +174,12 @@ Get it here 👉 [Kilashare](https://kilashare.blogspot.com/)
 
 ChatCPP Microsoft SAPI Text To Speech Worker
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-31%20130625.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-31%20130642.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-31%20132720.png)
+
 ChatCPP Microsoft SAPI Text To Speech Manager
 
 ChatCPP Text To Speech With Translation Worker
