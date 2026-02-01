@@ -277,7 +277,7 @@ ChatCPP Whisper Worker
 
 Get it here 👉 [Kilashare](https://kilashare.blogspot.com/2026/01/chatcpp-whisper-worker.html)
 
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-09%20165337.png)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-01%20091012.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-09%20172132.png)
 
