@@ -174,6 +174,8 @@ Get it here 👉 [Kilashare](https://kilashare.blogspot.com/)
 
 ChatCPP Offline HuggingFace Model Loader Worker
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-02%20213448.png)
+
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-02%20201034.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-02%20201656.png)
