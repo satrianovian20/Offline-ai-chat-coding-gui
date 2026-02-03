@@ -172,6 +172,12 @@ Get it here 👉 [Kilashare](https://kilashare.blogspot.com/)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-22%20192449.png)
 
+ChatCPP Huggingface OCR Worker
+
+ChatCPP Mask Generator Worker
+
+ChatCPP Image Inpainting Worker
+
 ChatCPP Offline HuggingFace Model Loader Worker
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-02%20213448.png)
