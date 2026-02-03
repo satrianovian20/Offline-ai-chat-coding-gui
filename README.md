@@ -336,6 +336,8 @@ ChatCPP Translator (Pywebview Edition)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-03%20214844.png)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-03%20215505.png)
+
 ChatCPP Translator (FastAPI Edition)
 
 
