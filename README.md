@@ -324,8 +324,6 @@ ChatCPP Translator (Ttkbootstrap Edition)
 
 ChatCPP Translator (Pywebview Edition)
 
-Get it here 👉 [Kilashare](https://kilashare.blogspot.com/2026/01/chatcpp-translator-pywebview-gui.html)
-
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-11%20133351.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-11%20133401.png)
