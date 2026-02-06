@@ -190,6 +190,8 @@ ChatCPP Huggingface Gated Model Folder Builder
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-04%20193936.png)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-06%20105517.png)
+
 ChatCPP Offline HuggingFace Model Loader Worker
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-02%20213448.png)
