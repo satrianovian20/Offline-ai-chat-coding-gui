@@ -172,6 +172,10 @@ Get it here 👉 [Kilashare](https://kilashare.blogspot.com/)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-22%20192449.png)
 
+ChatCPP Multi Engine Worker
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-06%20091216.png)
+
 ChatCPP Huggingface OCR Worker
 
 ChatCPP Mask Generator Worker
@@ -410,6 +414,8 @@ ChatCPP Chatbot Tkinter SIngle Chat AI GUI
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-20%20153258.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-20%20153320.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-05%20160003.png)
 
 ChatCPP Chatbot Tkinter MultiChat AI GUI
 
