@@ -176,6 +176,8 @@ ChatCPP Multi Engine Worker
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-06%20091216.png)
 
+ChatCPP Audio To Text Generator Worker
+
 ChatCPP Video To Text Generator Worker
 
 ChatCPP Huggingface OCR Worker
