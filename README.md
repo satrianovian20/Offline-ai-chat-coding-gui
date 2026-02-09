@@ -192,6 +192,8 @@ ChatCPP Huggingface Gated Model Downloader Worker
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-08%20165109.png)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-08%20173143.png)
+
 ChatCPP Huggingface Gated Model Folder Builder
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-04%20193917.png)
@@ -227,6 +229,8 @@ ChatCPP Microsoft SAPI Text To Speech Worker
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-31%20130642.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-31%20132720.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-09%20191314.png)
 
 ChatCPP Microsoft SAPI Text To Speech Manager
 
