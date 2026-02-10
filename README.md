@@ -234,6 +234,8 @@ ChatCPP Microsoft SAPI Text To Speech Worker
 
 ChatCPP Microsoft SAPI Text To Speech Manager
 
+Get it here 👉 [Kilashare](https://kilashare.blogspot.com/2026/02/chatcpp-microsoft-sapi-tts-manager.html)
+
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-31%20164846.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-31%20164902.png)
