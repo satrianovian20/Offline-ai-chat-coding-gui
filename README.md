@@ -186,6 +186,8 @@ ChatCPP Mask Generator Worker
 
 ChatCPP Image Inpainting Worker
 
+ChatCPP Huggingface Hub Mini Worker (Termux Android Edition)
+
 ChatCPP Huggingface Gated Model Downloader Worker
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-08%20165051.png)
