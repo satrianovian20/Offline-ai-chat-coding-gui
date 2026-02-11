@@ -186,6 +186,8 @@ ChatCPP Mask Generator Worker
 
 ChatCPP Image Inpainting Worker
 
+ChatCPP Faster Whisper Worker
+
 ChatCPP Huggingface Hub Mini Worker (Termux Android Edition)
 
 ChatCPP Huggingface Gated Model Downloader Worker
