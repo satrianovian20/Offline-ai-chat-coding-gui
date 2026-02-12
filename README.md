@@ -190,6 +190,14 @@ ChatCPP Faster Whisper Worker
 
 ChatCPP Huggingface Hub Mini Worker (Termux Android Edition)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-11-18-00-21-996_com.mi.android.globalFileexplorer.jpg)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-11-20-16-28-950_com.termux.jpg)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-12-11-27-36-272_com.termux.jpg)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-12-11-33-45-195_com.mi.android.globalFileexplorer.jpg)
+
 ChatCPP Huggingface Gated Model Downloader Worker
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-08%20165051.png)
