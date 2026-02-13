@@ -192,7 +192,7 @@ Chatcpp Huggingface No Hub Termux Worker
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260213_160601.jpg)
 
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-18%20201832.png)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-13-16-06-17-228_com.mi.android.globalFileexplorer.jpg)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-13-16-06-31-784_com.mi.android.globalFileexplorer.jpg)
 
