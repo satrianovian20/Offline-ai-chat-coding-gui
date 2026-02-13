@@ -188,7 +188,7 @@ ChatCPP Image Inpainting Worker
 
 ChatCPP Faster Whisper Worker
 
-Chatcpp Huggingface No Hub Termux Worker
+Chatcpp Huggingface No Hub Termux Worker (Termux Android Edition)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260213_160601.jpg)
 
