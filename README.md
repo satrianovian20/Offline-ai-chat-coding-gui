@@ -190,6 +190,16 @@ ChatCPP Faster Whisper Worker
 
 Chatcpp Huggingface No Hub Worker (Windows, Linux, and Termux Android)
 
+Get it here 👉 [Kilashare](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260214_065920.jpg)
+
+Get it here 👉 [Kilashare](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260214_072943.jpg)
+
+Get it here 👉 [Kilashare](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-14%20104949.png)
+
+Get it here 👉 [Kilashare](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-14%20111739.png)
+
+Get it here 👉 [Kilashare](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-14%20123104.png)
+
 Chatcpp Huggingface No Hub Termux Worker (Termux Android Edition)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260213_160601.jpg)
