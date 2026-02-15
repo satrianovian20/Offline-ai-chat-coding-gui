@@ -188,6 +188,10 @@ ChatCPP Image Inpainting Worker
 
 ChatCPP Faster Whisper Worker
 
+Chatcpp Image Converter Termux Worker 
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260215_091911.jpg)
+
 Chatcpp Huggingface No Hub Worker (Windows, Linux, and Termux Android)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260214_065920.jpg)
