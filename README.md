@@ -188,11 +188,13 @@ ChatCPP Image Inpainting Worker
 
 ChatCPP Faster Whisper Worker
 
-Chatcpp Image Converter Termux Worker 
+ChatCPP Text Editor Go Termux Android
+
+Chatcpp Image Converter Go Termux Worker 
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260215_091911.jpg)
 
-Chatcpp Huggingface No Hub Worker (Windows, Linux, and Termux Android)
+Chatcpp Huggingface No Hub Worker Go (Windows, Linux, and Termux Android)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260214_065920.jpg)
 
@@ -204,7 +206,7 @@ Chatcpp Huggingface No Hub Worker (Windows, Linux, and Termux Android)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-14%20123104.png)
 
-Chatcpp Huggingface No Hub Termux Worker (Termux Android Edition)
+Chatcpp Huggingface No Hub Termux Worker GO (Termux Android Edition)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260213_160601.jpg)
 
@@ -212,7 +214,7 @@ Chatcpp Huggingface No Hub Termux Worker (Termux Android Edition)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-13-16-06-31-784_com.mi.android.globalFileexplorer.jpg)
 
-ChatCPP Huggingface Termux Worker (Termux Android Edition)
+ChatCPP Huggingface Termux Worker Go (Termux Android Edition)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-11-18-00-21-996_com.mi.android.globalFileexplorer.jpg)
 
