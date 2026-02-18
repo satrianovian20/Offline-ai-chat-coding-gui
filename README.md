@@ -190,6 +190,10 @@ ChatCPP Image Converter Worker Go (Windows, Linux, Termux Android, Mac OS)
 
 ChatCPP Offline HuggingFace Model Loader Worker Go (Windows, Linux, Termux Android, Mac OS)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-18%20192851.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-18%20194926.png)
+
 ChatCPP Text Editor Go Termux Android
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260217_131958.jpg)
