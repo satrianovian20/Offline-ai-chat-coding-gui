@@ -186,6 +186,10 @@ ChatCPP Image Inpainting Worker
 
 ChatCPP Faster Whisper Worker
 
+ChatCPP Image Converter Worker Go (Windows, Linux, Termux Android, Mac OS)
+
+ChatCPP Offline HuggingFace Model Loader Worker Go (Windows, Linux, Termux Android, Mac OS)
+
 ChatCPP Text Editor Go Termux Android
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260217_131958.jpg)
