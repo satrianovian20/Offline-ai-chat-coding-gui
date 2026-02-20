@@ -186,6 +186,8 @@ ChatCPP Image Inpainting Worker
 
 ChatCPP Faster Whisper Worker
 
+ChatCPP Engine Terminal Panel
+
 ChatCPP Image Converter Worker Go (Windows, Linux, Termux Android, Mac OS)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-18%20212250.png)
@@ -202,11 +204,13 @@ ChatCPP Text Editor Go Termux Android
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260217_131958.jpg)
 
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-18-09-14-36-961_com.android.chrome.jpg)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-20-21-43-07-269_com.android.chrome.jpg)
 
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-18-09-14-48-489_com.android.chrome.jpg)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-20-21-43-30-238_com.android.chrome.jpg)
 
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-18-09-15-16-126_com.android.chrome.jpg)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-20-21-43-44-116_com.android.chrome.jpg)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-20-21-43-52-639_com.android.chrome.jpg)
 
 Chatcpp Image Converter Go Termux Worker 
 
