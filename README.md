@@ -204,13 +204,11 @@ ChatCPP Text Editor Go Termux Android
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260217_131958.jpg)
 
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-20-21-43-07-269_com.android.chrome.jpg)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-22-06-18-41-218_mark.via.jpg)
 
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-20-21-43-30-238_com.android.chrome.jpg)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-22-06-18-49-431_mark.via.jpg)
 
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-20-21-43-44-116_com.android.chrome.jpg)
-
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-20-21-43-52-639_com.android.chrome.jpg)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-22-06-19-18-487_mark.via.jpg)
 
 Chatcpp Image Converter Go Termux Worker 
 
