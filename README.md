@@ -188,9 +188,11 @@ ChatCPP Faster Whisper Worker
 
 ChatCPP Engine Terminal Panel
 
+ChatCPP Stability AI Pipeline Downloader Worker
+
 ChatCPP Stability AI Pipeline Loader Worker
 
-ChatCPP Stability AI Pipeline Downloader Worker
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-27%20124641.png)
 
 ChatCPP Image Converter Worker Go (Windows, Linux, Termux Android, Mac OS)
 
