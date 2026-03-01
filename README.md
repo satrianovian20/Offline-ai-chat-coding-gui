@@ -198,6 +198,10 @@ ChatCPP Stability AI Pipeline Downloader Worker Go (Windows, Linux, Termux Andro
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-28%20175939.png)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-03-01%20084549.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-03-01%20084612.png)
+
 ChatCPP Stability AI Pipeline Loader Worker
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-27%20124641.png)
