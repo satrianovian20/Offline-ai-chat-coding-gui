@@ -413,8 +413,6 @@ ChatCPP Argos Manager Engine
 
 ChatCPP Whisper Worker
 
-Get it here 👉 [Kilashare](https://kilashare.blogspot.com/2026/01/chatcpp-whisper-worker.html)
-
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-01%20091012.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-09%20172132.png)
@@ -431,8 +429,6 @@ ChatCPP Translator (Ttkbootstrap Edition)
 
 
 ChatCPP Translator (Pywebview Edition)
-
-Get it here 👉 [Kilashare](https://kilashare.blogspot.com/2026/02/chatcpp-translator-pywebview-gui.html)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-11%20133351.png)
 
@@ -452,8 +448,6 @@ ChatCPP Translator (FastAPI Edition)
 
 
 ChatCPP Llama MultiCode Editor (Tkinter Edition)
-
-Get it here 👉 [Kilashare](https://kilashare.blogspot.com/2025/11/chatcpp-llama-multicode-editor-tkinter.html)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-10%20115723.png)
 
@@ -522,8 +516,6 @@ ChatCPP Chatbot Tkinter MultiChat AI GUI
 ChatCPP Chatbot Tkinter Multimodal AI GUI
 
 ChatCPP Phask (Flask + Php) Multichat AI WebUI
-
-Get it here 👉 [Kilashare](https://kilashare.blogspot.com/2025/09/llamacpp-server-multichat-flask-webui-v3.html)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-01-05%20191526.png)
 
