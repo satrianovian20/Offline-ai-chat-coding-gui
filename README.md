@@ -103,51 +103,6 @@ Thank you so much for your support! 🙏
 
 -------------------------------------------
 
-# 📌 Model AI yang sudah diuji / Tested AI Model
-
-| No | Nama Model GGUF                                | Ukuran Quant | RAM/VRAM/CPU yang Digunakan         | OS & Kondisi Tambahan                                    | Status GUI            |
-|----|------------------------------------------------|--------------|----------------------------|---------------------------------------------------------|-----------------------|
-| 1  | luna-ai-llama2-uncensored.Q4_0.gguf            | Q4_0         | ±11.6 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + music & anime video | Stable & Smooth       |
-| 2  | Meta-Llama-3-8B-Instruct.Q8_0.gguf             | Q8_0         | ±10.8 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + music & anime video | Stable & Smooth       |
-| 3  | WizardLM-13B-Uncensored.Q5_K_M.gguf            | Q5_K_M       | 12.6 GB of 16 GB           | Windows 11 pro 24H2 + Office 2024                       | Tested + Stable & Smooth |
-| 4  | wizardcoder-python-13b-v1.0.Q5_K_M.gguf        | Q5_K_M       | 12.6 GB of 16 GB           | Windows 11 pro 24H2 + Office 2024                       | Tested + Stable & Smooth |
-| 5  | deepseek-coder-7b-instruct-v1.5-Q8_0.gguf      | Q8_0         | 10.8 GB of 16GB            | Windows 11 pro 24H2 + Office 2024                       | Stable & Smooth       |
-| 6  | deepseek-coder-1.3b-instruct.Q4_0.gguf         | Q4_0         | 4 GB of 16GB               | Windows 11 pro 24H2 + Office 2024                       | Stable & Smooth       |
-| 7  | codellama-13b.Q6_K.gguf                        | Q6_K         | ≤15.4 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++  | Stable & Smooth       |
-| 8 | starcoder2-15b-Q5_K_M (1).gguf                 | Q5_K_M       | ≤15.5 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++  | Stable & Smooth       |
-| 9 | DeepSeek-Coder-V2-Lite-Instruct-Q5_K_M.gguf    | Q5_K_M       | ≤15.5 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++  | Stable & Smooth       |
-| 10 | Llama-3-16B.Q5_K_M.gguf                        | Q5_K_M       | ≤15.5 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad++  | Stable & Smooth       |
-| 11 | orcamaidxl-17b-32k.Q5_K_M.gguf                 | Q5_K_M       | ≤15.5 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome              | Stable & Smooth       |
-| 12 | llava-v1.5-13b-Q8_0.gguf + mmproj                       | Q8_0         | ≤15.5 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Notepad++ | Stable & Smooth |
-| 13 | InternVL3-8B-Instruct-UD-Q8_K_XL.gguf          | Q8_K_XL      | ≤14.2 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Notepad++ | Stable & Smooth |
-| 14 | InternVL3-14B-Instruct-Q6_K_XL.gguf               | Q6_K_XL         | ≤15.5 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Notepad++ | Stable & Smooth |
-| 15 | mradermacher-InternVL3.5-14BQ6_K.gguf + mmproj               | Q6_K         | ≤15.5 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 16 | mradermacher-InternVL3_5-8BQ8_0.gguf + mmproj               | Q8_0         | ≤14.5 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 17 | Mistral-Small-3.2-24B-Instruct-2506-UD-Q4_K_XL.gguf + mmproj               | Q4_K_XL         | ≤15.7 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 18 | Codestral-22B-v01-Q4_K_M.gguf               | Q4_K_M         | ≤15.7 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 19 | Codestral-RAG-19B-Pruned-Q5_K_M.gguf               | Q5_K_M         | ≤15.7 GB of 16GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 20 | anything-v4.5-pruned-fp16.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 21 | DreamShaper_8_pruned.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 22 | realisticVisionV60B1_v51VAE.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 23 | level4_v50BakedVAEFp16.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 24 | majicmixRealistic_v7.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 25 | MeinaPastelV2-bakedVAE-pruned.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 26 | meinamix_v12Final.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 27 | realisticVisionV60B1_v60B1VAE.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 28 | Anything-v4.5-pruned-mergedVae.safetensors.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 29 | counterfeitV30_v30.safetensors               | SD 1.5 + FP16         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 30 | AnythingXL_xl.safetensors               | SD XL + FP16         | Intel I5-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 31 | realvisxlV50_v50Bakedvae.safetensors               | SD XL + FP16         | Intel I5-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 32 | dreamshaperXL_alpha2Xl10.safetensors               | SD XL + FP16         | Intel I5-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 33 | aniverseXL_v40.safetensors               | SD XL + FP16         | Intel I5-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 33 | aniversePonyXL_v60.safetensors               | SD XL + FP16         | Intel I5-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 34 | animagineXLV31_v31.safetensors               | SD XL + FP16         | Intel I5-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 35 | hyper3dHighlyDetailed3D_v1.safetensors               | SD XL + FP16         | Intel I5-9400F           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 36 | counterfeitV30_v30.safetensors               | SD 1.5 + FP32         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-| 37 | revAnimated_v2RebirthVAE.safetensors               | SD 1.5 + FP32         | ≤4 GB of 4GB           | Windows 11 pro 24H2 + Office 2024 + Chrome + Notepad + Sublime text | Stable & Smooth |
-
--------------------------------------------
-
 # Portfolio Showcase (Full Production Ready & R&D Lineage)
 # 📸 Screenshot:
 
