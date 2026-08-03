@@ -192,19 +192,11 @@ ChatCPP Faster Whisper Worker
 
 ChatCPP Engine Terminal Panel
 
-ChatCPP Stability AI Pipeline Downloader Worker Go (Windows, Linux, Termux Android, Mac OS)
+ChatCPP Stability AI Pipeline Downloader Worker (Windows, Linux, Termux Android, Mac OS)
 
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-27%20153900.png)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-02%20181714.png)
 
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-27%20154628.png)
-
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-28%20175015.png)
-
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-28%20175939.png)
-
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-03-01%20084549.png)
-
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-03-01%20084612.png)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-02%20181724.png)
 
 ChatCPP Stability AI Pipeline Loader Worker
 
@@ -216,7 +208,7 @@ ChatCPP Image Converter Worker Go (Windows, Linux, Termux Android, Mac OS)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260215_091911.jpg)
 
-ChatCPP Offline HuggingFace Model Loader Worker Go (Windows, Linux, Termux Android, Mac OS)
+ChatCPP Offline HuggingFace Model Loader Worker (Windows, Linux, Termux Android, Mac OS)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-18%20192851.png)
 
@@ -236,17 +228,11 @@ Chatcpp Image Converter Go Termux Worker
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260215_091911.jpg)
 
-Chatcpp Huggingface No Hub Worker Go (Windows, Linux, and Termux Android)
+Chatcpp Huggingface No Hub Worker (Windows, Linux, and Termux Android)
 
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260214_065920.jpg)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-03%20090212.png)
 
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260214_072943.jpg)
-
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-14%20104949.png)
-
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-14%20111739.png)
-
-![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-14%20123104.png)
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-03%20090238.png)
 
 Chatcpp Huggingface No Hub Termux Worker GO (Termux Android Edition)
 
@@ -452,6 +438,8 @@ ChatCPP Translator (FastAPI Edition)
 
 
 ChatCPP Llama MultiCode Editor (Tkinter Edition)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-07-23%20155956.png)
 
 ChatCPP LlamArgos Tkinter GUI
 
