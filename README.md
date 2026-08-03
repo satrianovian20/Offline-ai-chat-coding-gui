@@ -202,7 +202,7 @@ ChatCPP Stability AI Pipeline Loader Worker
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-27%20124641.png)
 
-ChatCPP Image Converter Worker Go (Windows, Linux, Termux Android, Mac OS)
+ChatCPP Image Converter Worker (Windows, Linux, Termux Android, Mac OS)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-18%20212250.png)
 
