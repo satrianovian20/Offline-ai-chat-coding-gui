@@ -169,7 +169,7 @@ ChatCPP Offline HuggingFace Model Loader Worker (Windows, Linux, Termux Android,
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-18%20194926.png)
 
-ChatCPP Text Editor Go Termux Android
+ChatCPP Text Editor Termux Android
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260217_131958.jpg)
 
@@ -179,17 +179,19 @@ ChatCPP Text Editor Go Termux Android
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-02-22-06-19-18-487_mark.via.jpg)
 
-Chatcpp Image Converter Go Termux Worker 
+Chatcpp Image Converter Termux Worker 
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260215_091911.jpg)
 
-Chatcpp Huggingface No Hub Worker (Windows, Linux, and Termux Android)
+Chatcpp Huggingface No Hub Worker (Windows, Linux, and Termux Android) 
+
+Get it here 👉 [Kilashare](https://kilashare.blogspot.com/2026/08/chatcpp-huggingface-downloader.html)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-03%20090212.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-03%20090238.png)
 
-Chatcpp Huggingface No Hub Termux Worker GO (Termux Android Edition)
+Chatcpp Huggingface No Hub Termux Worker (Termux Android Edition)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/IMG_20260213_160601.jpg)
 
