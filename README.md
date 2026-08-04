@@ -80,7 +80,6 @@ Don’t forget to ⭐ if this project made your CPU smile 😄
 ## 💖 Dukung Proyek Ini
 
 Jika kamu merasa proyek ini bermanfaat dan ingin mendukung pengembangannya, kamu bisa berdonasi melalui:
-👉 Untuk mendapatkan source code & file GUI:
 
 - 💸 [Saweria](https://saweria.co/satrianovian20)
 - ☕ [PayPal](https://www.paypal.com/paypalme/satrianovian)
@@ -93,7 +92,7 @@ Terima kasih banyak atas dukungannya! 🙏
 
 ## 💖 Support This Project
 If this project helped you and you'd like to support its development, you can donate via:
-👉 To get the source code, you can donate via:
+
 
 - 💸 [Saweria](https://saweria.co/satrianovian20)
 - ☕ [PayPal](https://www.paypal.com/paypalme/satrianovian)
