@@ -132,6 +132,10 @@ Chatcpp Modelscope Loader Worker
 
 Chatcpp Modelscope Downloader Worker
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-01%20165655.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-01%20165709.png)
+
 ChatCPP Audio To Text Generator Worker
 
 ChatCPP Video To Text Generator Worker
