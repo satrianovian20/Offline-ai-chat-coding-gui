@@ -105,14 +105,22 @@ Thank you so much for your support! 🙏
 # Portfolio Showcase (Full Production Ready & R&D Lineage)
 # 📸 Screenshot:
 
-## Installed Portfolio
+## ChatCPP Installed Folder
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-02%20201410.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-02%20201419.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-02%20201428.png)
 
-Sekilashop SAAS Microservice Web-Blog Decoupled
+Kilashare Multi-Storefront Digital Commerce Blog Template
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-24%20115638.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-24%20115701.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-24%20115844.png)
+
+Sekilashop SAAS Microservice Web-Blog Decoupled Template
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-23%20160609.png)
 
@@ -120,7 +128,7 @@ Sekilashop SAAS Microservice Web-Blog Decoupled
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-23%20175343.png)
 
-Sekilashop SAAS Microservice Website
+Sekilashop SAAS Microservice Website Template
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-23%20160853.png)
 
