@@ -122,6 +122,8 @@ Sekilashare  Multi-Storefront Digital Commerce SAAS Web-Blog Decoupled Template
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-27%20122855.png)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-27%20123144.png)
+
 Kilashare Multi-Storefront Digital Commerce Blog Template
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-24%20115638.png)
