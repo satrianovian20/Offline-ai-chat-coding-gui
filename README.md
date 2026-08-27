@@ -150,6 +150,14 @@ Sekilashop SAAS Microservice Website Template
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-23%20175343.png)
 
+Sekilastore Single SAAs Website Template
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-27%20151340.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-27%20151356.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-27%20151416.png)
+
 ChatCPP Template
 
 Get it here 👉 [Kilashare](https://kilashare.blogspot.com/)
