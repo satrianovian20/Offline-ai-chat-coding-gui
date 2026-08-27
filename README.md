@@ -112,6 +112,16 @@ Thank you so much for your support! 🙏
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-02%20201428.png)
 
+Sekilashare  Multi-Storefront Digital Commerce SAAS Web-Blog Decoupled Template
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-25%20203418.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-25%20203456.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-25%20203706.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-27%20122855.png)
+
 Kilashare Multi-Storefront Digital Commerce Blog Template
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-24%20115638.png)
