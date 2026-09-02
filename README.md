@@ -112,6 +112,12 @@ Thank you so much for your support! 🙏
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-02%20201428.png)
 
+ChatCPP LIbrary Python
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-09-02%20150326.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-09-02%20190046.png)
+
 Sekilashare  Multi-Storefront Digital Commerce SAAS Web-Blog Decoupled Template
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-25%20203418.png)
