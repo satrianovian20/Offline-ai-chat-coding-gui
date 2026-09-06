@@ -138,6 +138,8 @@ Kilashare Multi-Storefront Digital Commerce Blog Template
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-24%20115844.png)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-09-06%20132831.png)
+
 Sekilashop SAAS Microservice Web-Blog Decoupled Template
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-23%20160609.png)
@@ -145,6 +147,10 @@ Sekilashop SAAS Microservice Web-Blog Decoupled Template
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-23%20160556.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-23%20175343.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-09-04%20162907.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-09-04%20171347.png)
 
 Sekilashop SAAS Microservice Website Template
 
@@ -156,6 +162,10 @@ Sekilashop SAAS Microservice Website Template
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-23%20175343.png)
 
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-09-04%20162907.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-09-04%20171347.png)
+
 Sekilastore Single SAAs Website Template
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-27%20151340.png)
@@ -163,6 +173,8 @@ Sekilastore Single SAAs Website Template
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-27%20151356.png)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-27%20151416.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-09-05%20113048.png)
 
 ChatCPP Template
 
