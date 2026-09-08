@@ -166,7 +166,7 @@ Sekilashop SAAS Microservice Website Template
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-09-04%20171347.png)
 
-Sekilastore Single SAAs Website Template
+Sekilastore Single SAAS Website Template
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-27%20151340.png)
 
@@ -192,7 +192,7 @@ ChatCPP Multi Engine Worker
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-02-06%20091216.png)
 
-ChatCPP Microsoft OneCore to SAPI TTS Windows APP
+ChatCPP Microsoft OneCore to SAPI TTS Windows Manager APP
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-09-02%20094601.png)
 
