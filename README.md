@@ -118,7 +118,17 @@ ChatCPP LIbrary Python
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-09-02%20190046.png)
 
-Bookilastore  Bookshelf Storefront Digital Commerce SAAS Web-Blog Decoupled Template
+Kilashare EPUB W3C Reader Desktop Get it here 👉 [Kilashare](https://kilashare.blogspot.com/2026/10/kilasshare-epub-w3c-reader.html)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-10-31%20114610.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-10-31%20114628.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-10-31%20114757.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-10-31%20114953.png)
+
+Bookilastore  Bookshelf Storefront Digital Commerce SAAS Web-Blog Decoupled Template Get it here 👉 [Kilashare](https://kilashare.blogspot.com/2026/10/chatcpp-storefront-catalog-ebook.html)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-10-18%20150221.png)
 
