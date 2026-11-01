@@ -118,6 +118,22 @@ ChatCPP LIbrary Python
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-09-02%20190046.png)
 
+Bookilastore  Bookshelf Storefront Digital Commerce SAAS Web-Blog Decoupled Template
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-10-18%20150221.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-10-18%20124532.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-10-18%20124518.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-10-18-15-30-29-552_com.android.chrome.jpg)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-10-18-15-31-07-431_com.android.chrome.jpg)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-10-18-15-31-29-013_com.android.chrome.jpg)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-10-18-15-31-43-633_com.android.chrome.jpg)
+
 Sekilashare  Multi-Storefront Digital Commerce SAAS Web-Blog Decoupled Template
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-08-25%20203418.png)
