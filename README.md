@@ -118,6 +118,18 @@ ChatCPP LIbrary Python
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-09-02%20190046.png)
 
+Kilashare EPUB W3C Reader Desktop Get it here 👉 [Kilashare](https://kilashare.blogspot.com/2026/11/kilashare-epub-w3c-reader-android.html)
+
+[Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-11-10-20-13-41-030_com.aistudio.kilashareepub.rnpxwa.jpg)
+
+[Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-11-09-19-00-59-650_com.aistudio.kilashareepub.rnpxwa.jpg)
+
+[Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-11-09-19-01-48-352_com.aistudio.kilashareepub.rnpxwa.jpg)
+
+[Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-11-09-19-01-07-814_com.aistudio.kilashareepub.rnpxwa.jpg)
+
+[Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-11-09-19-02-45-625_com.aistudio.kilashareepub.rnpxwa.jpg)
+
 Kilashare EPUB W3C Reader Desktop Get it here 👉 [Kilashare](https://kilashare.blogspot.com/2026/10/kilasshare-epub-w3c-reader.html)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-10-31%20114610.png)
