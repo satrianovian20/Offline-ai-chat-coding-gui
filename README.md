@@ -118,6 +118,20 @@ ChatCPP LIbrary Python
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-09-02%20190046.png)
 
+Kilashare Nexus Blogverse 3D Blogger Template Get it here 👉 [Kilashare](https://kilashare.blogspot.com/2026/11/kilashare-nexus-blogverse-3d-blogger.html)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-11-19%20171613.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-11-19%20171423.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-11-19%20123936.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-11-19%20121954.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-11-19%20120409.png)
+
+![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot%202026-11-19%20120333.png)
+
 Kilashare EPUB W3C Reader Desktop Get it here 👉 [Kilashare](https://kilashare.blogspot.com/2026/11/kilashare-epub-w3c-reader-android.html)
 
 ![Screenshot](https://github.com/satrianovian20/Offline-ai-chat-coding-gui/blob/main/doc/Screenshot_2026-11-10-20-13-41-030_com.aistudio.kilashareepub.rnpxwa.jpg)
